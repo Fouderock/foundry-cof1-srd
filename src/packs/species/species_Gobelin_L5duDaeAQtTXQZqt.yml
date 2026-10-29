@@ -2,7 +2,7 @@ _id: L5duDaeAQtTXQZqt
 name: Gobelin
 type: species
 flags: {}
-img: /modules/cof-srd/ui/icons/species/gobelin.webp
+img: /modules/cof-srd/ui/icons/species/gobelin.svg
 effects: []
 _stats:
   coreVersion: '12.343'
@@ -31,7 +31,7 @@ system:
   paths:
   - _id: prfh19GpMEwe1hdo
     name: Voie du gobelin
-    img: /modules/cof-srd/ui/icons/paths/voie-du-gobelin.webp
+    img: /modules/cof-srd/ui/icons/paths/voie-du-gobelin.svg
     sourceId: Compendium.cof-srd.paths.prfh19GpMEwe1hdo
   capacities: []
   racial: ''

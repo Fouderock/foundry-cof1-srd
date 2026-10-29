@@ -22,26 +22,26 @@ system:
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: ltUc5z2hpCZ9v7xz
-      name: Petit pote
+    - _id: AUwvuTORCUGUtkBB
+      name: Don étrange
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-1.webp
-      sourceId: Compendium.cof-srd.capacities.ltUc5z2hpCZ9v7xz
-    - _id: ND8AvxtOWRCvYtvL
-      name: Don occulte
+      sourceId: Compendium.cof-srd.capacities.AUwvuTORCUGUtkBB
+    - _id: AUg8u0sjz10LGRTK
+      name: Le Grand Nez
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-2.webp
-      sourceId: Compendium.cof-srd.capacities.ND8AvxtOWRCvYtvL
-    - _id: 4keZkUYxlZ5leHFf
-      name: Insignifiant
+      sourceId: Compendium.cof-srd.capacities.AUg8u0sjz10LGRTK
+    - _id: CxluVoRQruWVSzge
+      name: Porte-bonheur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-3.webp
-      sourceId: Compendium.cof-srd.capacities.4keZkUYxlZ5leHFf
-    - _id: mT4kGzBLdR0DuJqX
-      name: Merveille technologique
+      sourceId: Compendium.cof-srd.capacities.CxluVoRQruWVSzge
+    - _id: RfWryhZuOkfUWkxM
+      name: Passe-partout
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-4.webp
-      sourceId: Compendium.cof-srd.capacities.mT4kGzBLdR0DuJqX
-    - _id: kbcyrmKIRWG1jfvM
-      name: Bonne nature
+      sourceId: Compendium.cof-srd.capacities.RfWryhZuOkfUWkxM
+    - _id: ha9D6EikEveCfNsF
+      name: Vieux renard
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-5.webp
-      sourceId: Compendium.cof-srd.capacities.kbcyrmKIRWG1jfvM
+      sourceId: Compendium.cof-srd.capacities.ha9D6EikEveCfNsF
   profile: null
   properties:
     profile: false
@@ -49,6 +49,7 @@ system:
     alternative: false
     racial: false
     creature: false
+  species: gnome
 folder: null
 sort: 0
 _key: '!items!e8ZbXmgqaa7ydI8y'

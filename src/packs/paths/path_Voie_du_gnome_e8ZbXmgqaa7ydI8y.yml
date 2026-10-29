@@ -47,7 +47,7 @@ system:
     profile: false
     prestige: false
     alternative: false
-    racial: false
+    racial: true
     creature: false
   species: gnome
 folder: null

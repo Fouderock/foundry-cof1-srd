@@ -23,10 +23,10 @@ system:
   description: >-
     <p>DM</p>
 
-    <p>1d8 à une main @Compendium[cof-srd.items.URC8p7jFy52JmglF]{Ep&eacute;e
+    <p>1d8 à une main @Compendium[cof-srd-fouderock.items.URC8p7jFy52JmglF]{Ep&eacute;e
     b&acirc;tarde},</p>
 
-    <p>1d12 à 2 mains @Compendium[cof-srd.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e
+    <p>1d12 à 2 mains @Compendium[cof-srd-fouderock.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e
     b&acirc;tarde (2M)}</p>
   source: Chroniques Oubliées DRS
   moduleData: {}

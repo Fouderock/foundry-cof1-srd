@@ -22,33 +22,34 @@ system:
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: gimEBBCc3ohFxYfk
-      name: Adaptable
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-1.webp
-      sourceId: Compendium.cof-srd.capacities.gimEBBCc3ohFxYfk
-    - _id: EiZjYWklFIp9xqpv
-      name: Loup parmi les loups
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-2.webp
-      sourceId: Compendium.cof-srd.capacities.EiZjYWklFIp9xqpv
-    - _id: Vz00c2yvNSw05S6v
-      name: Versatile
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-3.webp
-      sourceId: Compendium.cof-srd.capacities.Vz00c2yvNSw05S6v
-    - _id: 0PxTqX07tnuyy6k8
-      name: Increvable
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-4.webp
-      sourceId: Compendium.cof-srd.capacities.0PxTqX07tnuyy6k8
-    - _id: Ka4GSoPLt2oZi8Ax
-      name: Polyvalence
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-5.webp
-      sourceId: Compendium.cof-srd.capacities.Ka4GSoPLt2oZi8Ax
+  - _id: I4IBuHgje8knJ7LS
+    name: Instinct de survie
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-1.webp
+    sourceId: Compendium.cof-srd.capacities.I4IBuHgje8knJ7LS
+  - _id: ttVIMZIOquKVZjYD
+    name: Adaptable
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-2.webp
+    sourceId: Compendium.cof-srd.capacities.ttVIMZIOquKVZjYD
+  - _id: BFaxIpiSUdL5eiG6
+    name: Touche-à-tout
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-3.webp
+    sourceId: Compendium.cof-srd.capacities.BFaxIpiSUdL5eiG6
+  - _id: mYhH7AbsvjZAoL6Q
+    name: Inspiration
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-4.webp
+    sourceId: Compendium.cof-srd.capacities.mYhH7AbsvjZAoL6Q
+  - _id: zS3kncGnZcUxgTmX
+    name: Polyvalence
+    img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-5.webp
+    sourceId: Compendium.cof-srd.capacities.zS3kncGnZcUxgTmX
   profile: null
   properties:
     profile: false
     prestige: false
     alternative: false
-    racial: false
+    racial: true
     creature: false
+  species: humain
 folder: null
 sort: 0
 _key: '!items!Jh9dUJpLAYEu5jUV'

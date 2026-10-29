@@ -22,33 +22,34 @@ system:
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: R5GWaqkhQ9ai9zmt
-      name: Grâce elfique
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-1.webp
-      sourceId: Compendium.cof-srd.capacities.R5GWaqkhQ9ai9zmt
-    - _id: Uc2KvYWHWOjl0XPq
-      name: Talent pour la magie
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-2.webp
-      sourceId: Compendium.cof-srd.capacities.Uc2KvYWHWOjl0XPq
-    - _id: QGHg9Ae4y0lJ20KV
-      name: Force d'âme
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-3.webp
-      sourceId: Compendium.cof-srd.capacities.QGHg9Ae4y0lJ20KV
-    - _id: c3E1BIuGkFStJ1lb
-      name: Immortel
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-4.webp
-      sourceId: Compendium.cof-srd.capacities.c3E1BIuGkFStJ1lb
-    - _id: c7akeD3nYgQw2Nw5
-      name: Supériorité elfique
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-5.webp
-      sourceId: Compendium.cof-srd.capacities.c7akeD3nYgQw2Nw5
+  - _id: sUXXX91KtQhNHuDb
+    name: Lumière des étoiles
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-1.webp
+    sourceId: Compendium.cof-srd.capacities.sUXXX91KtQhNHuDb
+  - _id: e6vy7LDq71SaSQ1o
+    name: Force d'âme
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-2.webp
+    sourceId: Compendium.cof-srd.capacities.e6vy7LDq71SaSQ1o
+  - _id: oa7OxkyPQVf9heOH
+    name: Talent pour la magie
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-3.webp
+    sourceId: Compendium.cof-srd.capacities.oa7OxkyPQVf9heOH
+  - _id: 7wK59GHt814DTOyq
+    name: Immortel
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-4.webp
+    sourceId: Compendium.cof-srd.capacities.7wK59GHt814DTOyq
+  - _id: 4PGB9x43tml4cpUH
+    name: Supériorité elfique
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-5.webp
+    sourceId: Compendium.cof-srd.capacities.4PGB9x43tml4cpUH
   profile: null
   properties:
     profile: false
     prestige: false
     alternative: false
-    racial: false
+    racial: true
     creature: false
+  species: haut-elfe
 folder: null
 sort: 0
 _key: '!items!Ax95ays7Dcw2kDFS'

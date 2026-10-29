@@ -1,0 +1,67 @@
+name: Foulée du vent
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-4.webp
+_id: aNdvEVX0XZ1isgdG
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: foulee-du-vent
+  description: <h1>Description</h1><p><strong>Coût :</strong> 2 pts de voie · <strong>Accès :</strong> Niveau 3</p><p>L'elfe effectue une attaque (au contact ou à distance).</p><p>Que l'attaque touche ou non, il peut immédiatement effectuer un déplacement gratuit (jusqu'à sa vitesse de base) sans déclencher d'attaque d'opportunité de la part de ses adversaires.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!aNdvEVX0XZ1isgdG'

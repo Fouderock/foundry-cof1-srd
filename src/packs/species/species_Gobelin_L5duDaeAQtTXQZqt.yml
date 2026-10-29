@@ -1,0 +1,44 @@
+_id: L5duDaeAQtTXQZqt
+name: Gobelin
+type: species
+flags: {}
+img: /modules/cof-srd/ui/icons/species/gobelin.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: gobelin
+  description: '<h1>Description</h1><p>Le gobelin est petit, malin et résistant. Il survit là où les autres meurent, vole ce qui brille et vit dans l''ombre des souterrains.</p><h2>Racial</h2><p>+1 DEX, +1 SAG, -2 CHA</p><h2>Voie raciale</h2><p>Voie du gobelin : rang 1 offert à la création, les rangs suivants se paient en points de voie.</p>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  bonuses:
+    str: 0
+    dex: 1
+    con: 0
+    int: 0
+    wis: 1
+    cha: -2
+  paths:
+  - _id: prfh19GpMEwe1hdo
+    name: Voie du gobelin
+    img: /modules/cof-srd/ui/icons/paths/voie-du-gobelin.webp
+    sourceId: Compendium.cof-srd.paths.prfh19GpMEwe1hdo
+  capacities: []
+  racial: ''
+  age: ''
+  longevity: ''
+  height: ''
+  weight: ''
+folder: null
+sort: 0
+_key: '!items!L5duDaeAQtTXQZqt'

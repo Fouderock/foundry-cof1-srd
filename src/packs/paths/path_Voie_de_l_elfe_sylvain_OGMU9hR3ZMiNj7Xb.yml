@@ -22,32 +22,32 @@ system:
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: apdmIhphLKg19a2Q
-      name: Grâce elfique
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-1.webp
-      sourceId: Compendium.cof-srd.capacities.apdmIhphLKg19a2Q
-    - _id: uRLJvutX6UJSlseH
-      name: Enfant de la forêt
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-2.webp
-      sourceId: Compendium.cof-srd.capacities.uRLJvutX6UJSlseH
-    - _id: lG1ORsTkWb7pf2RK
-      name: Archer émérite
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-3.webp
-      sourceId: Compendium.cof-srd.capacities.lG1ORsTkWb7pf2RK
-    - _id: vZAotUVbC9E3mmUh
-      name: Flèche sanglante
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-4.webp
-      sourceId: Compendium.cof-srd.capacities.vZAotUVbC9E3mmUh
-    - _id: PaGGdBAZH2O6HHZu
-      name: Supériorité elfique
-      img: /modules/cof-srd/ui/icons/capacities/voie-de-l-elfe-sylvain-5.webp
-      sourceId: Compendium.cof-srd.capacities.PaGGdBAZH2O6HHZu
+  - _id: hxlWc652pLsnN92y
+    name: Lumière des étoiles
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-1.webp
+    sourceId: Compendium.cof-srd.capacities.hxlWc652pLsnN92y
+  - _id: 9OichPeFnupTJjyc
+    name: Enfant de la forêt
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-2.webp
+    sourceId: Compendium.cof-srd.capacities.9OichPeFnupTJjyc
+  - _id: 7ISgw0v4ylgayc98
+    name: Précision sylvaine
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-3.webp
+    sourceId: Compendium.cof-srd.capacities.7ISgw0v4ylgayc98
+  - _id: aNdvEVX0XZ1isgdG
+    name: Foulée du vent
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-4.webp
+    sourceId: Compendium.cof-srd.capacities.aNdvEVX0XZ1isgdG
+  - _id: Fy8pPvHBsxI1wE1L
+    name: Supériorité elfique
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-5.webp
+    sourceId: Compendium.cof-srd.capacities.Fy8pPvHBsxI1wE1L
   profile: null
   properties:
     profile: false
     prestige: false
     alternative: false
-    racial: false
+    racial: true
     creature: false
   species: elfe-sylvain
 folder: null

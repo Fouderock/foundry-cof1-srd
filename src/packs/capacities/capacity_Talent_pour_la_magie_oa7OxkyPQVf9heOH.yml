@@ -1,0 +1,67 @@
+name: Talent pour la magie
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-3.webp
+_id: oa7OxkyPQVf9heOH
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: talent-pour-la-magie-haut-elfe
+  description: <h1>Description</h1><p><strong>Coût :</strong> 1 pt de voie · <strong>Accès :</strong> Niveau 3</p><p>Le joueur choisit au choix :</p><ul><li>Une capacité de rang 1 de n'importe quelle voie de magicien ou d'ensorceleur. Il peut l'utiliser en armure sans pénalité (sauf si la capacité offre un bonus de DEF).</li><li>Une capacité de rang 2, mais ne doit alors porter aucune armure pour lancer le sort.</li></ul>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!oa7OxkyPQVf9heOH'

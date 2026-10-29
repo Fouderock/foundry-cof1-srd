@@ -25,23 +25,23 @@ system:
   - _id: sUXXX91KtQhNHuDb
     name: Lumière des étoiles
     img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-1.webp
-    sourceId: Compendium.cof-srd.capacities.sUXXX91KtQhNHuDb
+    sourceId: Compendium.cof-srd-fouderock.capacities.sUXXX91KtQhNHuDb
   - _id: e6vy7LDq71SaSQ1o
     name: Force d'âme
     img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-2.webp
-    sourceId: Compendium.cof-srd.capacities.e6vy7LDq71SaSQ1o
+    sourceId: Compendium.cof-srd-fouderock.capacities.e6vy7LDq71SaSQ1o
   - _id: oa7OxkyPQVf9heOH
     name: Talent pour la magie
     img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-3.webp
-    sourceId: Compendium.cof-srd.capacities.oa7OxkyPQVf9heOH
+    sourceId: Compendium.cof-srd-fouderock.capacities.oa7OxkyPQVf9heOH
   - _id: 7wK59GHt814DTOyq
     name: Immortel
     img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-4.webp
-    sourceId: Compendium.cof-srd.capacities.7wK59GHt814DTOyq
+    sourceId: Compendium.cof-srd-fouderock.capacities.7wK59GHt814DTOyq
   - _id: 4PGB9x43tml4cpUH
     name: Supériorité elfique
     img: /modules/cof-srd/ui/icons/capacities/voie-du-haut-elfe-5.webp
-    sourceId: Compendium.cof-srd.capacities.4PGB9x43tml4cpUH
+    sourceId: Compendium.cof-srd-fouderock.capacities.4PGB9x43tml4cpUH
   profile: null
   properties:
     profile: false

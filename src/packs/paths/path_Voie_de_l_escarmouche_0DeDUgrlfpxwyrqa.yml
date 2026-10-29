@@ -25,23 +25,23 @@ system:
     - _id: nxoveqJ1N9iGaLKD
       name: Chasseur émérite
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-1.webp
-      sourceId: Compendium.cof-srd.capacities.nxoveqJ1N9iGaLKD
+      sourceId: Compendium.cof-srd-fouderock.capacities.nxoveqJ1N9iGaLKD
     - _id: J3Pa2FtGk88IGkmT
       name: Traquenard
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-2.webp
-      sourceId: Compendium.cof-srd.capacities.J3Pa2FtGk88IGkmT
+      sourceId: Compendium.cof-srd-fouderock.capacities.J3Pa2FtGk88IGkmT
     - _id: R13feAYm12KYBNYe
       name: Attaque éclair
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-3.webp
-      sourceId: Compendium.cof-srd.capacities.R13feAYm12KYBNYe
+      sourceId: Compendium.cof-srd-fouderock.capacities.R13feAYm12KYBNYe
     - _id: wDNlJgp4jf8aBeDT
       name: Repli
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-4.webp
-      sourceId: Compendium.cof-srd.capacities.wDNlJgp4jf8aBeDT
+      sourceId: Compendium.cof-srd-fouderock.capacities.wDNlJgp4jf8aBeDT
     - _id: Ca1WmWxnZi2z3jAh
       name: Dextérité héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-escarmouche-5.webp
-      sourceId: Compendium.cof-srd.capacities.Ca1WmWxnZi2z3jAh
+      sourceId: Compendium.cof-srd-fouderock.capacities.Ca1WmWxnZi2z3jAh
   profile: null
   properties:
     profile: false

@@ -25,23 +25,23 @@ system:
     - _id: tnSOKKqdaotaACeO
       name: Robustesse
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-1.webp
-      sourceId: Compendium.cof-srd.capacities.tnSOKKqdaotaACeO
+      sourceId: Compendium.cof-srd-fouderock.capacities.tnSOKKqdaotaACeO
     - _id: jVLOMgwVnOyei2xM
       name: Armure naturelle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-2.webp
-      sourceId: Compendium.cof-srd.capacities.jVLOMgwVnOyei2xM
+      sourceId: Compendium.cof-srd-fouderock.capacities.jVLOMgwVnOyei2xM
     - _id: UcIUa0em7sv6q4wo
       name: Second souffle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-3.webp
-      sourceId: Compendium.cof-srd.capacities.UcIUa0em7sv6q4wo
+      sourceId: Compendium.cof-srd-fouderock.capacities.UcIUa0em7sv6q4wo
     - _id: bQMj3gpFKOH1rmzK
       name: Dur à cuire
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-4.webp
-      sourceId: Compendium.cof-srd.capacities.bQMj3gpFKOH1rmzK
+      sourceId: Compendium.cof-srd-fouderock.capacities.bQMj3gpFKOH1rmzK
     - _id: f4defUW682Hdas8j
       name: Constitution héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-resistance-5.webp
-      sourceId: Compendium.cof-srd.capacities.f4defUW682Hdas8j
+      sourceId: Compendium.cof-srd-fouderock.capacities.f4defUW682Hdas8j
   profile: null
   properties:
     profile: false

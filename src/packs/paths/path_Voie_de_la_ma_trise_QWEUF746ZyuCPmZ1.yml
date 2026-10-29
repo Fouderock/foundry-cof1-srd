@@ -25,23 +25,23 @@ system:
     - _id: eMEF3PelM8PydA6w
       name: Esquive du singe
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-1.webp
-      sourceId: Compendium.cof-srd.capacities.eMEF3PelM8PydA6w
+      sourceId: Compendium.cof-srd-fouderock.capacities.eMEF3PelM8PydA6w
     - _id: Ova6s3GFDQ6wMADC
       name: Morsure du serpent
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-2.webp
-      sourceId: Compendium.cof-srd.capacities.Ova6s3GFDQ6wMADC
+      sourceId: Compendium.cof-srd-fouderock.capacities.Ova6s3GFDQ6wMADC
     - _id: cOWYcwEhRmOHTiXS
       name: Griffes du tigre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-3.webp
-      sourceId: Compendium.cof-srd.capacities.cOWYcwEhRmOHTiXS
+      sourceId: Compendium.cof-srd-fouderock.capacities.cOWYcwEhRmOHTiXS
     - _id: fMjZcLhVS8fB95or
       name: Fureur du dragon
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-4.webp
-      sourceId: Compendium.cof-srd.capacities.fMjZcLhVS8fB95or
+      sourceId: Compendium.cof-srd-fouderock.capacities.fMjZcLhVS8fB95or
     - _id: hS8f1FGvwGLvh7Is
       name: Moment de perfection
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-maitrise-5.webp
-      sourceId: Compendium.cof-srd.capacities.hS8f1FGvwGLvh7Is
+      sourceId: Compendium.cof-srd-fouderock.capacities.hS8f1FGvwGLvh7Is
   profile: null
   properties:
     profile: false

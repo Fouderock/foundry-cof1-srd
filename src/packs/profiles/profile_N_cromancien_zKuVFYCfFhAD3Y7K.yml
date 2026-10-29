@@ -36,23 +36,23 @@ system:
     - _id: uD7KSACQFxGBGTxL
       name: Voie de l'outre-tombe
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-outre-tombe.webp
-      sourceId: Compendium.cof-srd.paths.uD7KSACQFxGBGTxL
+      sourceId: Compendium.cof-srd-fouderock.paths.uD7KSACQFxGBGTxL
     - _id: yWiDuKdX6rZws3vL
       name: Voie de la mort
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-mort.webp
-      sourceId: Compendium.cof-srd.paths.yWiDuKdX6rZws3vL
+      sourceId: Compendium.cof-srd-fouderock.paths.yWiDuKdX6rZws3vL
     - _id: f8XOdvzgs0F6d1UR
       name: Voie de la sombre magie
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-sombre-magie.webp
-      sourceId: Compendium.cof-srd.paths.f8XOdvzgs0F6d1UR
+      sourceId: Compendium.cof-srd-fouderock.paths.f8XOdvzgs0F6d1UR
     - _id: 2NRcmGCRxpOEPgOA
       name: Voie du démon
       img: /modules/cof-srd/ui/icons/paths/voie-du-demon.webp
-      sourceId: Compendium.cof-srd.paths.2NRcmGCRxpOEPgOA
+      sourceId: Compendium.cof-srd-fouderock.paths.2NRcmGCRxpOEPgOA
     - _id: SIHhpVjjLD8IMvdn
       name: Voie du sang
       img: /modules/cof-srd/ui/icons/paths/voie-du-sang.webp
-      sourceId: Compendium.cof-srd.paths.SIHhpVjjLD8IMvdn
+      sourceId: Compendium.cof-srd-fouderock.paths.SIHhpVjjLD8IMvdn
   proficiencies:
     daggers: false
     swords: false

@@ -31,23 +31,23 @@ system:
     - _id: HYiA0gGLrZnJYtc5
       name: Expertise
       img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-1.webp
-      sourceId: Compendium.cof-srd.capacities.HYiA0gGLrZnJYtc5
+      sourceId: Compendium.cof-srd-fouderock.capacities.HYiA0gGLrZnJYtc5
     - _id: q4ZWEcFw6A7E8jHI
       name: Capacité signature
       img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-2.webp
-      sourceId: Compendium.cof-srd.capacities.q4ZWEcFw6A7E8jHI
+      sourceId: Compendium.cof-srd-fouderock.capacities.q4ZWEcFw6A7E8jHI
     - _id: 47nmq3232GwbuaT2
       name: Capacité supérieure
       img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-3.webp
-      sourceId: Compendium.cof-srd.capacities.47nmq3232GwbuaT2
+      sourceId: Compendium.cof-srd-fouderock.capacities.47nmq3232GwbuaT2
     - _id: 9RWxKr4N4zaQhkeZ
       name: Caractéristique fabuleuse
       img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-4.webp
-      sourceId: Compendium.cof-srd.capacities.9RWxKr4N4zaQhkeZ
+      sourceId: Compendium.cof-srd-fouderock.capacities.9RWxKr4N4zaQhkeZ
     - _id: gvFk06juTnKzgUpe
       name: Capacité fabuleuse
       img: /modules/cof-srd/ui/icons/capacities/voie-de-prestige-specialisee-5.webp
-      sourceId: Compendium.cof-srd.capacities.gvFk06juTnKzgUpe
+      sourceId: Compendium.cof-srd-fouderock.capacities.gvFk06juTnKzgUpe
   profile: null
   properties:
     profile: false

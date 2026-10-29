@@ -25,15 +25,15 @@ system:
     - _id: 42vDMEDNvy6KKgum
       name: Attaque mortelle
       img: /modules/cof-srd/ui/icons/capacities/voie-du-tueur-1.webp
-      sourceId: Compendium.cof-srd.capacities.42vDMEDNvy6KKgum
+      sourceId: Compendium.cof-srd-fouderock.capacities.42vDMEDNvy6KKgum
     - _id: fw5ZtzmGC1NKANaS
       name: Disparition
       img: /modules/cof-srd/ui/icons/capacities/voie-du-tueur-2.webp
-      sourceId: Compendium.cof-srd.capacities.fw5ZtzmGC1NKANaS
+      sourceId: Compendium.cof-srd-fouderock.capacities.fw5ZtzmGC1NKANaS
     - _id: d7wB97SToGxnaWJy
       name: Assassinat
       img: /modules/cof-srd/ui/icons/capacities/voie-du-tueur-3.webp
-      sourceId: Compendium.cof-srd.capacities.d7wB97SToGxnaWJy
+      sourceId: Compendium.cof-srd-fouderock.capacities.d7wB97SToGxnaWJy
   profile: null
   properties:
     profile: false

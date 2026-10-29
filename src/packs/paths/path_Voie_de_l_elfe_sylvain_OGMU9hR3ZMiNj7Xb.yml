@@ -25,23 +25,23 @@ system:
   - _id: hxlWc652pLsnN92y
     name: Lumière des étoiles
     img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-1.webp
-    sourceId: Compendium.cof-srd.capacities.hxlWc652pLsnN92y
+    sourceId: Compendium.cof-srd-fouderock.capacities.hxlWc652pLsnN92y
   - _id: 9OichPeFnupTJjyc
     name: Enfant de la forêt
     img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-2.webp
-    sourceId: Compendium.cof-srd.capacities.9OichPeFnupTJjyc
+    sourceId: Compendium.cof-srd-fouderock.capacities.9OichPeFnupTJjyc
   - _id: 7ISgw0v4ylgayc98
     name: Précision sylvaine
     img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-3.webp
-    sourceId: Compendium.cof-srd.capacities.7ISgw0v4ylgayc98
+    sourceId: Compendium.cof-srd-fouderock.capacities.7ISgw0v4ylgayc98
   - _id: aNdvEVX0XZ1isgdG
     name: Foulée du vent
     img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-4.webp
-    sourceId: Compendium.cof-srd.capacities.aNdvEVX0XZ1isgdG
+    sourceId: Compendium.cof-srd-fouderock.capacities.aNdvEVX0XZ1isgdG
   - _id: Fy8pPvHBsxI1wE1L
     name: Supériorité elfique
     img: /modules/cof-srd/ui/icons/capacities/voie-du-elfe-sylvain-5.webp
-    sourceId: Compendium.cof-srd.capacities.Fy8pPvHBsxI1wE1L
+    sourceId: Compendium.cof-srd-fouderock.capacities.Fy8pPvHBsxI1wE1L
   profile: null
   properties:
     profile: false

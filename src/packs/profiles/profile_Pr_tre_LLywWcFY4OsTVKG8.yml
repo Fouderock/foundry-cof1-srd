@@ -31,23 +31,23 @@ system:
     - _id: JapFMdsUhcoKyqSK
       name: Voie de la foi
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-foi.webp
-      sourceId: Compendium.cof-srd.paths.JapFMdsUhcoKyqSK
+      sourceId: Compendium.cof-srd-fouderock.paths.JapFMdsUhcoKyqSK
     - _id: U0cH2vLItLdGLtaT
       name: Voie de la guerre sainte
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre-sainte.webp
-      sourceId: Compendium.cof-srd.paths.U0cH2vLItLdGLtaT
+      sourceId: Compendium.cof-srd-fouderock.paths.U0cH2vLItLdGLtaT
     - _id: fevBHIK43BNZ94fG
       name: Voie de la prière
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-priere.webp
-      sourceId: Compendium.cof-srd.paths.fevBHIK43BNZ94fG
+      sourceId: Compendium.cof-srd-fouderock.paths.fevBHIK43BNZ94fG
     - _id: lvdHef01zckRtEL5
       name: Voie de la spiritualité
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-spiritualite.webp
-      sourceId: Compendium.cof-srd.paths.lvdHef01zckRtEL5
+      sourceId: Compendium.cof-srd-fouderock.paths.lvdHef01zckRtEL5
     - _id: Rk5M013FMlikBZ3d
       name: Voie des soins
       img: /modules/cof-srd/ui/icons/paths/voie-des-soins.webp
-      sourceId: Compendium.cof-srd.paths.Rk5M013FMlikBZ3d
+      sourceId: Compendium.cof-srd-fouderock.paths.Rk5M013FMlikBZ3d
   proficiencies:
     daggers: false
     swords: false

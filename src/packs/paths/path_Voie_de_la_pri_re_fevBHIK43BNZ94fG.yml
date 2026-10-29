@@ -25,23 +25,23 @@ system:
     - _id: JMNeRt3KjfHpfjqI
       name: Bénédiction
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-1.webp
-      sourceId: Compendium.cof-srd.capacities.JMNeRt3KjfHpfjqI
+      sourceId: Compendium.cof-srd-fouderock.capacities.JMNeRt3KjfHpfjqI
     - _id: jlNRyBHjQt9oX2h9
       name: Destruction des morts-vivants
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-2.webp
-      sourceId: Compendium.cof-srd.capacities.jlNRyBHjQt9oX2h9
+      sourceId: Compendium.cof-srd-fouderock.capacities.jlNRyBHjQt9oX2h9
     - _id: sfgCWCpp6fbwFaxi
       name: Sanctuaire
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-3.webp
-      sourceId: Compendium.cof-srd.capacities.sfgCWCpp6fbwFaxi
+      sourceId: Compendium.cof-srd-fouderock.capacities.sfgCWCpp6fbwFaxi
     - _id: xoNwhL0pqUQ2e8bV
       name: Intervention divine
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-4.webp
-      sourceId: Compendium.cof-srd.capacities.xoNwhL0pqUQ2e8bV
+      sourceId: Compendium.cof-srd-fouderock.capacities.xoNwhL0pqUQ2e8bV
     - _id: MDbMGpU4jxnAOxh1
       name: Sagesse héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-priere-5.webp
-      sourceId: Compendium.cof-srd.capacities.MDbMGpU4jxnAOxh1
+      sourceId: Compendium.cof-srd-fouderock.capacities.MDbMGpU4jxnAOxh1
   profile: null
   properties:
     profile: false

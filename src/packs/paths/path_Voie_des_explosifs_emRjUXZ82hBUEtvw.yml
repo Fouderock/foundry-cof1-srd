@@ -28,23 +28,23 @@ system:
     - _id: I3uAsBAeQcEqBBkT
       name: Chimiste
       img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-1.webp
-      sourceId: Compendium.cof-srd.capacities.I3uAsBAeQcEqBBkT
+      sourceId: Compendium.cof-srd-fouderock.capacities.I3uAsBAeQcEqBBkT
     - _id: 62YdtA7vwnf8311Z
       name: Démolition
       img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-2.webp
-      sourceId: Compendium.cof-srd.capacities.62YdtA7vwnf8311Z
+      sourceId: Compendium.cof-srd-fouderock.capacities.62YdtA7vwnf8311Z
     - _id: GTeAouyQlqganfRW
       name: Poudre puissante
       img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-3.webp
-      sourceId: Compendium.cof-srd.capacities.GTeAouyQlqganfRW
+      sourceId: Compendium.cof-srd-fouderock.capacities.GTeAouyQlqganfRW
     - _id: xkFuyj29dnid5kTx
       name: Piège explosif
       img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-4.webp
-      sourceId: Compendium.cof-srd.capacities.xkFuyj29dnid5kTx
+      sourceId: Compendium.cof-srd-fouderock.capacities.xkFuyj29dnid5kTx
     - _id: FbM1uPNqaOExdcAv
       name: Boulet explosif
       img: /modules/cof-srd/ui/icons/capacities/voie-des-explosifs-5.webp
-      sourceId: Compendium.cof-srd.capacities.FbM1uPNqaOExdcAv
+      sourceId: Compendium.cof-srd-fouderock.capacities.FbM1uPNqaOExdcAv
   profile: null
   properties:
     profile: false

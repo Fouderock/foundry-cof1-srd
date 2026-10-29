@@ -45,23 +45,23 @@ system:
     - _id: YSIFK9d5y0JTTpBN
       name: Voie de l'artilleur
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-artilleur.webp
-      sourceId: Compendium.cof-srd.paths.YSIFK9d5y0JTTpBN
+      sourceId: Compendium.cof-srd-fouderock.paths.YSIFK9d5y0JTTpBN
     - _id: O02Zr9LKVJfB7SX1
       name: Voie de la précision
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-precision.webp
-      sourceId: Compendium.cof-srd.paths.O02Zr9LKVJfB7SX1
+      sourceId: Compendium.cof-srd-fouderock.paths.O02Zr9LKVJfB7SX1
     - _id: emRjUXZ82hBUEtvw
       name: Voie des explosifs
       img: /modules/cof-srd/ui/icons/paths/voie-des-explosifs.webp
-      sourceId: Compendium.cof-srd.paths.emRjUXZ82hBUEtvw
+      sourceId: Compendium.cof-srd-fouderock.paths.emRjUXZ82hBUEtvw
     - _id: QZQj7UpkRT3ILA5J
       name: Voie du champ de bataille
       img: /modules/cof-srd/ui/icons/paths/voie-du-champ-de-bataille.webp
-      sourceId: Compendium.cof-srd.paths.QZQj7UpkRT3ILA5J
+      sourceId: Compendium.cof-srd-fouderock.paths.QZQj7UpkRT3ILA5J
     - _id: IZuzBavavHdcTKVq
       name: Voie du pistolero
       img: /modules/cof-srd/ui/icons/paths/voie-du-pistolero.webp
-      sourceId: Compendium.cof-srd.paths.IZuzBavavHdcTKVq
+      sourceId: Compendium.cof-srd-fouderock.paths.IZuzBavavHdcTKVq
   proficiencies:
     daggers: false
     swords: false

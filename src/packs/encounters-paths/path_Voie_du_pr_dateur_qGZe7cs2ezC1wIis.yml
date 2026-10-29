@@ -28,15 +28,15 @@ system:
     - _id: 2EJCJ4htY4dBgunU
       name: Embuscade
       img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-1.webp
-      sourceId: Compendium.cof-srd.capacities.2EJCJ4htY4dBgunU
+      sourceId: Compendium.cof-srd-fouderock.capacities.2EJCJ4htY4dBgunU
     - _id: Ylbqwh1Sh1I8Sm93
       name: Dévorer
       img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-2.webp
-      sourceId: Compendium.cof-srd.capacities.Ylbqwh1Sh1I8Sm93
+      sourceId: Compendium.cof-srd-fouderock.capacities.Ylbqwh1Sh1I8Sm93
     - _id: VKVYz5W5pR4SSD4r
       name: Gober
       img: /modules/cof-srd/ui/icons/capacities/voie-du-predateur-3.webp
-      sourceId: Compendium.cof-srd.capacities.VKVYz5W5pR4SSD4r
+      sourceId: Compendium.cof-srd-fouderock.capacities.VKVYz5W5pR4SSD4r
   profile: null
   properties:
     profile: false

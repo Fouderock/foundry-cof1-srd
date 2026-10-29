@@ -25,23 +25,23 @@ system:
     - _id: vutRImsIWxHcpV3H
       name: Charmant
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-1.webp
-      sourceId: Compendium.cof-srd.capacities.vutRImsIWxHcpV3H
+      sourceId: Compendium.cof-srd-fouderock.capacities.vutRImsIWxHcpV3H
     - _id: 9KRrlqL8kUAiDFtT
       name: Dentelles et rapière
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-2.webp
-      sourceId: Compendium.cof-srd.capacities.9KRrlqL8kUAiDFtT
+      sourceId: Compendium.cof-srd-fouderock.capacities.9KRrlqL8kUAiDFtT
     - _id: BmFzABQ8KdZIjAMP
       name: Arme secrète
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-3.webp
-      sourceId: Compendium.cof-srd.capacities.BmFzABQ8KdZIjAMP
+      sourceId: Compendium.cof-srd-fouderock.capacities.BmFzABQ8KdZIjAMP
     - _id: cQHQzNJeshvmnOk3
       name: Suggestion
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-4.webp
-      sourceId: Compendium.cof-srd.capacities.cQHQzNJeshvmnOk3
+      sourceId: Compendium.cof-srd-fouderock.capacities.cQHQzNJeshvmnOk3
     - _id: U8PdKWfB0CkRSD2l
       name: Charisme héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-seduction-5.webp
-      sourceId: Compendium.cof-srd.capacities.U8PdKWfB0CkRSD2l
+      sourceId: Compendium.cof-srd-fouderock.capacities.U8PdKWfB0CkRSD2l
   profile: null
   properties:
     profile: false

@@ -25,23 +25,23 @@ system:
     - _id: ieTPVFPnnAqgxI52
       name: Ignorer la douleur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-1.webp
-      sourceId: Compendium.cof-srd.capacities.ieTPVFPnnAqgxI52
+      sourceId: Compendium.cof-srd-fouderock.capacities.ieTPVFPnnAqgxI52
     - _id: MDKVH9163OMGDXHL
       name: Piqûres d'insecte
       img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-2.webp
-      sourceId: Compendium.cof-srd.capacities.MDKVH9163OMGDXHL
+      sourceId: Compendium.cof-srd-fouderock.capacities.MDKVH9163OMGDXHL
     - _id: ckZwiH6rbJxDW9gW
       name: Laissez-le-moi !
       img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-3.webp
-      sourceId: Compendium.cof-srd.capacities.ckZwiH6rbJxDW9gW
+      sourceId: Compendium.cof-srd-fouderock.capacities.ckZwiH6rbJxDW9gW
     - _id: JFbGkc4mKpFRMmHg
       name: Seul contre tous
       img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-4.webp
-      sourceId: Compendium.cof-srd.capacities.JFbGkc4mKpFRMmHg
+      sourceId: Compendium.cof-srd-fouderock.capacities.JFbGkc4mKpFRMmHg
     - _id: QmyeYKoiFxjORWqo
       name: Charisme héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-heros-5.webp
-      sourceId: Compendium.cof-srd.capacities.QmyeYKoiFxjORWqo
+      sourceId: Compendium.cof-srd-fouderock.capacities.QmyeYKoiFxjORWqo
   profile: null
   properties:
     profile: false

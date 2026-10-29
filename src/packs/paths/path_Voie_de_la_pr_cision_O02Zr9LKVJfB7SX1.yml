@@ -25,23 +25,23 @@ system:
     - _id: GCEos6mC5IMn3Uvq
       name: Joli coup !
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-1.webp
-      sourceId: Compendium.cof-srd.capacities.GCEos6mC5IMn3Uvq
+      sourceId: Compendium.cof-srd-fouderock.capacities.GCEos6mC5IMn3Uvq
     - _id: ePxqRGcAxwMUf5te
       name: Tir précis
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-2.webp
-      sourceId: Compendium.cof-srd.capacities.ePxqRGcAxwMUf5te
+      sourceId: Compendium.cof-srd-fouderock.capacities.ePxqRGcAxwMUf5te
     - _id: nWWvXyb0egkW18ac
       name: Défaut dans la cuirasse
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-3.webp
-      sourceId: Compendium.cof-srd.capacities.nWWvXyb0egkW18ac
+      sourceId: Compendium.cof-srd-fouderock.capacities.nWWvXyb0egkW18ac
     - _id: 8nYPQsgpNbIv05hN
       name: Tir parabolique
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-4.webp
-      sourceId: Compendium.cof-srd.capacities.8nYPQsgpNbIv05hN
+      sourceId: Compendium.cof-srd-fouderock.capacities.8nYPQsgpNbIv05hN
     - _id: lx1455mVpgsJPh5N
       name: Tir mortel
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-precision-5.webp
-      sourceId: Compendium.cof-srd.capacities.lx1455mVpgsJPh5N
+      sourceId: Compendium.cof-srd-fouderock.capacities.lx1455mVpgsJPh5N
   profile: null
   properties:
     profile: false

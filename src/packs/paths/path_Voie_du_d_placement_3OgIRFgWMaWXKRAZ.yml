@@ -25,23 +25,23 @@ system:
     - _id: uPkNqyUs4HjlHy9s
       name: Esquive
       img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-1.webp
-      sourceId: Compendium.cof-srd.capacities.uPkNqyUs4HjlHy9s
+      sourceId: Compendium.cof-srd-fouderock.capacities.uPkNqyUs4HjlHy9s
     - _id: KqFeFY7fvU5fkAMO
       name: Chute
       img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-2.webp
-      sourceId: Compendium.cof-srd.capacities.KqFeFY7fvU5fkAMO
+      sourceId: Compendium.cof-srd-fouderock.capacities.KqFeFY7fvU5fkAMO
     - _id: liJjbOVHnv9wcEAP
       name: Acrobaties
       img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-3.webp
-      sourceId: Compendium.cof-srd.capacities.liJjbOVHnv9wcEAP
+      sourceId: Compendium.cof-srd-fouderock.capacities.liJjbOVHnv9wcEAP
     - _id: 1tQeK4pXIse73Px6
       name: Esquive de la magie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-4.webp
-      sourceId: Compendium.cof-srd.capacities.1tQeK4pXIse73Px6
+      sourceId: Compendium.cof-srd-fouderock.capacities.1tQeK4pXIse73Px6
     - _id: bqx5DODlCZcow8IS
       name: Dextérité héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-deplacement-5.webp
-      sourceId: Compendium.cof-srd.capacities.bqx5DODlCZcow8IS
+      sourceId: Compendium.cof-srd-fouderock.capacities.bqx5DODlCZcow8IS
   profile: null
   properties:
     profile: false

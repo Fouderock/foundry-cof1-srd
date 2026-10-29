@@ -25,23 +25,23 @@ system:
     - _id: chYzmjizN0uiEnLj
       name: Réflexes félins
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-1.webp
-      sourceId: Compendium.cof-srd.capacities.chYzmjizN0uiEnLj
+      sourceId: Compendium.cof-srd-fouderock.capacities.chYzmjizN0uiEnLj
     - _id: yveF3cXUZ6zcS7QU
       name: Charge
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-2.webp
-      sourceId: Compendium.cof-srd.capacities.yveF3cXUZ6zcS7QU
+      sourceId: Compendium.cof-srd-fouderock.capacities.yveF3cXUZ6zcS7QU
     - _id: Im7EqfdudoyGJKsP
       name: Enchaînement
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-3.webp
-      sourceId: Compendium.cof-srd.capacities.Im7EqfdudoyGJKsP
+      sourceId: Compendium.cof-srd-fouderock.capacities.Im7EqfdudoyGJKsP
     - _id: uaoj6PeTI1dLyzgA
       name: Déchaînement d'acier
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-4.webp
-      sourceId: Compendium.cof-srd.capacities.uaoj6PeTI1dLyzgA
+      sourceId: Compendium.cof-srd-fouderock.capacities.uaoj6PeTI1dLyzgA
     - _id: 3dY59QKJ6I0AEnrF
       name: Attaque tourbillon
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pourfendeur-5.webp
-      sourceId: Compendium.cof-srd.capacities.3dY59QKJ6I0AEnrF
+      sourceId: Compendium.cof-srd-fouderock.capacities.3dY59QKJ6I0AEnrF
   profile: null
   properties:
     profile: false

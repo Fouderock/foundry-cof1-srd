@@ -38,23 +38,23 @@ system:
     - _id: Y80BPqVI5CtQ6pAJ
       name: Voie de la résistance
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-resistance.webp
-      sourceId: Compendium.cof-srd.paths.Y80BPqVI5CtQ6pAJ
+      sourceId: Compendium.cof-srd-fouderock.paths.Y80BPqVI5CtQ6pAJ
     - _id: RYABLDBUvXrDoa7D
       name: Voie du bouclier
       img: /modules/cof-srd/ui/icons/paths/voie-du-bouclier.webp
-      sourceId: Compendium.cof-srd.paths.RYABLDBUvXrDoa7D
+      sourceId: Compendium.cof-srd-fouderock.paths.RYABLDBUvXrDoa7D
     - _id: F4yU0J2R16bozD0d
       name: Voie du combat
       img: /modules/cof-srd/ui/icons/paths/voie-du-combat.webp
-      sourceId: Compendium.cof-srd.paths.F4yU0J2R16bozD0d
+      sourceId: Compendium.cof-srd-fouderock.paths.F4yU0J2R16bozD0d
     - _id: XsKr4fScowd0tvVU
       name: Voie du maître d'armes
       img: /modules/cof-srd/ui/icons/paths/voie-du-maitre-darmes.webp
-      sourceId: Compendium.cof-srd.paths.XsKr4fScowd0tvVU
+      sourceId: Compendium.cof-srd-fouderock.paths.XsKr4fScowd0tvVU
     - _id: bZFm8QojFRanVzrW
       name: Voie du soldat
       img: /modules/cof-srd/ui/icons/paths/voie-du-soldat.webp
-      sourceId: Compendium.cof-srd.paths.bZFm8QojFRanVzrW
+      sourceId: Compendium.cof-srd-fouderock.paths.bZFm8QojFRanVzrW
   proficiencies:
     daggers: false
     swords: false

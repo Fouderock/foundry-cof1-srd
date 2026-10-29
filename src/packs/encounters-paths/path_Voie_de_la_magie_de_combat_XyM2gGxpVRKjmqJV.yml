@@ -28,15 +28,15 @@ system:
     - _id: izdcR6ApAw8VEfVp
       name: Attaque magique
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-1.webp
-      sourceId: Compendium.cof-srd.capacities.izdcR6ApAw8VEfVp
+      sourceId: Compendium.cof-srd-fouderock.capacities.izdcR6ApAw8VEfVp
     - _id: iqX0NnTraMnO9vJW
       name: Armure magique
       img: systems/cof/ui/icons/capacities/voie-de-la-magie-de-combat-2.webp
-      sourceId: Compendium.cof-srd.capacities.iqX0NnTraMnO9vJW
+      sourceId: Compendium.cof-srd-fouderock.capacities.iqX0NnTraMnO9vJW
     - _id: uHw1JZ9YYP7xRE7q
       name: Déplacement magique
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-combat-3.webp
-      sourceId: Compendium.cof-srd.capacities.uHw1JZ9YYP7xRE7q
+      sourceId: Compendium.cof-srd-fouderock.capacities.uHw1JZ9YYP7xRE7q
   profile: null
   properties:
     profile: false

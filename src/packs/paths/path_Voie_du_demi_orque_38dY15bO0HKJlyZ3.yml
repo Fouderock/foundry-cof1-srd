@@ -25,23 +25,23 @@ system:
   - _id: tG4ucfPcjYxR5buV
     name: Vision dans le noir
     img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-1.webp
-    sourceId: Compendium.cof-srd.capacities.tG4ucfPcjYxR5buV
+    sourceId: Compendium.cof-srd-fouderock.capacities.tG4ucfPcjYxR5buV
   - _id: ZfJPSgrnv7mzt79o
     name: Encaisser
     img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-2.webp
-    sourceId: Compendium.cof-srd.capacities.ZfJPSgrnv7mzt79o
+    sourceId: Compendium.cof-srd-fouderock.capacities.ZfJPSgrnv7mzt79o
   - _id: oxhwESgGtZZ4AVYi
     name: Peintures de guerre (L)
     img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-3.webp
-    sourceId: Compendium.cof-srd.capacities.oxhwESgGtZZ4AVYi
+    sourceId: Compendium.cof-srd-fouderock.capacities.oxhwESgGtZZ4AVYi
   - _id: WrOaZf9RubgcS0lv
     name: Sommeil du guerrier
     img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-4.webp
-    sourceId: Compendium.cof-srd.capacities.WrOaZf9RubgcS0lv
+    sourceId: Compendium.cof-srd-fouderock.capacities.WrOaZf9RubgcS0lv
   - _id: OBo7h42oN6pRkpkJ
     name: Respect silencieux
     img: /modules/cof-srd/ui/icons/capacities/voie-du-demi-orque-5.webp
-    sourceId: Compendium.cof-srd.capacities.OBo7h42oN6pRkpkJ
+    sourceId: Compendium.cof-srd-fouderock.capacities.OBo7h42oN6pRkpkJ
   profile: null
   properties:
     profile: false

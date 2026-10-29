@@ -25,23 +25,23 @@ system:
     - _id: 3xcMFqCIk3WLu7nh
       name: Attaque en finesse
       img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-1.webp
-      sourceId: Compendium.cof-srd.capacities.3xcMFqCIk3WLu7nh
+      sourceId: Compendium.cof-srd-fouderock.capacities.3xcMFqCIk3WLu7nh
     - _id: 8rIERIq3GBfXW0aQ
       name: Esquive fatale
       img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-2.webp
-      sourceId: Compendium.cof-srd.capacities.8rIERIq3GBfXW0aQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.8rIERIq3GBfXW0aQ
     - _id: Nsb3XE910w5z1BCg
       name: Frappe chirurgicale
       img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-3.webp
-      sourceId: Compendium.cof-srd.capacities.Nsb3XE910w5z1BCg
+      sourceId: Compendium.cof-srd-fouderock.capacities.Nsb3XE910w5z1BCg
     - _id: asWadWm8SwCFswus
       name: Ambidextrie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-4.webp
-      sourceId: Compendium.cof-srd.capacities.asWadWm8SwCFswus
+      sourceId: Compendium.cof-srd-fouderock.capacities.asWadWm8SwCFswus
     - _id: QipK5rJXRA4qmHOP
       name: Botte secrète
       img: /modules/cof-srd/ui/icons/capacities/voie-du-spadassin-5.webp
-      sourceId: Compendium.cof-srd.capacities.QipK5rJXRA4qmHOP
+      sourceId: Compendium.cof-srd-fouderock.capacities.QipK5rJXRA4qmHOP
   profile: null
   properties:
     profile: false

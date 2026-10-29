@@ -54,12 +54,12 @@ system:
   - _id: 38dY15bO0HKJlyZ3
     name: Voie du demi-orque
     img: /modules/cof-srd/ui/icons/paths/voie-du-demi-orque.webp
-    sourceId: Compendium.cof-srd.paths.38dY15bO0HKJlyZ3
+    sourceId: Compendium.cof-srd-fouderock.paths.38dY15bO0HKJlyZ3
   capacities:
   - _id: e4bI6a2UWQy9bgDW
     name: Vision dans le noir
     img: /modules/cof-srd/ui/icons/capacities/vision-dans-le-noir.webp
-    sourceId: Compendium.cof-srd.capacities.e4bI6a2UWQy9bgDW
+    sourceId: Compendium.cof-srd-fouderock.capacities.e4bI6a2UWQy9bgDW
   racial: ''
   age: ''
   longevity: ''

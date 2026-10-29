@@ -25,23 +25,23 @@ system:
     - _id: xHb9z8Nw70sErEKq
       name: Argument de taille
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-1.webp
-      sourceId: Compendium.cof-srd.capacities.xHb9z8Nw70sErEKq
+      sourceId: Compendium.cof-srd-fouderock.capacities.xHb9z8Nw70sErEKq
     - _id: QRXRWR5goyFgur2w
       name: Tour de force
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-2.webp
-      sourceId: Compendium.cof-srd.capacities.QRXRWR5goyFgur2w
+      sourceId: Compendium.cof-srd-fouderock.capacities.QRXRWR5goyFgur2w
     - _id: uGMFY4Tgb8GsCuJS
       name: Attaque brutale
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-3.webp
-      sourceId: Compendium.cof-srd.capacities.uGMFY4Tgb8GsCuJS
+      sourceId: Compendium.cof-srd-fouderock.capacities.uGMFY4Tgb8GsCuJS
     - _id: VgCANxVcaaiNcBe0
       name: Briseur d'os
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-4.webp
-      sourceId: Compendium.cof-srd.capacities.VgCANxVcaaiNcBe0
+      sourceId: Compendium.cof-srd-fouderock.capacities.VgCANxVcaaiNcBe0
     - _id: CwiE3a6i0CajS4bE
       name: Force héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-brute-5.webp
-      sourceId: Compendium.cof-srd.capacities.CwiE3a6i0CajS4bE
+      sourceId: Compendium.cof-srd-fouderock.capacities.CwiE3a6i0CajS4bE
   profile: null
   properties:
     profile: false

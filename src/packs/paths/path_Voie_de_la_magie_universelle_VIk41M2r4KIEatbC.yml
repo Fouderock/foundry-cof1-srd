@@ -28,23 +28,23 @@ system:
     - _id: JDz3qsFdh7yMil89
       name: Lumière
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-1.webp
-      sourceId: Compendium.cof-srd.capacities.JDz3qsFdh7yMil89
+      sourceId: Compendium.cof-srd-fouderock.capacities.JDz3qsFdh7yMil89
     - _id: fQ6hm3MbVO1WgabW
       name: Détection de la magie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-2.webp
-      sourceId: Compendium.cof-srd.capacities.fQ6hm3MbVO1WgabW
+      sourceId: Compendium.cof-srd-fouderock.capacities.fQ6hm3MbVO1WgabW
     - _id: 7xgWZUAKdnbFNsUy
       name: Invisibilité
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-3.webp
-      sourceId: Compendium.cof-srd.capacities.7xgWZUAKdnbFNsUy
+      sourceId: Compendium.cof-srd-fouderock.capacities.7xgWZUAKdnbFNsUy
     - _id: 3KDePO61V0dVV9FB
       name: Vol
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-4.webp
-      sourceId: Compendium.cof-srd.capacities.3KDePO61V0dVV9FB
+      sourceId: Compendium.cof-srd-fouderock.capacities.3KDePO61V0dVV9FB
     - _id: i9336EW3nFPKfgMS
       name: Intelligence héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-universelle-5.webp
-      sourceId: Compendium.cof-srd.capacities.i9336EW3nFPKfgMS
+      sourceId: Compendium.cof-srd-fouderock.capacities.i9336EW3nFPKfgMS
   profile: null
   properties:
     profile: false

@@ -39,23 +39,23 @@ system:
     - _id: 94IJzxZ7rFZO1hQL
       name: Voie de la guerre
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre.webp
-      sourceId: Compendium.cof-srd.paths.94IJzxZ7rFZO1hQL
+      sourceId: Compendium.cof-srd-fouderock.paths.94IJzxZ7rFZO1hQL
     - _id: 2pZtlrjRCw6tTMwq
       name: Voie de la noblesse
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-noblesse.webp
-      sourceId: Compendium.cof-srd.paths.2pZtlrjRCw6tTMwq
+      sourceId: Compendium.cof-srd-fouderock.paths.2pZtlrjRCw6tTMwq
     - _id: hLKAcuiV114UVoHe
       name: Voie du cavalier
       img: /modules/cof-srd/ui/icons/paths/voie-du-cavalier.webp
-      sourceId: Compendium.cof-srd.paths.hLKAcuiV114UVoHe
+      sourceId: Compendium.cof-srd-fouderock.paths.hLKAcuiV114UVoHe
     - _id: BMoit94xg6RoVF2T
       name: Voie du héros
       img: /modules/cof-srd/ui/icons/paths/voie-du-heros.webp
-      sourceId: Compendium.cof-srd.paths.BMoit94xg6RoVF2T
+      sourceId: Compendium.cof-srd-fouderock.paths.BMoit94xg6RoVF2T
     - _id: pWvgbzI1CCDWnRWl
       name: Voie du meneur d'homme
       img: /modules/cof-srd/ui/icons/paths/voie-du-meneur-d-homme.webp
-      sourceId: Compendium.cof-srd.paths.pWvgbzI1CCDWnRWl
+      sourceId: Compendium.cof-srd-fouderock.paths.pWvgbzI1CCDWnRWl
   proficiencies:
     daggers: false
     swords: false

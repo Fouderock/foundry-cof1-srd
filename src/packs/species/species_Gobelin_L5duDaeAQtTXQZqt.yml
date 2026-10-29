@@ -32,7 +32,7 @@ system:
   - _id: prfh19GpMEwe1hdo
     name: Voie du gobelin
     img: /modules/cof-srd/ui/icons/paths/voie-du-gobelin.svg
-    sourceId: Compendium.cof-srd.paths.prfh19GpMEwe1hdo
+    sourceId: Compendium.cof-srd-fouderock.paths.prfh19GpMEwe1hdo
   capacities: []
   racial: ''
   age: ''

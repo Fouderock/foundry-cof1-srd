@@ -27,23 +27,23 @@ system:
     - _id: bDw3TjVwuDX5fLlo
       name: Injonction
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-1.webp
-      sourceId: Compendium.cof-srd.capacities.bDw3TjVwuDX5fLlo
+      sourceId: Compendium.cof-srd-fouderock.capacities.bDw3TjVwuDX5fLlo
     - _id: CtQypotgwD2Vt7PA
       name: Sommeil
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-2.webp
-      sourceId: Compendium.cof-srd.capacities.CtQypotgwD2Vt7PA
+      sourceId: Compendium.cof-srd-fouderock.capacities.CtQypotgwD2Vt7PA
     - _id: 3hypo7wzbVgYObAw
       name: Confusion
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-3.webp
-      sourceId: Compendium.cof-srd.capacities.3hypo7wzbVgYObAw
+      sourceId: Compendium.cof-srd-fouderock.capacities.3hypo7wzbVgYObAw
     - _id: zgmJuGtXtMnEtW4t
       name: Amitié
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-4.webp
-      sourceId: Compendium.cof-srd.capacities.zgmJuGtXtMnEtW4t
+      sourceId: Compendium.cof-srd-fouderock.capacities.zgmJuGtXtMnEtW4t
     - _id: VV3GSWOC8y614bxJ
       name: Domination
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-envouteur-5.webp
-      sourceId: Compendium.cof-srd.capacities.VV3GSWOC8y614bxJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.VV3GSWOC8y614bxJ
   profile: null
   properties:
     profile: false

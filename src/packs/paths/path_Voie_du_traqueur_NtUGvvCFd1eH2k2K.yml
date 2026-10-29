@@ -25,23 +25,23 @@ system:
     - _id: kT9XEaiAD3hZilth
       name: Pas de loup
       img: /modules/cof-srd/ui/icons/capacities/voie-du-traqueur-1.webp
-      sourceId: Compendium.cof-srd.capacities.kT9XEaiAD3hZilth
+      sourceId: Compendium.cof-srd-fouderock.capacities.kT9XEaiAD3hZilth
     - _id: dbWIwuOSrgSPMNws
       name: Ennemi juré
       img: /modules/cof-srd/ui/icons/capacities/voie-du-traqueur-2.webp
-      sourceId: Compendium.cof-srd.capacities.dbWIwuOSrgSPMNws
+      sourceId: Compendium.cof-srd-fouderock.capacities.dbWIwuOSrgSPMNws
     - _id: 2ZFxQ76zcAnJnSuW
       name: Embuscade
       img: /modules/cof-srd/ui/icons/capacities/voie-du-traqueur-3.webp
-      sourceId: Compendium.cof-srd.capacities.2ZFxQ76zcAnJnSuW
+      sourceId: Compendium.cof-srd-fouderock.capacities.2ZFxQ76zcAnJnSuW
     - _id: u2biYYrh17P9xoe5
       name: Second ennemi juré
       img: /modules/cof-srd/ui/icons/capacities/voie-du-traqueur-4.webp
-      sourceId: Compendium.cof-srd.capacities.u2biYYrh17P9xoe5
+      sourceId: Compendium.cof-srd-fouderock.capacities.u2biYYrh17P9xoe5
     - _id: Y4OyXQIJ5kzzGpw7
       name: Perception héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-traqueur-5.webp
-      sourceId: Compendium.cof-srd.capacities.Y4OyXQIJ5kzzGpw7
+      sourceId: Compendium.cof-srd-fouderock.capacities.Y4OyXQIJ5kzzGpw7
   profile: null
   properties:
     profile: false

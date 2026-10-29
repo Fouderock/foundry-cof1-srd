@@ -27,23 +27,23 @@ system:
     - _id: K5gDNohxEpPhpO4O
       name: Odorat
       img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-1.webp
-      sourceId: Compendium.cof-srd.capacities.K5gDNohxEpPhpO4O
+      sourceId: Compendium.cof-srd-fouderock.capacities.K5gDNohxEpPhpO4O
     - _id: uN6EKMnRAKNAxLnS
       name: Surveillance
       img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-2.webp
-      sourceId: Compendium.cof-srd.capacities.uN6EKMnRAKNAxLnS
+      sourceId: Compendium.cof-srd-fouderock.capacities.uN6EKMnRAKNAxLnS
     - _id: 5As5nNvNeAWqY9d3
       name: Combat
       img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-3.webp
-      sourceId: Compendium.cof-srd.capacities.5As5nNvNeAWqY9d3
+      sourceId: Compendium.cof-srd-fouderock.capacities.5As5nNvNeAWqY9d3
     - _id: u1ppR7hhVumtfakV
       name: Empathie animale
       img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-4.webp
-      sourceId: Compendium.cof-srd.capacities.u1ppR7hhVumtfakV
+      sourceId: Compendium.cof-srd-fouderock.capacities.u1ppR7hhVumtfakV
     - _id: bNAzgdEfx7M7HXnh
       name: Animal fabuleux
       img: /modules/cof-srd/ui/icons/capacities/voie-du-compagnon-animal-5.webp
-      sourceId: Compendium.cof-srd.capacities.bNAzgdEfx7M7HXnh
+      sourceId: Compendium.cof-srd-fouderock.capacities.bNAzgdEfx7M7HXnh
   profile: null
   properties:
     profile: false

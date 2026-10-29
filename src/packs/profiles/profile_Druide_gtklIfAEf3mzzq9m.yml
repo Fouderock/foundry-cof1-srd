@@ -37,23 +37,23 @@ system:
     - _id: IS8mjVUM4Obb3Wr8
       name: Voie de la nature
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-nature.webp
-      sourceId: Compendium.cof-srd.paths.IS8mjVUM4Obb3Wr8
+      sourceId: Compendium.cof-srd-fouderock.paths.IS8mjVUM4Obb3Wr8
     - _id: 339GSAocwWR4fFns
       name: Voie des animaux
       img: /modules/cof-srd/ui/icons/paths/voie-des-animaux.webp
-      sourceId: Compendium.cof-srd.paths.339GSAocwWR4fFns
+      sourceId: Compendium.cof-srd-fouderock.paths.339GSAocwWR4fFns
     - _id: cCoft8KbLoSohR5E
       name: Voie des végétaux
       img: /modules/cof-srd/ui/icons/paths/voie-des-vegetaux.webp
-      sourceId: Compendium.cof-srd.paths.cCoft8KbLoSohR5E
+      sourceId: Compendium.cof-srd-fouderock.paths.cCoft8KbLoSohR5E
     - _id: 1SO8W2jhhkTYoL7S
       name: Voie du fauve
       img: /modules/cof-srd/ui/icons/paths/voie-du-fauve.webp
-      sourceId: Compendium.cof-srd.paths.1SO8W2jhhkTYoL7S
+      sourceId: Compendium.cof-srd-fouderock.paths.1SO8W2jhhkTYoL7S
     - _id: 8ipQUArFRlAFxiQ5
       name: Voie du protecteur
       img: /modules/cof-srd/ui/icons/paths/voie-du-protecteur.webp
-      sourceId: Compendium.cof-srd.paths.8ipQUArFRlAFxiQ5
+      sourceId: Compendium.cof-srd-fouderock.paths.8ipQUArFRlAFxiQ5
   proficiencies:
     daggers: false
     swords: false

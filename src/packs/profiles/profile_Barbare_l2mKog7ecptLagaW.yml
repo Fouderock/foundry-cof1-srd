@@ -37,23 +37,23 @@ system:
     - _id: 6uXstzF5leuS9DFh
       name: Voie de la brute
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-brute.webp
-      sourceId: Compendium.cof-srd.paths.6uXstzF5leuS9DFh
+      sourceId: Compendium.cof-srd-fouderock.paths.6uXstzF5leuS9DFh
     - _id: U2EUnOzTZhSsjFkb
       name: Voie de la rage
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-rage.webp
-      sourceId: Compendium.cof-srd.paths.U2EUnOzTZhSsjFkb
+      sourceId: Compendium.cof-srd-fouderock.paths.U2EUnOzTZhSsjFkb
     - _id: TlvWwHgtmiS3Sxdv
       name: Voie du pagne
       img: /modules/cof-srd/ui/icons/paths/voie-du-pagne.webp
-      sourceId: Compendium.cof-srd.paths.TlvWwHgtmiS3Sxdv
+      sourceId: Compendium.cof-srd-fouderock.paths.TlvWwHgtmiS3Sxdv
     - _id: qgzNcuncVfXCAZFa
       name: Voie du pourfendeur
       img: /modules/cof-srd/ui/icons/paths/voie-du-pourfendeur.webp
-      sourceId: Compendium.cof-srd.paths.qgzNcuncVfXCAZFa
+      sourceId: Compendium.cof-srd-fouderock.paths.qgzNcuncVfXCAZFa
     - _id: 3oVafXmIif1BNNFW
       name: Voie du primitif
       img: /modules/cof-srd/ui/icons/paths/voie-du-primitif.webp
-      sourceId: Compendium.cof-srd.paths.3oVafXmIif1BNNFW
+      sourceId: Compendium.cof-srd-fouderock.paths.3oVafXmIif1BNNFW
   proficiencies:
     daggers: false
     swords: false

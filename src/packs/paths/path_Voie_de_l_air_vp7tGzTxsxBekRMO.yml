@@ -25,23 +25,23 @@ system:
     - _id: w8NyQjx1hXaf2c6t
       name: Murmures dans le vent
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-1.webp
-      sourceId: Compendium.cof-srd.capacities.w8NyQjx1hXaf2c6t
+      sourceId: Compendium.cof-srd-fouderock.capacities.w8NyQjx1hXaf2c6t
     - _id: xnhPFjVOjMFCuSTa
       name: Sous tension
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-2.webp
-      sourceId: Compendium.cof-srd.capacities.xnhPFjVOjMFCuSTa
+      sourceId: Compendium.cof-srd-fouderock.capacities.xnhPFjVOjMFCuSTa
     - _id: SuAd6wA9T4O4Lp9v
       name: Télékinésie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-3.webp
-      sourceId: Compendium.cof-srd.capacities.SuAd6wA9T4O4Lp9v
+      sourceId: Compendium.cof-srd-fouderock.capacities.SuAd6wA9T4O4Lp9v
     - _id: PKAWWZ52BckvoUDn
       name: Foudre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-4.webp
-      sourceId: Compendium.cof-srd.capacities.PKAWWZ52BckvoUDn
+      sourceId: Compendium.cof-srd-fouderock.capacities.PKAWWZ52BckvoUDn
     - _id: aakWWHYz2eWKDdhC
       name: Forme éthérée
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-air-5.webp
-      sourceId: Compendium.cof-srd.capacities.aakWWHYz2eWKDdhC
+      sourceId: Compendium.cof-srd-fouderock.capacities.aakWWHYz2eWKDdhC
   profile: null
   properties:
     profile: false

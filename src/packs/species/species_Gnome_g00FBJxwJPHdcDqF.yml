@@ -69,12 +69,12 @@ system:
     - _id: e8ZbXmgqaa7ydI8y
       name: Voie du gnome
       img: /modules/cof-srd/ui/icons/paths/voie-du-gnome.webp
-      sourceId: Compendium.cof-srd.paths.e8ZbXmgqaa7ydI8y
+      sourceId: Compendium.cof-srd-fouderock.paths.e8ZbXmgqaa7ydI8y
   capacities:
     - _id: 4iKdozAAfMUAaRvW
       name: Don étrange
       img: /modules/cof-srd/ui/icons/capacities/don-etrange.webp
-      sourceId: Compendium.cof-srd.capacities.4iKdozAAfMUAaRvW
+      sourceId: Compendium.cof-srd-fouderock.capacities.4iKdozAAfMUAaRvW
   racial: ''
   age: ''
   longevity: ''

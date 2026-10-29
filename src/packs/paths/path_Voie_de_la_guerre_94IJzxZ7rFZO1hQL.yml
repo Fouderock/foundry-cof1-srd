@@ -25,23 +25,23 @@ system:
     - _id: kBIzLKbgVKva35UB
       name: Armure sur mesure
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-1.webp
-      sourceId: Compendium.cof-srd.capacities.kBIzLKbgVKva35UB
+      sourceId: Compendium.cof-srd-fouderock.capacities.kBIzLKbgVKva35UB
     - _id: lZt521Shk014HzD2
       name: Encaisser un coup
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-2.webp
-      sourceId: Compendium.cof-srd.capacities.lZt521Shk014HzD2
+      sourceId: Compendium.cof-srd-fouderock.capacities.lZt521Shk014HzD2
     - _id: Ih8EQVvYv6ZLHcpR
       name: Coup de bouclier
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-3.webp
-      sourceId: Compendium.cof-srd.capacities.Ih8EQVvYv6ZLHcpR
+      sourceId: Compendium.cof-srd-fouderock.capacities.Ih8EQVvYv6ZLHcpR
     - _id: RsrpiaWykeotddRJ
       name: Frappe lourde
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-4.webp
-      sourceId: Compendium.cof-srd.capacities.RsrpiaWykeotddRJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.RsrpiaWykeotddRJ
     - _id: agI7yC1KX2ZaidDB
       name: Force héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-5.webp
-      sourceId: Compendium.cof-srd.capacities.agI7yC1KX2ZaidDB
+      sourceId: Compendium.cof-srd-fouderock.capacities.agI7yC1KX2ZaidDB
   profile: null
   properties:
     profile: false

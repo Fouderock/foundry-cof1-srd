@@ -25,23 +25,23 @@ system:
     - _id: gK4ZinhyfSe2XdQ5
       name: Grosse tête
       img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-1.webp
-      sourceId: Compendium.cof-srd.capacities.gK4ZinhyfSe2XdQ5
+      sourceId: Compendium.cof-srd-fouderock.capacities.gK4ZinhyfSe2XdQ5
     - _id: Lgdhsa2pbEclvlEJ
       name: Golem
       img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
-      sourceId: Compendium.cof-srd.capacities.Lgdhsa2pbEclvlEJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.Lgdhsa2pbEclvlEJ
     - _id: TiUSG9RbEkLA7qdM
       name: Protecteur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-3.webp
-      sourceId: Compendium.cof-srd.capacities.TiUSG9RbEkLA7qdM
+      sourceId: Compendium.cof-srd-fouderock.capacities.TiUSG9RbEkLA7qdM
     - _id: nBbEJxE0DBhqmIl0
       name: Golem supérieur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
-      sourceId: Compendium.cof-srd.capacities.nBbEJxE0DBhqmIl0
+      sourceId: Compendium.cof-srd-fouderock.capacities.nBbEJxE0DBhqmIl0
     - _id: 3Dhmja0Tqw5SpXrF
       name: Intelligence héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-5.webp
-      sourceId: Compendium.cof-srd.capacities.3Dhmja0Tqw5SpXrF
+      sourceId: Compendium.cof-srd-fouderock.capacities.3Dhmja0Tqw5SpXrF
   profile: null
   properties:
     profile: false

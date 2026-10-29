@@ -27,15 +27,15 @@ system:
     - _id: Uvrc6BH7PQANxQcd
       name: Charge
       img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-1.webp
-      sourceId: Compendium.cof-srd.capacities.Uvrc6BH7PQANxQcd
+      sourceId: Compendium.cof-srd-fouderock.capacities.Uvrc6BH7PQANxQcd
     - _id: ciXrQGwdrh1LbgyO
       name: Enrager
       img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-2.webp
-      sourceId: Compendium.cof-srd.capacities.ciXrQGwdrh1LbgyO
+      sourceId: Compendium.cof-srd-fouderock.capacities.ciXrQGwdrh1LbgyO
     - _id: mEN45W2ChrWkUaMJ
       name: Percuter
       img: /modules/cof-srd/ui/icons/capacities/voie-du-cogneur-3.webp
-      sourceId: Compendium.cof-srd.capacities.mEN45W2ChrWkUaMJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.mEN45W2ChrWkUaMJ
   profile: null
   properties:
     profile: false

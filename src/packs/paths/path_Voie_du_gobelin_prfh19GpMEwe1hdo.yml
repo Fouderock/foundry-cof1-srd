@@ -25,23 +25,23 @@ system:
   - _id: j127ysqwfEo5pUs9
     name: Lumière des tunnels
     img: /modules/cof-srd/ui/icons/capacities/voie-du-gobelin-1.svg
-    sourceId: Compendium.cof-srd.capacities.j127ysqwfEo5pUs9
+    sourceId: Compendium.cof-srd-fouderock.capacities.j127ysqwfEo5pUs9
   - _id: yVTOK2o1Kf6swS1l
     name: Charogne chanceuse
     img: /modules/cof-srd/ui/icons/capacities/voie-du-gobelin-2.svg
-    sourceId: Compendium.cof-srd.capacities.yVTOK2o1Kf6swS1l
+    sourceId: Compendium.cof-srd-fouderock.capacities.yVTOK2o1Kf6swS1l
   - _id: sk1DN3Oakz1LoCX8
     name: Touche-à-tout
     img: /modules/cof-srd/ui/icons/capacities/voie-du-gobelin-3.svg
-    sourceId: Compendium.cof-srd.capacities.sk1DN3Oakz1LoCX8
+    sourceId: Compendium.cof-srd-fouderock.capacities.sk1DN3Oakz1LoCX8
   - _id: QsESAihaiADTcAD5
     name: Survivant-né
     img: /modules/cof-srd/ui/icons/capacities/voie-du-gobelin-4.svg
-    sourceId: Compendium.cof-srd.capacities.QsESAihaiADTcAD5
+    sourceId: Compendium.cof-srd-fouderock.capacities.QsESAihaiADTcAD5
   - _id: iNQhmoH5L1i7D0EC
     name: Aura de guigne
     img: /modules/cof-srd/ui/icons/capacities/voie-du-gobelin-5.svg
-    sourceId: Compendium.cof-srd.capacities.iNQhmoH5L1i7D0EC
+    sourceId: Compendium.cof-srd-fouderock.capacities.iNQhmoH5L1i7D0EC
   profile: null
   properties:
     profile: false

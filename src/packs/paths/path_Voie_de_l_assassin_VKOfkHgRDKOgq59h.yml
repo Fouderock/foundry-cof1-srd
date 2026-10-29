@@ -25,23 +25,23 @@ system:
     - _id: ZmcZc3JoeSdjuCoz
       name: Discrétion
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-1.webp
-      sourceId: Compendium.cof-srd.capacities.ZmcZc3JoeSdjuCoz
+      sourceId: Compendium.cof-srd-fouderock.capacities.ZmcZc3JoeSdjuCoz
     - _id: kM273cYLNEMWG0Xs
       name: Attaque sournoise
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-2.webp
-      sourceId: Compendium.cof-srd.capacities.kM273cYLNEMWG0Xs
+      sourceId: Compendium.cof-srd-fouderock.capacities.kM273cYLNEMWG0Xs
     - _id: hO3j9irYrnvRA43G
       name: Ombre mouvante
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-3.webp
-      sourceId: Compendium.cof-srd.capacities.hO3j9irYrnvRA43G
+      sourceId: Compendium.cof-srd-fouderock.capacities.hO3j9irYrnvRA43G
     - _id: kJ35VzmEafJY0rhw
       name: Surprise
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-4.webp
-      sourceId: Compendium.cof-srd.capacities.kJ35VzmEafJY0rhw
+      sourceId: Compendium.cof-srd-fouderock.capacities.kJ35VzmEafJY0rhw
     - _id: nrImcCsMn5UFxIfG
       name: Ouverture mortelle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-assassin-5.webp
-      sourceId: Compendium.cof-srd.capacities.nrImcCsMn5UFxIfG
+      sourceId: Compendium.cof-srd-fouderock.capacities.nrImcCsMn5UFxIfG
   profile: null
   properties:
     profile: false

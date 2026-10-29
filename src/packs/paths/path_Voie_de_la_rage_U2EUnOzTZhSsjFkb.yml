@@ -25,23 +25,23 @@ system:
     - _id: 6tw1ED5pJ3eAxlqp
       name: Cri de guerre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-1.webp
-      sourceId: Compendium.cof-srd.capacities.6tw1ED5pJ3eAxlqp
+      sourceId: Compendium.cof-srd-fouderock.capacities.6tw1ED5pJ3eAxlqp
     - _id: YmqXY3AGPENHxCoc
       name: Défier la mort
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-2.webp
-      sourceId: Compendium.cof-srd.capacities.YmqXY3AGPENHxCoc
+      sourceId: Compendium.cof-srd-fouderock.capacities.YmqXY3AGPENHxCoc
     - _id: LK6YWhOPqiJh3N1g
       name: Rage du berserk
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-3.webp
-      sourceId: Compendium.cof-srd.capacities.LK6YWhOPqiJh3N1g
+      sourceId: Compendium.cof-srd-fouderock.capacities.LK6YWhOPqiJh3N1g
     - _id: lTVtMobpz37wKcWA
       name: Même pas mal
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-4.webp
-      sourceId: Compendium.cof-srd.capacities.lTVtMobpz37wKcWA
+      sourceId: Compendium.cof-srd-fouderock.capacities.lTVtMobpz37wKcWA
     - _id: Btk8B8nyMNW916Nh
       name: Furie du berserk
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-rage-5.webp
-      sourceId: Compendium.cof-srd.capacities.Btk8B8nyMNW916Nh
+      sourceId: Compendium.cof-srd-fouderock.capacities.Btk8B8nyMNW916Nh
   profile: null
   properties:
     profile: false

@@ -25,23 +25,23 @@ system:
     - _id: ScRs9wmY8SyFstZH
       name: Sans peur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-1.webp
-      sourceId: Compendium.cof-srd.capacities.ScRs9wmY8SyFstZH
+      sourceId: Compendium.cof-srd-fouderock.capacities.ScRs9wmY8SyFstZH
     - _id: 1OmxC0EeqvrfodHo
       name: Intercepter
       img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-2.webp
-      sourceId: Compendium.cof-srd.capacities.1OmxC0EeqvrfodHo
+      sourceId: Compendium.cof-srd-fouderock.capacities.1OmxC0EeqvrfodHo
     - _id: 0Re0OH26vvGFwqGv
       name: Exemplaire
       img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-3.webp
-      sourceId: Compendium.cof-srd.capacities.0Re0OH26vvGFwqGv
+      sourceId: Compendium.cof-srd-fouderock.capacities.0Re0OH26vvGFwqGv
     - _id: hJyaPWRTElgGAqKs
       name: Ordre de bataille
       img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-4.webp
-      sourceId: Compendium.cof-srd.capacities.hJyaPWRTElgGAqKs
+      sourceId: Compendium.cof-srd-fouderock.capacities.hJyaPWRTElgGAqKs
     - _id: zYQgmO90pQqF7l3W
       name: Charge fantastique
       img: /modules/cof-srd/ui/icons/capacities/voie-du-meneur-d-homme-5.webp
-      sourceId: Compendium.cof-srd.capacities.zYQgmO90pQqF7l3W
+      sourceId: Compendium.cof-srd-fouderock.capacities.zYQgmO90pQqF7l3W
   profile: null
   properties:
     profile: false

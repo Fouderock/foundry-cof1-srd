@@ -65,12 +65,12 @@ system:
     - _id: YfUpen3wrcipZMJo
       name: Voie du halfelin
       img: /modules/cof-srd/ui/icons/paths/voie-du-halfelin.webp
-      sourceId: Compendium.cof-srd.paths.YfUpen3wrcipZMJo
+      sourceId: Compendium.cof-srd-fouderock.paths.YfUpen3wrcipZMJo
   capacities:
     - _id: IdWxLDvigTBQoWg5
       name: Petite taille
       img: /modules/cof-srd/ui/icons/capacities/petite-taille.webp
-      sourceId: Compendium.cof-srd.capacities.IdWxLDvigTBQoWg5
+      sourceId: Compendium.cof-srd-fouderock.capacities.IdWxLDvigTBQoWg5
   racial: ''
   age: ''
   longevity: ''

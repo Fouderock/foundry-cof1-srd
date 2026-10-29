@@ -25,23 +25,23 @@ system:
     - _id: JQ7vgVWZSIrmxaV8
       name: Vêtements sacrés
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-spiritualite-1.webp
-      sourceId: Compendium.cof-srd.capacities.JQ7vgVWZSIrmxaV8
+      sourceId: Compendium.cof-srd-fouderock.capacities.JQ7vgVWZSIrmxaV8
     - _id: DYKnhIGuVDoScxY1
       name: Protection contre le mal
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-spiritualite-2.webp
-      sourceId: Compendium.cof-srd.capacities.DYKnhIGuVDoScxY1
+      sourceId: Compendium.cof-srd-fouderock.capacities.DYKnhIGuVDoScxY1
     - _id: kUzB3kcuqPzZhg0p
       name: Délivrance
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-spiritualite-3.webp
-      sourceId: Compendium.cof-srd.capacities.kUzB3kcuqPzZhg0p
+      sourceId: Compendium.cof-srd-fouderock.capacities.kUzB3kcuqPzZhg0p
     - _id: xI2HbAkiiKHDowMm
       name: Marche des plans
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-spiritualite-4.webp
-      sourceId: Compendium.cof-srd.capacities.xI2HbAkiiKHDowMm
+      sourceId: Compendium.cof-srd-fouderock.capacities.xI2HbAkiiKHDowMm
     - _id: eavjAb354bbBR50u
       name: Messie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-spiritualite-5.webp
-      sourceId: Compendium.cof-srd.capacities.eavjAb354bbBR50u
+      sourceId: Compendium.cof-srd-fouderock.capacities.eavjAb354bbBR50u
   profile: null
   properties:
     profile: false

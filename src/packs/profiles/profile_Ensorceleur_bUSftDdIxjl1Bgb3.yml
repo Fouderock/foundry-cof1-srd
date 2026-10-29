@@ -36,23 +36,23 @@ system:
     - _id: vp7tGzTxsxBekRMO
       name: Voie de l'air
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-air.webp
-      sourceId: Compendium.cof-srd.paths.vp7tGzTxsxBekRMO
+      sourceId: Compendium.cof-srd-fouderock.paths.vp7tGzTxsxBekRMO
     - _id: lZxlgPV96xb0pAaN
       name: Voie de l'envoûteur
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-envouteur.webp
-      sourceId: Compendium.cof-srd.paths.lZxlgPV96xb0pAaN
+      sourceId: Compendium.cof-srd-fouderock.paths.lZxlgPV96xb0pAaN
     - _id: Hl99UYqIJD3iZhDJ
       name: Voie de l'invocation
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-invocation.webp
-      sourceId: Compendium.cof-srd.paths.Hl99UYqIJD3iZhDJ
+      sourceId: Compendium.cof-srd-fouderock.paths.Hl99UYqIJD3iZhDJ
     - _id: iksdg2OihwpoDhfJ
       name: Voie de la divination
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-divination.webp
-      sourceId: Compendium.cof-srd.paths.iksdg2OihwpoDhfJ
+      sourceId: Compendium.cof-srd-fouderock.paths.iksdg2OihwpoDhfJ
     - _id: j0IZ7CeSBm9ggCOl
       name: Voie des illusions
       img: /modules/cof-srd/ui/icons/paths/voie-des-illusions.webp
-      sourceId: Compendium.cof-srd.paths.j0IZ7CeSBm9ggCOl
+      sourceId: Compendium.cof-srd-fouderock.paths.j0IZ7CeSBm9ggCOl
   proficiencies:
     daggers: false
     swords: false

@@ -54,12 +54,12 @@ system:
   - _id: OGMU9hR3ZMiNj7Xb
     name: Voie de l'elfe sylvain
     img: /modules/cof-srd/ui/icons/paths/voie-de-l-elfe-sylvain.webp
-    sourceId: Compendium.cof-srd.paths.OGMU9hR3ZMiNj7Xb
+    sourceId: Compendium.cof-srd-fouderock.paths.OGMU9hR3ZMiNj7Xb
   capacities:
   - _id: dKYtHvoyFmF0Y8g4
     name: Lumière des étoiles
     img: /modules/cof-srd/ui/icons/capacities/lumiere-des-etoiles.webp
-    sourceId: Compendium.cof-srd.capacities.dKYtHvoyFmF0Y8g4
+    sourceId: Compendium.cof-srd-fouderock.capacities.dKYtHvoyFmF0Y8g4
   racial: ''
   age: ''
   longevity: ''

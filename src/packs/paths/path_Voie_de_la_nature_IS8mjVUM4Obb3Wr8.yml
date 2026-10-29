@@ -25,23 +25,23 @@ system:
     - _id: uciBQ8BYpfgp8Jf9
       name: Maître de la survie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-1.webp
-      sourceId: Compendium.cof-srd.capacities.uciBQ8BYpfgp8Jf9
+      sourceId: Compendium.cof-srd-fouderock.capacities.uciBQ8BYpfgp8Jf9
     - _id: vXFa8ARfADUKglNv
       name: Marche sylvestre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-2.webp
-      sourceId: Compendium.cof-srd.capacities.vXFa8ARfADUKglNv
+      sourceId: Compendium.cof-srd-fouderock.capacities.vXFa8ARfADUKglNv
     - _id: FN8zCPCxdt2dDvaH
       name: Résistant
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-3.webp
-      sourceId: Compendium.cof-srd.capacities.FN8zCPCxdt2dDvaH
+      sourceId: Compendium.cof-srd-fouderock.capacities.FN8zCPCxdt2dDvaH
     - _id: fSDrGSxD6RNL74Kd
       name: Bâton de druide
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-4.webp
-      sourceId: Compendium.cof-srd.capacities.fSDrGSxD6RNL74Kd
+      sourceId: Compendium.cof-srd-fouderock.capacities.fSDrGSxD6RNL74Kd
     - _id: jLC8ogwFb4gXX0WY
       name: Constitution héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-nature-5.webp
-      sourceId: Compendium.cof-srd.capacities.jLC8ogwFb4gXX0WY
+      sourceId: Compendium.cof-srd-fouderock.capacities.jLC8ogwFb4gXX0WY
   profile: null
   properties:
     profile: false

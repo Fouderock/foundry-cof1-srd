@@ -25,23 +25,23 @@ system:
     - _id: ttVWGoEx6M7UASf2
       name: Asphyxie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-1.webp
-      sourceId: Compendium.cof-srd.capacities.ttVWGoEx6M7UASf2
+      sourceId: Compendium.cof-srd-fouderock.capacities.ttVWGoEx6M7UASf2
     - _id: V6QPzK0a8Qwpwhdp
       name: Protection contre les éléments
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-2.webp
-      sourceId: Compendium.cof-srd.capacities.V6QPzK0a8Qwpwhdp
+      sourceId: Compendium.cof-srd-fouderock.capacities.V6QPzK0a8Qwpwhdp
     - _id: r6wC1vcP5MaBIJUk
       name: Arme enflammée
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-3.webp
-      sourceId: Compendium.cof-srd.capacities.r6wC1vcP5MaBIJUk
+      sourceId: Compendium.cof-srd-fouderock.capacities.r6wC1vcP5MaBIJUk
     - _id: bclCNtKl8obM9UGr
       name: Respiration aquatique
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-4.webp
-      sourceId: Compendium.cof-srd.capacities.bclCNtKl8obM9UGr
+      sourceId: Compendium.cof-srd-fouderock.capacities.bclCNtKl8obM9UGr
     - _id: gUq5KJuzHHvYoREU
       name: Peau de pierre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-elementaire-5.webp
-      sourceId: Compendium.cof-srd.capacities.gUq5KJuzHHvYoREU
+      sourceId: Compendium.cof-srd-fouderock.capacities.gUq5KJuzHHvYoREU
   profile: null
   properties:
     profile: false

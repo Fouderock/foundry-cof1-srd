@@ -31,23 +31,23 @@ system:
     - _id: ENZELDnQpvTbQ3Sz
       name: Soins légers
       img: icons/magic/life/cross-worn-green.webp
-      sourceId: Compendium.cof-srd.capacities.ENZELDnQpvTbQ3Sz
+      sourceId: Compendium.cof-srd-fouderock.capacities.ENZELDnQpvTbQ3Sz
     - _id: Un6S53LcOYqABNL9
       name: Soins modérés
       img: icons/magic/life/cross-yellow-green.webp
-      sourceId: Compendium.cof-srd.capacities.Un6S53LcOYqABNL9
+      sourceId: Compendium.cof-srd-fouderock.capacities.Un6S53LcOYqABNL9
     - _id: H6OXpJfgfdOzFySV
       name: Soins de groupe
       img: icons/magic/life/crosses-trio-red.webp
-      sourceId: Compendium.cof-srd.capacities.H6OXpJfgfdOzFySV
+      sourceId: Compendium.cof-srd-fouderock.capacities.H6OXpJfgfdOzFySV
     - _id: LDm510DtfhvQrvkq
       name: Guérison
       img: icons/magic/life/heart-shadow-red.webp
-      sourceId: Compendium.cof-srd.capacities.LDm510DtfhvQrvkq
+      sourceId: Compendium.cof-srd-fouderock.capacities.LDm510DtfhvQrvkq
     - _id: itzflH9LDBXARsDK
       name: Rappel à la vie
       img: icons/magic/life/ankh-gold-blue.webp
-      sourceId: Compendium.cof-srd.capacities.itzflH9LDBXARsDK
+      sourceId: Compendium.cof-srd-fouderock.capacities.itzflH9LDBXARsDK
   profile: null
   properties:
     profile: false

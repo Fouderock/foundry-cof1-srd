@@ -32,15 +32,15 @@ system:
     - _id: vTeHAjW97F98ZyPG
       name: Instinct de survie (Creature)
       img: systems/cof/ui/icons/capacities/voie-du-pnj-recurrent-1.webp
-      sourceId: Compendium.cof-srd.capacities.vTeHAjW97F98ZyPG
+      sourceId: Compendium.cof-srd-fouderock.capacities.vTeHAjW97F98ZyPG
     - _id: SjswPW3ZT7ikVyds
       name: Chair à canon
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-2.webp
-      sourceId: Compendium.cof-srd.capacities.SjswPW3ZT7ikVyds
+      sourceId: Compendium.cof-srd-fouderock.capacities.SjswPW3ZT7ikVyds
     - _id: s8iBR0vquttnRaTV
       name: Porteur de poisse
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pnj-recurrent-3.webp
-      sourceId: Compendium.cof-srd.capacities.s8iBR0vquttnRaTV
+      sourceId: Compendium.cof-srd-fouderock.capacities.s8iBR0vquttnRaTV
   profile: null
   properties:
     profile: false

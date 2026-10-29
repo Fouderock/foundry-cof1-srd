@@ -25,23 +25,23 @@ system:
   - _id: I4IBuHgje8knJ7LS
     name: Instinct de survie
     img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-1.webp
-    sourceId: Compendium.cof-srd.capacities.I4IBuHgje8knJ7LS
+    sourceId: Compendium.cof-srd-fouderock.capacities.I4IBuHgje8knJ7LS
   - _id: ttVIMZIOquKVZjYD
     name: Adaptable
     img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-2.webp
-    sourceId: Compendium.cof-srd.capacities.ttVIMZIOquKVZjYD
+    sourceId: Compendium.cof-srd-fouderock.capacities.ttVIMZIOquKVZjYD
   - _id: BFaxIpiSUdL5eiG6
     name: Touche-à-tout
     img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-3.webp
-    sourceId: Compendium.cof-srd.capacities.BFaxIpiSUdL5eiG6
+    sourceId: Compendium.cof-srd-fouderock.capacities.BFaxIpiSUdL5eiG6
   - _id: mYhH7AbsvjZAoL6Q
     name: Inspiration
     img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-4.webp
-    sourceId: Compendium.cof-srd.capacities.mYhH7AbsvjZAoL6Q
+    sourceId: Compendium.cof-srd-fouderock.capacities.mYhH7AbsvjZAoL6Q
   - _id: zS3kncGnZcUxgTmX
     name: Polyvalence
     img: /modules/cof-srd/ui/icons/capacities/voie-de-l-humain-5.webp
-    sourceId: Compendium.cof-srd.capacities.zS3kncGnZcUxgTmX
+    sourceId: Compendium.cof-srd-fouderock.capacities.zS3kncGnZcUxgTmX
   profile: null
   properties:
     profile: false

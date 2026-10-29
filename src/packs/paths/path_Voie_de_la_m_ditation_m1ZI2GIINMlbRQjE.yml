@@ -25,23 +25,23 @@ system:
     - _id: Vrf7z20iwF3CtJow
       name: Pacifisme
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-1.webp
-      sourceId: Compendium.cof-srd.capacities.Vrf7z20iwF3CtJow
+      sourceId: Compendium.cof-srd-fouderock.capacities.Vrf7z20iwF3CtJow
     - _id: 9sr7E68Lkfc1b4KJ
       name: Transe de guérison
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-2.webp
-      sourceId: Compendium.cof-srd.capacities.9sr7E68Lkfc1b4KJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.9sr7E68Lkfc1b4KJ
     - _id: GjBG9HXRS3HmNSiN
       name: Maîtrise du ki
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-3.webp
-      sourceId: Compendium.cof-srd.capacities.GjBG9HXRS3HmNSiN
+      sourceId: Compendium.cof-srd-fouderock.capacities.GjBG9HXRS3HmNSiN
     - _id: aEYEsPsjLlQekeYC
       name: Projection mentale
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-4.webp
-      sourceId: Compendium.cof-srd.capacities.aEYEsPsjLlQekeYC
+      sourceId: Compendium.cof-srd-fouderock.capacities.aEYEsPsjLlQekeYC
     - _id: wIoi5T4gmiFpnhvr
       name: Sagesse héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meditation-5.webp
-      sourceId: Compendium.cof-srd.capacities.wIoi5T4gmiFpnhvr
+      sourceId: Compendium.cof-srd-fouderock.capacities.wIoi5T4gmiFpnhvr
   profile: null
   properties:
     profile: false

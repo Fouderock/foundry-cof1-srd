@@ -25,23 +25,23 @@ system:
     - _id: aHRP4SADAt5PTMhb
       name: Image décalée
       img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-1.webp
-      sourceId: Compendium.cof-srd.capacities.aHRP4SADAt5PTMhb
+      sourceId: Compendium.cof-srd-fouderock.capacities.aHRP4SADAt5PTMhb
     - _id: f9v8rLLb31gy8cLC
       name: Mirage
       img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-2.webp
-      sourceId: Compendium.cof-srd.capacities.f9v8rLLb31gy8cLC
+      sourceId: Compendium.cof-srd-fouderock.capacities.f9v8rLLb31gy8cLC
     - _id: 4W1mEn4Lv9jNsXvr
       name: Imitation
       img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-3.webp
-      sourceId: Compendium.cof-srd.capacities.4W1mEn4Lv9jNsXvr
+      sourceId: Compendium.cof-srd-fouderock.capacities.4W1mEn4Lv9jNsXvr
     - _id: 9qF4khsxhTRkLwgQ
       name: Dédoublement
       img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-4.webp
-      sourceId: Compendium.cof-srd.capacities.9qF4khsxhTRkLwgQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.9qF4khsxhTRkLwgQ
     - _id: 5AXvXIhRf4S5YCO0
       name: Tueur fantasmagorique
       img: /modules/cof-srd/ui/icons/capacities/voie-des-illusions-5.webp
-      sourceId: Compendium.cof-srd.capacities.5AXvXIhRf4S5YCO0
+      sourceId: Compendium.cof-srd-fouderock.capacities.5AXvXIhRf4S5YCO0
   profile: null
   properties:
     profile: false

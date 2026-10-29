@@ -28,15 +28,15 @@ system:
     - _id: 18epKL4A9b7aOKEN
       name: Soigner
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-1.webp
-      sourceId: Compendium.cof-srd.capacities.18epKL4A9b7aOKEN
+      sourceId: Compendium.cof-srd-fouderock.capacities.18epKL4A9b7aOKEN
     - _id: SNtbWgrROV6bLusI
       name: Guérir
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-2.webp
-      sourceId: Compendium.cof-srd.capacities.SNtbWgrROV6bLusI
+      sourceId: Compendium.cof-srd-fouderock.capacities.SNtbWgrROV6bLusI
     - _id: SRsJDcnOAr1xqBao
       name: Soutenir
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-de-guerison-3.webp
-      sourceId: Compendium.cof-srd.capacities.SRsJDcnOAr1xqBao
+      sourceId: Compendium.cof-srd-fouderock.capacities.SRsJDcnOAr1xqBao
   profile: null
   properties:
     profile: false

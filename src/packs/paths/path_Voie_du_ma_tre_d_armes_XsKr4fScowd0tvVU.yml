@@ -25,23 +25,23 @@ system:
     - _id: sLO8H1thYeNx9908
       name: Arme de prédilection
       img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-1.webp
-      sourceId: Compendium.cof-srd.capacities.sLO8H1thYeNx9908
+      sourceId: Compendium.cof-srd-fouderock.capacities.sLO8H1thYeNx9908
     - _id: iAadGHzw6AwYxiz8
       name: Science du critique
       img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-2.webp
-      sourceId: Compendium.cof-srd.capacities.iAadGHzw6AwYxiz8
+      sourceId: Compendium.cof-srd-fouderock.capacities.iAadGHzw6AwYxiz8
     - _id: wURwWsOwdoo6snUS
       name: Spécialisation
       img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-3.webp
-      sourceId: Compendium.cof-srd.capacities.wURwWsOwdoo6snUS
+      sourceId: Compendium.cof-srd-fouderock.capacities.wURwWsOwdoo6snUS
     - _id: eEHsiJLK5jtgM8OA
       name: Attaque parfaite
       img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-4.webp
-      sourceId: Compendium.cof-srd.capacities.eEHsiJLK5jtgM8OA
+      sourceId: Compendium.cof-srd-fouderock.capacities.eEHsiJLK5jtgM8OA
     - _id: DldAgQKOmofRPxVR
       name: Riposte
       img: /modules/cof-srd/ui/icons/capacities/voie-du-maitre-darmes-5.webp
-      sourceId: Compendium.cof-srd.capacities.DldAgQKOmofRPxVR
+      sourceId: Compendium.cof-srd-fouderock.capacities.DldAgQKOmofRPxVR
   profile: null
   properties:
     profile: false

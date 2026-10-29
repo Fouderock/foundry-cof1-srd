@@ -25,23 +25,23 @@ system:
     - _id: 1uXnDA8WT9TSYM3V
       name: Action concertée
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-1.webp
-      sourceId: Compendium.cof-srd.capacities.1uXnDA8WT9TSYM3V
+      sourceId: Compendium.cof-srd-fouderock.capacities.1uXnDA8WT9TSYM3V
     - _id: evtFraOLyMzw8egY
       name: A couvert
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-2.webp
-      sourceId: Compendium.cof-srd.capacities.evtFraOLyMzw8egY
+      sourceId: Compendium.cof-srd-fouderock.capacities.evtFraOLyMzw8egY
     - _id: YT8QVnE3aJAr7gKD
       name: Combattant aguerri
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-3.webp
-      sourceId: Compendium.cof-srd.capacities.YT8QVnE3aJAr7gKD
+      sourceId: Compendium.cof-srd-fouderock.capacities.YT8QVnE3aJAr7gKD
     - _id: OPMMNpi9qyziH3YQ
       name: Combat de masse
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-4.webp
-      sourceId: Compendium.cof-srd.capacities.OPMMNpi9qyziH3YQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.OPMMNpi9qyziH3YQ
     - _id: 3TRSlQBprZW93NNB
       name: Constitution héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champ-de-bataille-5.webp
-      sourceId: Compendium.cof-srd.capacities.3TRSlQBprZW93NNB
+      sourceId: Compendium.cof-srd-fouderock.capacities.3TRSlQBprZW93NNB
   profile: null
   properties:
     profile: false

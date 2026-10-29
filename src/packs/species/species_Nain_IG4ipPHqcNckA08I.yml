@@ -71,12 +71,12 @@ system:
     - _id: oCuoXOZHFbxm0urE
       name: Voie du nain
       img: /modules/cof-srd/ui/icons/paths/voie-du-nain.webp
-      sourceId: Compendium.cof-srd.paths.oCuoXOZHFbxm0urE
+      sourceId: Compendium.cof-srd-fouderock.paths.oCuoXOZHFbxm0urE
   capacities:
     - _id: e4bI6a2UWQy9bgDW
       name: Vision dans le noir
       img: /modules/cof-srd/ui/icons/capacities/vision-dans-le-noir.webp
-      sourceId: Compendium.cof-srd.capacities.e4bI6a2UWQy9bgDW
+      sourceId: Compendium.cof-srd-fouderock.capacities.e4bI6a2UWQy9bgDW
   racial: ''
   age: ''
   longevity: ''

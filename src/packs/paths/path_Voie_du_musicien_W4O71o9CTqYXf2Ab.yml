@@ -25,23 +25,23 @@ system:
     - _id: J8NeWfjUqmnDFzno
       name: Chant des héros
       img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-1.webp
-      sourceId: Compendium.cof-srd.capacities.J8NeWfjUqmnDFzno
+      sourceId: Compendium.cof-srd-fouderock.capacities.J8NeWfjUqmnDFzno
     - _id: 31ux5zryEbXnJqnq
       name: Attaque sonore
       img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-2.webp
-      sourceId: Compendium.cof-srd.capacities.31ux5zryEbXnJqnq
+      sourceId: Compendium.cof-srd-fouderock.capacities.31ux5zryEbXnJqnq
     - _id: Q1C3SOnYNs1Cmad3
       name: Zone de silence
       img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-3.webp
-      sourceId: Compendium.cof-srd.capacities.Q1C3SOnYNs1Cmad3
+      sourceId: Compendium.cof-srd-fouderock.capacities.Q1C3SOnYNs1Cmad3
     - _id: xOLM5W9LzzHEtvBM
       name: Danse irrésistible
       img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-4.webp
-      sourceId: Compendium.cof-srd.capacities.xOLM5W9LzzHEtvBM
+      sourceId: Compendium.cof-srd-fouderock.capacities.xOLM5W9LzzHEtvBM
     - _id: rNZHFBMqvohJu48Z
       name: Musique fascinante
       img: /modules/cof-srd/ui/icons/capacities/voie-du-musicien-5.webp
-      sourceId: Compendium.cof-srd.capacities.rNZHFBMqvohJu48Z
+      sourceId: Compendium.cof-srd-fouderock.capacities.rNZHFBMqvohJu48Z
   profile: null
   properties:
     profile: false

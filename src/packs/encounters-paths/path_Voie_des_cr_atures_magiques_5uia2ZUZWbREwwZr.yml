@@ -34,15 +34,15 @@ system:
     - _id: TWxxalJsj3H0pvbI
       name: Réduction des <strong>DM</strong>
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-1.webp
-      sourceId: Compendium.cof-srd.capacities.TWxxalJsj3H0pvbI
+      sourceId: Compendium.cof-srd-fouderock.capacities.TWxxalJsj3H0pvbI
     - _id: Y6mephOMWkwBf8LA
       name: Vitalité surnaturelle
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-2.webp
-      sourceId: Compendium.cof-srd.capacities.Y6mephOMWkwBf8LA
+      sourceId: Compendium.cof-srd-fouderock.capacities.Y6mephOMWkwBf8LA
     - _id: vN8YrDhvg82brUlg
       name: Immortel
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-magiques-3.webp
-      sourceId: Compendium.cof-srd.capacities.vN8YrDhvg82brUlg
+      sourceId: Compendium.cof-srd-fouderock.capacities.vN8YrDhvg82brUlg
   profile: null
   properties:
     profile: false

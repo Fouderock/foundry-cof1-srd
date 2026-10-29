@@ -25,23 +25,23 @@ system:
     - _id: niXnSMFSO93YFP3H
       name: Doigts agiles
       img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-1.webp
-      sourceId: Compendium.cof-srd.capacities.niXnSMFSO93YFP3H
+      sourceId: Compendium.cof-srd-fouderock.capacities.niXnSMFSO93YFP3H
     - _id: wQuyqyNviEMepLhp
       name: Détecter les pièges
       img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-2.webp
-      sourceId: Compendium.cof-srd.capacities.wQuyqyNviEMepLhp
+      sourceId: Compendium.cof-srd-fouderock.capacities.wQuyqyNviEMepLhp
     - _id: dV5q1nsXZmCHDbHf
       name: Croc-en-jambe
       img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-3.webp
-      sourceId: Compendium.cof-srd.capacities.dV5q1nsXZmCHDbHf
+      sourceId: Compendium.cof-srd-fouderock.capacities.dV5q1nsXZmCHDbHf
     - _id: 8mmNtrSnetWvb0xF
       name: Attaque paralysante
       img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-4.webp
-      sourceId: Compendium.cof-srd.capacities.8mmNtrSnetWvb0xF
+      sourceId: Compendium.cof-srd-fouderock.capacities.8mmNtrSnetWvb0xF
     - _id: 29elGCmWgu7mccxm
       name: Attaque en traître
       img: /modules/cof-srd/ui/icons/capacities/voie-du-roublard-5.webp
-      sourceId: Compendium.cof-srd.capacities.29elGCmWgu7mccxm
+      sourceId: Compendium.cof-srd-fouderock.capacities.29elGCmWgu7mccxm
   profile: null
   properties:
     profile: false

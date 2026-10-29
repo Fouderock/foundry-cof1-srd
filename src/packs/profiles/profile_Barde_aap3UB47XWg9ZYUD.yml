@@ -36,23 +36,23 @@ system:
     - _id: PLo6Sy2NQFUDIzxM
       name: Voie de l'escrime
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-escrime.webp
-      sourceId: Compendium.cof-srd.paths.PLo6Sy2NQFUDIzxM
+      sourceId: Compendium.cof-srd-fouderock.paths.PLo6Sy2NQFUDIzxM
     - _id: ZXyXVkfEVheuv2fs
       name: Voie de la séduction
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-seduction.webp
-      sourceId: Compendium.cof-srd.paths.ZXyXVkfEVheuv2fs
+      sourceId: Compendium.cof-srd-fouderock.paths.ZXyXVkfEVheuv2fs
     - _id: W4O71o9CTqYXf2Ab
       name: Voie du musicien
       img: /modules/cof-srd/ui/icons/paths/voie-du-musicien.webp
-      sourceId: Compendium.cof-srd.paths.W4O71o9CTqYXf2Ab
+      sourceId: Compendium.cof-srd-fouderock.paths.W4O71o9CTqYXf2Ab
     - _id: jDRVIjOkA0r2x3bK
       name: Voie du saltimbanque
       img: /modules/cof-srd/ui/icons/paths/voie-du-saltimbanque.webp
-      sourceId: Compendium.cof-srd.paths.jDRVIjOkA0r2x3bK
+      sourceId: Compendium.cof-srd-fouderock.paths.jDRVIjOkA0r2x3bK
     - _id: I3aOjK4AaLjHcrYI
       name: Voie du vagabond
       img: /modules/cof-srd/ui/icons/paths/voie-du-vagabond.webp
-      sourceId: Compendium.cof-srd.paths.I3aOjK4AaLjHcrYI
+      sourceId: Compendium.cof-srd-fouderock.paths.I3aOjK4AaLjHcrYI
   proficiencies:
     daggers: false
     swords: false

@@ -25,23 +25,23 @@ system:
     - _id: 1NoVCs79epbEHqbK
       name: Arme bénie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-1.webp
-      sourceId: Compendium.cof-srd.capacities.1NoVCs79epbEHqbK
+      sourceId: Compendium.cof-srd-fouderock.capacities.1NoVCs79epbEHqbK
     - _id: tyZJnxLSDwbPIcia
       name: Bouclier de la foi
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-2.webp
-      sourceId: Compendium.cof-srd.capacities.tyZJnxLSDwbPIcia
+      sourceId: Compendium.cof-srd-fouderock.capacities.tyZJnxLSDwbPIcia
     - _id: T4cwO5p78cIHMK5G
       name: Marteau spirituel
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-3.webp
-      sourceId: Compendium.cof-srd.capacities.T4cwO5p78cIHMK5G
+      sourceId: Compendium.cof-srd-fouderock.capacities.T4cwO5p78cIHMK5G
     - _id: Q2qKYE2w5F74qC6W
       name: Châtiment divin
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-4.webp
-      sourceId: Compendium.cof-srd.capacities.Q2qKYE2w5F74qC6W
+      sourceId: Compendium.cof-srd-fouderock.capacities.Q2qKYE2w5F74qC6W
     - _id: g1gYqYm4WgFBkSRv
       name: Mot de pouvoir
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-guerre-sainte-5.webp
-      sourceId: Compendium.cof-srd.capacities.g1gYqYm4WgFBkSRv
+      sourceId: Compendium.cof-srd-fouderock.capacities.g1gYqYm4WgFBkSRv
   profile: null
   properties:
     profile: false

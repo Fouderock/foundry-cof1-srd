@@ -34,15 +34,15 @@ system:
     - _id: RKNx0e1pow7yCllh
       name: Interchangeables
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-1.webp
-      sourceId: Compendium.cof-srd.capacities.RKNx0e1pow7yCllh
+      sourceId: Compendium.cof-srd-fouderock.capacities.RKNx0e1pow7yCllh
     - _id: LirTrEZ0DMDRX0on
       name: Attaque en traître
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-2.webp
-      sourceId: Compendium.cof-srd.capacities.LirTrEZ0DMDRX0on
+      sourceId: Compendium.cof-srd-fouderock.capacities.LirTrEZ0DMDRX0on
     - _id: aHWpTYzTuhgTA8nF
       name: L’hallali
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-meute-3.webp
-      sourceId: Compendium.cof-srd.capacities.aHWpTYzTuhgTA8nF
+      sourceId: Compendium.cof-srd-fouderock.capacities.aHWpTYzTuhgTA8nF
   profile: null
   properties:
     profile: false

@@ -38,23 +38,23 @@ system:
     - _id: LVGrkV4h4kHTluim
       name: Voie de l'énergie vitale
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-energie-vitale.webp
-      sourceId: Compendium.cof-srd.paths.LVGrkV4h4kHTluim
+      sourceId: Compendium.cof-srd-fouderock.paths.LVGrkV4h4kHTluim
     - _id: QWEUF746ZyuCPmZ1
       name: Voie de la maîtrise
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-maitrise.webp
-      sourceId: Compendium.cof-srd.paths.QWEUF746ZyuCPmZ1
+      sourceId: Compendium.cof-srd-fouderock.paths.QWEUF746ZyuCPmZ1
     - _id: m1ZI2GIINMlbRQjE
       name: Voie de la méditation
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-meditation.webp
-      sourceId: Compendium.cof-srd.paths.m1ZI2GIINMlbRQjE
+      sourceId: Compendium.cof-srd-fouderock.paths.m1ZI2GIINMlbRQjE
     - _id: 7jUk4TrJFQWe9kvl
       name: Voie du poing
       img: /modules/cof-srd/ui/icons/paths/voie-du-poing.webp
-      sourceId: Compendium.cof-srd.paths.7jUk4TrJFQWe9kvl
+      sourceId: Compendium.cof-srd-fouderock.paths.7jUk4TrJFQWe9kvl
     - _id: xDjQbLAWZxDUCDlb
       name: Voie du vent
       img: /modules/cof-srd/ui/icons/paths/voie-du-vent.webp
-      sourceId: Compendium.cof-srd.paths.xDjQbLAWZxDUCDlb
+      sourceId: Compendium.cof-srd-fouderock.paths.xDjQbLAWZxDUCDlb
   proficiencies:
     daggers: false
     swords: false

@@ -25,23 +25,23 @@ system:
     - _id: 6L7dTJfefKruFgfi
       name: Parole divine
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-1.webp
-      sourceId: Compendium.cof-srd.capacities.6L7dTJfefKruFgfi
+      sourceId: Compendium.cof-srd-fouderock.capacities.6L7dTJfefKruFgfi
     - _id: qLl4ywIXtd4Pp16j
       name: Arme d'argent
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-2.webp
-      sourceId: Compendium.cof-srd.capacities.qLl4ywIXtd4Pp16j
+      sourceId: Compendium.cof-srd-fouderock.capacities.qLl4ywIXtd4Pp16j
     - _id: 384zkrTwsDVULcay
       name: Ailes célestes
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-3.webp
-      sourceId: Compendium.cof-srd.capacities.384zkrTwsDVULcay
+      sourceId: Compendium.cof-srd-fouderock.capacities.384zkrTwsDVULcay
     - _id: qV15IF2bvwJ80niL
       name: Foudres divines
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-4.webp
-      sourceId: Compendium.cof-srd.capacities.qV15IF2bvwJ80niL
+      sourceId: Compendium.cof-srd-fouderock.capacities.qV15IF2bvwJ80niL
     - _id: C8eTcdgxKCBhVNuF
       name: Charisme héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-foi-5.webp
-      sourceId: Compendium.cof-srd.capacities.C8eTcdgxKCBhVNuF
+      sourceId: Compendium.cof-srd-fouderock.capacities.C8eTcdgxKCBhVNuF
   profile: null
   properties:
     profile: false

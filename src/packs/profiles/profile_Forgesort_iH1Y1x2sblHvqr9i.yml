@@ -43,23 +43,23 @@ system:
     - _id: XoJBkNOTqfAbaFAL
       name: Voie des artefacts
       img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
-      sourceId: Compendium.cof-srd.paths.XoJBkNOTqfAbaFAL
+      sourceId: Compendium.cof-srd-fouderock.paths.XoJBkNOTqfAbaFAL
     - _id: 980HTx6g7nbWdF1U
       name: Voie des élixirs
       img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
-      sourceId: Compendium.cof-srd.paths.980HTx6g7nbWdF1U
+      sourceId: Compendium.cof-srd-fouderock.paths.980HTx6g7nbWdF1U
     - _id: obaRgEl83p5KK0C3
       name: Voie des runes
       img: /modules/cof-srd/ui/icons/paths/voie-des-runes.webp
-      sourceId: Compendium.cof-srd.paths.obaRgEl83p5KK0C3
+      sourceId: Compendium.cof-srd-fouderock.paths.obaRgEl83p5KK0C3
     - _id: e7rUUliqqoCKXSS9
       name: Voie du golem
       img: /modules/cof-srd/ui/icons/paths/voie-du-golem.webp
-      sourceId: Compendium.cof-srd.paths.e7rUUliqqoCKXSS9
+      sourceId: Compendium.cof-srd-fouderock.paths.e7rUUliqqoCKXSS9
     - _id: Pe5i15MvmqglTYzK
       name: Voie du métal
       img: /modules/cof-srd/ui/icons/paths/voie-du-metal.webp
-      sourceId: Compendium.cof-srd.paths.Pe5i15MvmqglTYzK
+      sourceId: Compendium.cof-srd-fouderock.paths.Pe5i15MvmqglTYzK
   proficiencies:
     daggers: false
     swords: false

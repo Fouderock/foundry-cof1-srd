@@ -27,15 +27,15 @@ system:
     - _id: 7OkOod3x8oHkcsiG
       name: Vol rapide
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-1.webp
-      sourceId: Compendium.cof-srd.capacities.7OkOod3x8oHkcsiG
+      sourceId: Compendium.cof-srd-fouderock.capacities.7OkOod3x8oHkcsiG
     - _id: TPjhfsQyR0ZtXm72
       name: Agripper
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-2.webp
-      sourceId: Compendium.cof-srd.capacities.TPjhfsQyR0ZtXm72
+      sourceId: Compendium.cof-srd-fouderock.capacities.TPjhfsQyR0ZtXm72
     - _id: g8SqbwC5J0ZILzFP
       name: Emporter dans les airs
       img: /modules/cof-srd/ui/icons/capacities/voie-des-creatures-volantes-3.webp
-      sourceId: Compendium.cof-srd.capacities.g8SqbwC5J0ZILzFP
+      sourceId: Compendium.cof-srd-fouderock.capacities.g8SqbwC5J0ZILzFP
   profile: null
   properties:
     profile: false

@@ -35,23 +35,23 @@ system:
     - _id: XJvn6COIptQQkemk
       name: Combat à deux armes amélioré
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-1.webp
-      sourceId: Compendium.cof-srd.capacities.XJvn6COIptQQkemk
+      sourceId: Compendium.cof-srd-fouderock.capacities.XJvn6COIptQQkemk
     - _id: 1pzjmO6f68wOCmdA
       name: Parade croisée
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-2.webp
-      sourceId: Compendium.cof-srd.capacities.1pzjmO6f68wOCmdA
+      sourceId: Compendium.cof-srd-fouderock.capacities.1pzjmO6f68wOCmdA
     - _id: oaVodJwyDZ3LF3ZQ
       name: Symétrie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-3.webp
-      sourceId: Compendium.cof-srd.capacities.oaVodJwyDZ3LF3ZQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.oaVodJwyDZ3LF3ZQ
     - _id: NSkzDO2ZJ8jsBl63
       name: Double peine
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-4.webp
-      sourceId: Compendium.cof-srd.capacities.NSkzDO2ZJ8jsBl63
+      sourceId: Compendium.cof-srd-fouderock.capacities.NSkzDO2ZJ8jsBl63
     - _id: Ue86QiAZovmyLR5f
       name: Combat à deux armes parfait
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-a-deux-armes-5.webp
-      sourceId: Compendium.cof-srd.capacities.Ue86QiAZovmyLR5f
+      sourceId: Compendium.cof-srd-fouderock.capacities.Ue86QiAZovmyLR5f
   profile: null
   properties:
     profile: false

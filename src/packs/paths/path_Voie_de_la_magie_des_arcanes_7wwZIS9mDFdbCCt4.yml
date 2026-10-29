@@ -25,23 +25,23 @@ system:
     - _id: sAgS4LddQJlemGkH
       name: Agrandissement
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-1.webp
-      sourceId: Compendium.cof-srd.capacities.sAgS4LddQJlemGkH
+      sourceId: Compendium.cof-srd-fouderock.capacities.sAgS4LddQJlemGkH
     - _id: 8sFk1Id0eAMEcOaL
       name: Forme gazeuse
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-2.webp
-      sourceId: Compendium.cof-srd.capacities.8sFk1Id0eAMEcOaL
+      sourceId: Compendium.cof-srd-fouderock.capacities.8sFk1Id0eAMEcOaL
     - _id: aHLLNQ2rRtAPoC5t
       name: Hâte
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-3.webp
-      sourceId: Compendium.cof-srd.capacities.aHLLNQ2rRtAPoC5t
+      sourceId: Compendium.cof-srd-fouderock.capacities.aHLLNQ2rRtAPoC5t
     - _id: y26RYfLt3gW8OSqx
       name: Téléportation
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-4.webp
-      sourceId: Compendium.cof-srd.capacities.y26RYfLt3gW8OSqx
+      sourceId: Compendium.cof-srd-fouderock.capacities.y26RYfLt3gW8OSqx
     - _id: 9cwnf0IiaI0KDSlH
       name: Désintégration
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-des-arcanes-5.webp
-      sourceId: Compendium.cof-srd.capacities.9cwnf0IiaI0KDSlH
+      sourceId: Compendium.cof-srd-fouderock.capacities.9cwnf0IiaI0KDSlH
   profile: null
   properties:
     profile: false

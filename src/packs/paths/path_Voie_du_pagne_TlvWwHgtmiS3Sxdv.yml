@@ -25,23 +25,23 @@ system:
     - _id: 0IA9Wv1tKPp5JA57
       name: Vigueur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-1.webp
-      sourceId: Compendium.cof-srd.capacities.0IA9Wv1tKPp5JA57
+      sourceId: Compendium.cof-srd-fouderock.capacities.0IA9Wv1tKPp5JA57
     - _id: 0Eo4jiNMKplVriEp
       name: Peau de pierre
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-2.webp
-      sourceId: Compendium.cof-srd.capacities.0Eo4jiNMKplVriEp
+      sourceId: Compendium.cof-srd-fouderock.capacities.0Eo4jiNMKplVriEp
     - _id: rW2WsXqMNebjisKT
       name: Tatouages
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-3.webp
-      sourceId: Compendium.cof-srd.capacities.rW2WsXqMNebjisKT
+      sourceId: Compendium.cof-srd-fouderock.capacities.rW2WsXqMNebjisKT
     - _id: iAlOaP9xScqMQhRm
       name: Peau d'acier
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-4.webp
-      sourceId: Compendium.cof-srd.capacities.iAlOaP9xScqMQhRm
+      sourceId: Compendium.cof-srd-fouderock.capacities.iAlOaP9xScqMQhRm
     - _id: iyDJ6Bn8Bm99RjoT
       name: Constitution héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-pagne-5.webp
-      sourceId: Compendium.cof-srd.capacities.iyDJ6Bn8Bm99RjoT
+      sourceId: Compendium.cof-srd-fouderock.capacities.iyDJ6Bn8Bm99RjoT
   profile: null
   properties:
     profile: false

@@ -25,23 +25,23 @@ system:
     - _id: placccu85opaNgRr
       name: Mains d'énergie
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-1.webp
-      sourceId: Compendium.cof-srd.capacities.placccu85opaNgRr
+      sourceId: Compendium.cof-srd-fouderock.capacities.placccu85opaNgRr
     - _id: LnmB7kpvLLecQpsc
       name: Pression mortelle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-2.webp
-      sourceId: Compendium.cof-srd.capacities.LnmB7kpvLLecQpsc
+      sourceId: Compendium.cof-srd-fouderock.capacities.LnmB7kpvLLecQpsc
     - _id: HcReudMN4Y4WOtpR
       name: Invulnérable
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-3.webp
-      sourceId: Compendium.cof-srd.capacities.HcReudMN4Y4WOtpR
+      sourceId: Compendium.cof-srd-fouderock.capacities.HcReudMN4Y4WOtpR
     - _id: i9WJ6eVS6zJmuByF
       name: Projection du ki
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-4.webp
-      sourceId: Compendium.cof-srd.capacities.i9WJ6eVS6zJmuByF
+      sourceId: Compendium.cof-srd-fouderock.capacities.i9WJ6eVS6zJmuByF
     - _id: 9FCxJGZ52QRgB3lZ
       name: Ascétisme
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-energie-vitale-5.webp
-      sourceId: Compendium.cof-srd.capacities.9FCxJGZ52QRgB3lZ
+      sourceId: Compendium.cof-srd-fouderock.capacities.9FCxJGZ52QRgB3lZ
   profile: null
   properties:
     profile: false

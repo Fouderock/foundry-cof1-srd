@@ -29,15 +29,15 @@ system:
     - _id: XXaJTF1IFynO6jdx
       name: Sergent
       img: /modules/cof-srd/ui/icons/capacities/voie-du-chef-d-armee-1.webp
-      sourceId: Compendium.cof-srd.capacities.XXaJTF1IFynO6jdx
+      sourceId: Compendium.cof-srd-fouderock.capacities.XXaJTF1IFynO6jdx
     - _id: pRRoN0m2msFZqRjo
       name: Capitaine
       img: /modules/cof-srd/ui/icons/capacities/voie-du-chef-d-armee-2.webp
-      sourceId: Compendium.cof-srd.capacities.pRRoN0m2msFZqRjo
+      sourceId: Compendium.cof-srd-fouderock.capacities.pRRoN0m2msFZqRjo
     - _id: 43EhvtlnnZNki4Hl
       name: Commandant
       img: /modules/cof-srd/ui/icons/capacities/voie-du-chef-d-armee-3.webp
-      sourceId: Compendium.cof-srd.capacities.43EhvtlnnZNki4Hl
+      sourceId: Compendium.cof-srd-fouderock.capacities.43EhvtlnnZNki4Hl
   profile: null
   properties:
     profile: false

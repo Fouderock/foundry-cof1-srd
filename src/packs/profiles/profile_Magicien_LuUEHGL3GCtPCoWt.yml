@@ -35,23 +35,23 @@ system:
     - _id: 7wwZIS9mDFdbCCt4
       name: Voie de la magie des arcanes
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
-      sourceId: Compendium.cof-srd.paths.7wwZIS9mDFdbCCt4
+      sourceId: Compendium.cof-srd-fouderock.paths.7wwZIS9mDFdbCCt4
     - _id: JYl2oQ0gdyRNrnrg
       name: Voie de la magie destructrice
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-destructrice.webp
-      sourceId: Compendium.cof-srd.paths.JYl2oQ0gdyRNrnrg
+      sourceId: Compendium.cof-srd-fouderock.paths.JYl2oQ0gdyRNrnrg
     - _id: 8BOjv6kSyjIbdMjR
       name: Voie de la magie élémentaire
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-elementaire.webp
-      sourceId: Compendium.cof-srd.paths.8BOjv6kSyjIbdMjR
+      sourceId: Compendium.cof-srd-fouderock.paths.8BOjv6kSyjIbdMjR
     - _id: IojaXgZwfecc3mAF
       name: Voie de la magie protectrice
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-protectrice.webp
-      sourceId: Compendium.cof-srd.paths.IojaXgZwfecc3mAF
+      sourceId: Compendium.cof-srd-fouderock.paths.IojaXgZwfecc3mAF
     - _id: VIk41M2r4KIEatbC
       name: Voie de la magie universelle
       img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-universelle.webp
-      sourceId: Compendium.cof-srd.paths.VIk41M2r4KIEatbC
+      sourceId: Compendium.cof-srd-fouderock.paths.VIk41M2r4KIEatbC
   proficiencies:
     daggers: false
     swords: false

@@ -30,23 +30,23 @@ system:
     - _id: KycG3XaiE8lf9ybE
       name: Impressionnant
       img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-1.webp
-      sourceId: Compendium.cof-srd.capacities.KycG3XaiE8lf9ybE
+      sourceId: Compendium.cof-srd-fouderock.capacities.KycG3XaiE8lf9ybE
     - _id: Zthx2bp34B2yP1VT
       name: Dressage
       img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-2.webp
-      sourceId: Compendium.cof-srd.capacities.Zthx2bp34B2yP1VT
+      sourceId: Compendium.cof-srd-fouderock.capacities.Zthx2bp34B2yP1VT
     - _id: Dqb10OOil8nw72Sc
       name: Combat
       img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-3.webp
-      sourceId: Compendium.cof-srd.capacities.Dqb10OOil8nw72Sc
+      sourceId: Compendium.cof-srd-fouderock.capacities.Dqb10OOil8nw72Sc
     - _id: lqNsZ1IcA6roRmYH
       name: Empathie animale
       img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-4.webp
-      sourceId: Compendium.cof-srd.capacities.lqNsZ1IcA6roRmYH
+      sourceId: Compendium.cof-srd-fouderock.capacities.lqNsZ1IcA6roRmYH
     - _id: tvZZzk5824ldbisL
       name: Animal fabuleux
       img: /modules/cof-srd/ui/icons/capacities/voie-du-montreur-dours-5.webp
-      sourceId: Compendium.cof-srd.capacities.tvZZzk5824ldbisL
+      sourceId: Compendium.cof-srd-fouderock.capacities.tvZZzk5824ldbisL
   profile: null
   properties:
     profile: false

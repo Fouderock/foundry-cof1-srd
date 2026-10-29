@@ -25,23 +25,23 @@ system:
     - _id: pHmymp9jrXq5Tqdq
       name: Endurant
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-1.webp
-      sourceId: Compendium.cof-srd.capacities.pHmymp9jrXq5Tqdq
+      sourceId: Compendium.cof-srd-fouderock.capacities.pHmymp9jrXq5Tqdq
     - _id: Vuz99DsLluFnzhF3
       name: Nature nourricière
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-2.webp
-      sourceId: Compendium.cof-srd.capacities.Vuz99DsLluFnzhF3
+      sourceId: Compendium.cof-srd-fouderock.capacities.Vuz99DsLluFnzhF3
     - _id: eHmcs72DEMVjSeyj
       name: Grand pas
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-3.webp
-      sourceId: Compendium.cof-srd.capacities.eHmcs72DEMVjSeyj
+      sourceId: Compendium.cof-srd-fouderock.capacities.eHmcs72DEMVjSeyj
     - _id: RHNfDDPkfZuUQGdI
       name: Increvable
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-4.webp
-      sourceId: Compendium.cof-srd.capacities.RHNfDDPkfZuUQGdI
+      sourceId: Compendium.cof-srd-fouderock.capacities.RHNfDDPkfZuUQGdI
     - _id: 7lqDlyZAUpruGnEU
       name: Constitution héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-survie-5.webp
-      sourceId: Compendium.cof-srd.capacities.7lqDlyZAUpruGnEU
+      sourceId: Compendium.cof-srd-fouderock.capacities.7lqDlyZAUpruGnEU
   profile: null
   properties:
     profile: false

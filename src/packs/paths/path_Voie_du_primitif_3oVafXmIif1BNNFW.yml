@@ -25,23 +25,23 @@ system:
     - _id: cHnZxuc3zoxNRl2L
       name: Proche de la nature
       img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-1.webp
-      sourceId: Compendium.cof-srd.capacities.cHnZxuc3zoxNRl2L
+      sourceId: Compendium.cof-srd-fouderock.capacities.cHnZxuc3zoxNRl2L
     - _id: 5uogl2V5kmiATzF0
       name: Armure de vent
       img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-2.webp
-      sourceId: Compendium.cof-srd.capacities.5uogl2V5kmiATzF0
+      sourceId: Compendium.cof-srd-fouderock.capacities.5uogl2V5kmiATzF0
     - _id: EkzAJylLRQe3R47Z
       name: Vigilance
       img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-3.webp
-      sourceId: Compendium.cof-srd.capacities.EkzAJylLRQe3R47Z
+      sourceId: Compendium.cof-srd-fouderock.capacities.EkzAJylLRQe3R47Z
     - _id: osqAj8A0rrWZ0sRI
       name: Résistance à la magie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-4.webp
-      sourceId: Compendium.cof-srd.capacities.osqAj8A0rrWZ0sRI
+      sourceId: Compendium.cof-srd-fouderock.capacities.osqAj8A0rrWZ0sRI
     - _id: qouO6975f1bmRduF
       name: Vitalité débordante
       img: /modules/cof-srd/ui/icons/capacities/voie-du-primitif-5.webp
-      sourceId: Compendium.cof-srd.capacities.qouO6975f1bmRduF
+      sourceId: Compendium.cof-srd-fouderock.capacities.qouO6975f1bmRduF
   profile: null
   properties:
     profile: false

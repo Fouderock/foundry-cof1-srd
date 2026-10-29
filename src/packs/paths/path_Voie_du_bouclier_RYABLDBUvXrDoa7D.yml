@@ -27,23 +27,23 @@ system:
     - _id: MNlGwRK5apOVWmWr
       name: Protéger un allié
       img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-1.webp
-      sourceId: Compendium.cof-srd.capacities.MNlGwRK5apOVWmWr
+      sourceId: Compendium.cof-srd-fouderock.capacities.MNlGwRK5apOVWmWr
     - _id: zQ8tfKDn4vhkhN06
       name: Absorber un coup
       img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-2.webp
-      sourceId: Compendium.cof-srd.capacities.zQ8tfKDn4vhkhN06
+      sourceId: Compendium.cof-srd-fouderock.capacities.zQ8tfKDn4vhkhN06
     - _id: cTX51OZzXoIWfTpc
       name: Absorber un sort
       img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-3.webp
-      sourceId: Compendium.cof-srd.capacities.cTX51OZzXoIWfTpc
+      sourceId: Compendium.cof-srd-fouderock.capacities.cTX51OZzXoIWfTpc
     - _id: 7pusFmC1LfjB04QI
       name: Armure lourde
       img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-4.webp
-      sourceId: Compendium.cof-srd.capacities.7pusFmC1LfjB04QI
+      sourceId: Compendium.cof-srd-fouderock.capacities.7pusFmC1LfjB04QI
     - _id: yOZGNnquzqIgMTdQ
       name: Renvoi de sort
       img: /modules/cof-srd/ui/icons/capacities/voie-du-bouclier-5.webp
-      sourceId: Compendium.cof-srd.capacities.yOZGNnquzqIgMTdQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.yOZGNnquzqIgMTdQ
   profile: null
   properties:
     profile: false

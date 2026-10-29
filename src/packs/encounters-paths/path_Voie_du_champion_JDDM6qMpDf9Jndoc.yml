@@ -29,15 +29,15 @@ system:
     - _id: 5GhXFaDtspQuVt24
       name: Imparable
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champion-1.webp
-      sourceId: Compendium.cof-srd.capacities.5GhXFaDtspQuVt24
+      sourceId: Compendium.cof-srd-fouderock.capacities.5GhXFaDtspQuVt24
     - _id: 4qNsWjkh6hYJu3Hp
       name: Riposte
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champion-2.webp
-      sourceId: Compendium.cof-srd.capacities.4qNsWjkh6hYJu3Hp
+      sourceId: Compendium.cof-srd-fouderock.capacities.4qNsWjkh6hYJu3Hp
     - _id: SXriCmTbY50wPO8A
       name: Hausser le ton
       img: /modules/cof-srd/ui/icons/capacities/voie-du-champion-3.webp
-      sourceId: Compendium.cof-srd.capacities.SXriCmTbY50wPO8A
+      sourceId: Compendium.cof-srd-fouderock.capacities.SXriCmTbY50wPO8A
   profile: null
   properties:
     profile: false

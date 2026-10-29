@@ -29,15 +29,15 @@ system:
     - _id: AqsPsZVUyDYy3DTj
       name: Fauchage
       img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-1.webp
-      sourceId: Compendium.cof-srd.capacities.AqsPsZVUyDYy3DTj
+      sourceId: Compendium.cof-srd-fouderock.capacities.AqsPsZVUyDYy3DTj
     - _id: Q8cWUxU0IkY8jbDZ
       name: Balayage
       img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-2.webp
-      sourceId: Compendium.cof-srd.capacities.Q8cWUxU0IkY8jbDZ
+      sourceId: Compendium.cof-srd-fouderock.capacities.Q8cWUxU0IkY8jbDZ
     - _id: S344vN4knjWmELwC
       name: Projection
       img: /modules/cof-srd/ui/icons/capacities/voie-du-colosse-3.webp
-      sourceId: Compendium.cof-srd.capacities.S344vN4knjWmELwC
+      sourceId: Compendium.cof-srd-fouderock.capacities.S344vN4knjWmELwC
   profile: null
   properties:
     profile: false

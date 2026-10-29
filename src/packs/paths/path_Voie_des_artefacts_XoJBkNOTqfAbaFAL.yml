@@ -25,23 +25,23 @@ system:
     - _id: UPC4DBklyxjD0BJA
       name: Bâton de mage
       img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-1.webp
-      sourceId: Compendium.cof-srd.capacities.UPC4DBklyxjD0BJA
+      sourceId: Compendium.cof-srd-fouderock.capacities.UPC4DBklyxjD0BJA
     - _id: 5zvftu65ry6VlwiD
       name: Blocage
       img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-2.webp
-      sourceId: Compendium.cof-srd.capacities.5zvftu65ry6VlwiD
+      sourceId: Compendium.cof-srd-fouderock.capacities.5zvftu65ry6VlwiD
     - _id: 3yuelpjOQ2CZu04T
       name: Sac sans fond
       img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-3.webp
-      sourceId: Compendium.cof-srd.capacities.3yuelpjOQ2CZu04T
+      sourceId: Compendium.cof-srd-fouderock.capacities.3yuelpjOQ2CZu04T
     - _id: EyUeAloX7pcgDUKa
       name: Frappe des arcanes
       img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-4.webp
-      sourceId: Compendium.cof-srd.capacities.EyUeAloX7pcgDUKa
+      sourceId: Compendium.cof-srd-fouderock.capacities.EyUeAloX7pcgDUKa
     - _id: Qm3wiGW7u7zatbsc
       name: Artefact majeur
       img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-5.webp
-      sourceId: Compendium.cof-srd.capacities.Qm3wiGW7u7zatbsc
+      sourceId: Compendium.cof-srd-fouderock.capacities.Qm3wiGW7u7zatbsc
   profile: null
   properties:
     profile: false

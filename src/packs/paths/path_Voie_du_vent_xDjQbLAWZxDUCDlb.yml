@@ -25,23 +25,23 @@ system:
     - _id: IOPH2SCNun5y5MlD
       name: Pas du vent
       img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-1.webp
-      sourceId: Compendium.cof-srd.capacities.IOPH2SCNun5y5MlD
+      sourceId: Compendium.cof-srd-fouderock.capacities.IOPH2SCNun5y5MlD
     - _id: vosgTVkmt2UzXb01
       name: Course du vent
       img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-2.webp
-      sourceId: Compendium.cof-srd.capacities.vosgTVkmt2UzXb01
+      sourceId: Compendium.cof-srd-fouderock.capacities.vosgTVkmt2UzXb01
     - _id: 8J1cmD1ke0HWGBGE
       name: Course des airs
       img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-3.webp
-      sourceId: Compendium.cof-srd.capacities.8J1cmD1ke0HWGBGE
+      sourceId: Compendium.cof-srd-fouderock.capacities.8J1cmD1ke0HWGBGE
     - _id: 06xWRI72g0dFiUeV
       name: Lévitation
       img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-4.webp
-      sourceId: Compendium.cof-srd.capacities.06xWRI72g0dFiUeV
+      sourceId: Compendium.cof-srd-fouderock.capacities.06xWRI72g0dFiUeV
     - _id: IZ3Prz0bSWl91TMz
       name: Passe-muraille
       img: /modules/cof-srd/ui/icons/capacities/voie-du-vent-5.webp
-      sourceId: Compendium.cof-srd.capacities.IZ3Prz0bSWl91TMz
+      sourceId: Compendium.cof-srd-fouderock.capacities.IZ3Prz0bSWl91TMz
   profile: null
   properties:
     profile: false

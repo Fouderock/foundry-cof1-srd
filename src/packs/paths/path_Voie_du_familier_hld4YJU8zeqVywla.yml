@@ -27,23 +27,23 @@ system:
     - _id: OKZUsqi5PPcSUqBQ
       name: Familier
       img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-1.webp
-      sourceId: Compendium.cof-srd.capacities.OKZUsqi5PPcSUqBQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.OKZUsqi5PPcSUqBQ
     - _id: o7MpkXGvDspjlJQl
       name: Résistance
       img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-2.webp
-      sourceId: Compendium.cof-srd.capacities.o7MpkXGvDspjlJQl
+      sourceId: Compendium.cof-srd-fouderock.capacities.o7MpkXGvDspjlJQl
     - _id: XGiBSDze4rOd4enC
       name: Sens développés
       img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-3.webp
-      sourceId: Compendium.cof-srd.capacities.XGiBSDze4rOd4enC
+      sourceId: Compendium.cof-srd-fouderock.capacities.XGiBSDze4rOd4enC
     - _id: TzTMSwlw8f6xxhTz
       name: Rappel
       img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-4.webp
-      sourceId: Compendium.cof-srd.capacities.TzTMSwlw8f6xxhTz
+      sourceId: Compendium.cof-srd-fouderock.capacities.TzTMSwlw8f6xxhTz
     - _id: g87GZ3nnd5VOv9eO
       name: Lilliputien
       img: /modules/cof-srd/ui/icons/capacities/voie-du-familier-5.webp
-      sourceId: Compendium.cof-srd.capacities.g87GZ3nnd5VOv9eO
+      sourceId: Compendium.cof-srd-fouderock.capacities.g87GZ3nnd5VOv9eO
   profile: null
   properties:
     profile: false

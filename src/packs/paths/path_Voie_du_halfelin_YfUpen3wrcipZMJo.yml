@@ -25,23 +25,23 @@ system:
     - _id: gNoRrMD9r4W3QgFs
       name: Petit veinard
       img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-1.webp
-      sourceId: Compendium.cof-srd.capacities.gNoRrMD9r4W3QgFs
+      sourceId: Compendium.cof-srd-fouderock.capacities.gNoRrMD9r4W3QgFs
     - _id: BIl3v3aJyWqrR01d
       name: Résistance légendaire
       img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-2.webp
-      sourceId: Compendium.cof-srd.capacities.BIl3v3aJyWqrR01d
+      sourceId: Compendium.cof-srd-fouderock.capacities.BIl3v3aJyWqrR01d
     - _id: DrIjQ3s6H0HmvDZh
       name: Bon pour le moral
       img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-3.webp
-      sourceId: Compendium.cof-srd.capacities.DrIjQ3s6H0HmvDZh
+      sourceId: Compendium.cof-srd-fouderock.capacities.DrIjQ3s6H0HmvDZh
     - _id: 5S0ZbZ43t3HhzTz5
       name: Perception
       img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-4.webp
-      sourceId: Compendium.cof-srd.capacities.5S0ZbZ43t3HhzTz5
+      sourceId: Compendium.cof-srd-fouderock.capacities.5S0ZbZ43t3HhzTz5
     - _id: Pskj07tKVUvqraaV
       name: Vif et alerte
       img: /modules/cof-srd/ui/icons/capacities/voie-du-halfelin-5.webp
-      sourceId: Compendium.cof-srd.capacities.Pskj07tKVUvqraaV
+      sourceId: Compendium.cof-srd-fouderock.capacities.Pskj07tKVUvqraaV
   profile: null
   properties:
     profile: false

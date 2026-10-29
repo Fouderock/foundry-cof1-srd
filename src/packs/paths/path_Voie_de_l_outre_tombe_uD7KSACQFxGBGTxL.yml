@@ -25,23 +25,23 @@ system:
     - _id: 7VNvQu85FciQha5s
       name: Peur
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-1.webp
-      sourceId: Compendium.cof-srd.capacities.7VNvQu85FciQha5s
+      sourceId: Compendium.cof-srd-fouderock.capacities.7VNvQu85FciQha5s
     - _id: eR1fEu7jF0HCkUQh
       name: Animation des morts
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-2.webp
-      sourceId: Compendium.cof-srd.capacities.eR1fEu7jF0HCkUQh
+      sourceId: Compendium.cof-srd-fouderock.capacities.eR1fEu7jF0HCkUQh
     - _id: TmNfegJnjoG6OA2l
       name: Putréfaction
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-3.webp
-      sourceId: Compendium.cof-srd.capacities.TmNfegJnjoG6OA2l
+      sourceId: Compendium.cof-srd-fouderock.capacities.TmNfegJnjoG6OA2l
     - _id: hX6ycuO7T2RGh3kk
       name: Ensevelissement
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-4.webp
-      sourceId: Compendium.cof-srd.capacities.hX6ycuO7T2RGh3kk
+      sourceId: Compendium.cof-srd-fouderock.capacities.hX6ycuO7T2RGh3kk
     - _id: lQwEvPPzNKjEgWGe
       name: Armée des morts
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-outre-tombe-5.webp
-      sourceId: Compendium.cof-srd.capacities.lQwEvPPzNKjEgWGe
+      sourceId: Compendium.cof-srd-fouderock.capacities.lQwEvPPzNKjEgWGe
   profile: null
   properties:
     profile: false

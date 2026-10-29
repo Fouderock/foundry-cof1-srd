@@ -25,23 +25,23 @@ system:
     - _id: OHosshhasEkbzI5J
       name: Poings de fer
       img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-1.webp
-      sourceId: Compendium.cof-srd.capacities.OHosshhasEkbzI5J
+      sourceId: Compendium.cof-srd-fouderock.capacities.OHosshhasEkbzI5J
     - _id: MeLb2QKix3Ezdvjw
       name: Parade de projectiles
       img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-2.webp
-      sourceId: Compendium.cof-srd.capacities.MeLb2QKix3Ezdvjw
+      sourceId: Compendium.cof-srd-fouderock.capacities.MeLb2QKix3Ezdvjw
     - _id: cWz7Pq2x99gEOa1y
       name: Peau de fer
       img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-3.webp
-      sourceId: Compendium.cof-srd.capacities.cWz7Pq2x99gEOa1y
+      sourceId: Compendium.cof-srd-fouderock.capacities.cWz7Pq2x99gEOa1y
     - _id: DrqZanhb8RjJGmWZ
       name: Déluge de coups
       img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-4.webp
-      sourceId: Compendium.cof-srd.capacities.DrqZanhb8RjJGmWZ
+      sourceId: Compendium.cof-srd-fouderock.capacities.DrqZanhb8RjJGmWZ
     - _id: XH9xOZpLQAoBZ8JV
       name: Puissance du ki
       img: /modules/cof-srd/ui/icons/capacities/voie-du-poing-5.webp
-      sourceId: Compendium.cof-srd.capacities.XH9xOZpLQAoBZ8JV
+      sourceId: Compendium.cof-srd-fouderock.capacities.XH9xOZpLQAoBZ8JV
   profile: null
   properties:
     profile: false

@@ -73,20 +73,20 @@ system:
     - _id: Jh9dUJpLAYEu5jUV
       name: Voie de l'humain
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-humain.webp
-      sourceId: Compendium.cof-srd.paths.Jh9dUJpLAYEu5jUV
+      sourceId: Compendium.cof-srd-fouderock.paths.Jh9dUJpLAYEu5jUV
     - _id: Ax95ays7Dcw2kDFS
       name: Voie du haut-elfe
       img: /modules/cof-srd/ui/icons/paths/voie-du-haut-elfe.webp
-      sourceId: Compendium.cof-srd.paths.Ax95ays7Dcw2kDFS
+      sourceId: Compendium.cof-srd-fouderock.paths.Ax95ays7Dcw2kDFS
   capacities:
     - _id: qbbpWew1pv73yATQ
       name: Instinct de survie
       img: /modules/cof-srd/ui/icons/capacities/instinct-de-survie.webp
-      sourceId: Compendium.cof-srd.capacities.qbbpWew1pv73yATQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.qbbpWew1pv73yATQ
     - _id: dKYtHvoyFmF0Y8g4
       name: Lumière des étoiles
       img: /modules/cof-srd/ui/icons/capacities/lumiere-des-etoiles.webp
-      sourceId: Compendium.cof-srd.capacities.dKYtHvoyFmF0Y8g4
+      sourceId: Compendium.cof-srd-fouderock.capacities.dKYtHvoyFmF0Y8g4
   racial: ''
   age: ''
   longevity: ''

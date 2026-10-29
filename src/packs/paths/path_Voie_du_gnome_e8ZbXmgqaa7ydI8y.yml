@@ -25,23 +25,23 @@ system:
     - _id: AUwvuTORCUGUtkBB
       name: Don étrange
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-1.webp
-      sourceId: Compendium.cof-srd.capacities.AUwvuTORCUGUtkBB
+      sourceId: Compendium.cof-srd-fouderock.capacities.AUwvuTORCUGUtkBB
     - _id: AUg8u0sjz10LGRTK
       name: Le Grand Nez
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-2.webp
-      sourceId: Compendium.cof-srd.capacities.AUg8u0sjz10LGRTK
+      sourceId: Compendium.cof-srd-fouderock.capacities.AUg8u0sjz10LGRTK
     - _id: CxluVoRQruWVSzge
       name: Porte-bonheur
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-3.webp
-      sourceId: Compendium.cof-srd.capacities.CxluVoRQruWVSzge
+      sourceId: Compendium.cof-srd-fouderock.capacities.CxluVoRQruWVSzge
     - _id: RfWryhZuOkfUWkxM
       name: Passe-partout
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-4.webp
-      sourceId: Compendium.cof-srd.capacities.RfWryhZuOkfUWkxM
+      sourceId: Compendium.cof-srd-fouderock.capacities.RfWryhZuOkfUWkxM
     - _id: ha9D6EikEveCfNsF
       name: Vieux renard
       img: /modules/cof-srd/ui/icons/capacities/voie-du-gnome-5.webp
-      sourceId: Compendium.cof-srd.capacities.ha9D6EikEveCfNsF
+      sourceId: Compendium.cof-srd-fouderock.capacities.ha9D6EikEveCfNsF
   profile: null
   properties:
     profile: false

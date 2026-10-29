@@ -25,23 +25,23 @@ system:
     - _id: 0dDXnaPArJZEtCeJ
       name: Vivacité
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-1.webp
-      sourceId: Compendium.cof-srd.capacities.0dDXnaPArJZEtCeJ
+      sourceId: Compendium.cof-srd-fouderock.capacities.0dDXnaPArJZEtCeJ
     - _id: d980dSZ2tnZY50QI
       name: Désarmer
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-2.webp
-      sourceId: Compendium.cof-srd.capacities.d980dSZ2tnZY50QI
+      sourceId: Compendium.cof-srd-fouderock.capacities.d980dSZ2tnZY50QI
     - _id: d1tTZoM6C568Pi03
       name: Double attaque
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-3.webp
-      sourceId: Compendium.cof-srd.capacities.d1tTZoM6C568Pi03
+      sourceId: Compendium.cof-srd-fouderock.capacities.d1tTZoM6C568Pi03
     - _id: 0pjDZv8LrzKtbf1o
       name: Attaque circulaire
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-4.webp
-      sourceId: Compendium.cof-srd.capacities.0pjDZv8LrzKtbf1o
+      sourceId: Compendium.cof-srd-fouderock.capacities.0pjDZv8LrzKtbf1o
     - _id: 4OPEJya8kG8EEGPc
       name: Attaque puissante
       img: /modules/cof-srd/ui/icons/capacities/voie-du-combat-5.webp
-      sourceId: Compendium.cof-srd.capacities.4OPEJya8kG8EEGPc
+      sourceId: Compendium.cof-srd-fouderock.capacities.4OPEJya8kG8EEGPc
   profile: null
   properties:
     profile: false

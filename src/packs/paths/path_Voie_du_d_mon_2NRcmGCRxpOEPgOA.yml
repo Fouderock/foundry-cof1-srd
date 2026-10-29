@@ -25,23 +25,23 @@ system:
     - _id: 7NrRUaR5shPqFGin
       name: Malédiction
       img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-1.webp
-      sourceId: Compendium.cof-srd.capacities.7NrRUaR5shPqFGin
+      sourceId: Compendium.cof-srd-fouderock.capacities.7NrRUaR5shPqFGin
     - _id: CDo5TN96Uilc7m7t
       name: Aspect de la succube
       img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-2.webp
-      sourceId: Compendium.cof-srd.capacities.CDo5TN96Uilc7m7t
+      sourceId: Compendium.cof-srd-fouderock.capacities.CDo5TN96Uilc7m7t
     - _id: 4FjC42Z4iqvOG3Zb
       name: Pacte sanglant
       img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-3.webp
-      sourceId: Compendium.cof-srd.capacities.4FjC42Z4iqvOG3Zb
+      sourceId: Compendium.cof-srd-fouderock.capacities.4FjC42Z4iqvOG3Zb
     - _id: Nt6KarxOVQpr5v87
       name: Aspect du démon
       img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-4.webp
-      sourceId: Compendium.cof-srd.capacities.Nt6KarxOVQpr5v87
+      sourceId: Compendium.cof-srd-fouderock.capacities.Nt6KarxOVQpr5v87
     - _id: ARkV8q8SfnchScPS
       name: Invocation d'un démon
       img: /modules/cof-srd/ui/icons/capacities/voie-du-demon-5.webp
-      sourceId: Compendium.cof-srd.capacities.ARkV8q8SfnchScPS
+      sourceId: Compendium.cof-srd-fouderock.capacities.ARkV8q8SfnchScPS
   profile: null
   properties:
     profile: false

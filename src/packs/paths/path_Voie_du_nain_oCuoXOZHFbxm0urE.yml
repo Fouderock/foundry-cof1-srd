@@ -25,23 +25,23 @@ system:
     - _id: T0mvUhFA9OMbQDYe
       name: Résistance
       img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-1.webp
-      sourceId: Compendium.cof-srd.capacities.T0mvUhFA9OMbQDYe
+      sourceId: Compendium.cof-srd-fouderock.capacities.T0mvUhFA9OMbQDYe
     - _id: ALRjGJmG3N6GWXq2
       name: Solide comme un roc
       img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-2.webp
-      sourceId: Compendium.cof-srd.capacities.ALRjGJmG3N6GWXq2
+      sourceId: Compendium.cof-srd-fouderock.capacities.ALRjGJmG3N6GWXq2
     - _id: KhyYYetFQf4xhyww
       name: Haches et marteaux
       img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-3.webp
-      sourceId: Compendium.cof-srd.capacities.KhyYYetFQf4xhyww
+      sourceId: Compendium.cof-srd-fouderock.capacities.KhyYYetFQf4xhyww
     - _id: IswN5heBEhV9hbvH
       name: Résistance à la magie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-4.webp
-      sourceId: Compendium.cof-srd.capacities.IswN5heBEhV9hbvH
+      sourceId: Compendium.cof-srd-fouderock.capacities.IswN5heBEhV9hbvH
     - _id: Vc6tIU4Kjh9ayMpQ
       name: Tenacité
       img: /modules/cof-srd/ui/icons/capacities/voie-du-nain-5.webp
-      sourceId: Compendium.cof-srd.capacities.Vc6tIU4Kjh9ayMpQ
+      sourceId: Compendium.cof-srd-fouderock.capacities.Vc6tIU4Kjh9ayMpQ
   profile: null
   properties:
     profile: false

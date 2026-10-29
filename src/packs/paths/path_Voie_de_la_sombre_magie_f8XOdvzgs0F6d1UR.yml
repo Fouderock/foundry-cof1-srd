@@ -27,23 +27,23 @@ system:
     - _id: VjgnnGSuwuzLURBz
       name: Ténèbres
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-1.webp
-      sourceId: Compendium.cof-srd.capacities.VjgnnGSuwuzLURBz
+      sourceId: Compendium.cof-srd-fouderock.capacities.VjgnnGSuwuzLURBz
     - _id: YMXW5OR6KTd1LpOa
       name: Pattes d'araignée
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-2.webp
-      sourceId: Compendium.cof-srd.capacities.YMXW5OR6KTd1LpOa
+      sourceId: Compendium.cof-srd-fouderock.capacities.YMXW5OR6KTd1LpOa
     - _id: Oj6zLlGoTrP3vUNn
       name: Strangulation
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-3.webp
-      sourceId: Compendium.cof-srd.capacities.Oj6zLlGoTrP3vUNn
+      sourceId: Compendium.cof-srd-fouderock.capacities.Oj6zLlGoTrP3vUNn
     - _id: P7rjY8RAWuye7NLK
       name: Ombre mortelle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-4.webp
-      sourceId: Compendium.cof-srd.capacities.P7rjY8RAWuye7NLK
+      sourceId: Compendium.cof-srd-fouderock.capacities.P7rjY8RAWuye7NLK
     - _id: HEod47Ehc873p9as
       name: Intelligence héroïque
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-sombre-magie-5.webp
-      sourceId: Compendium.cof-srd.capacities.HEod47Ehc873p9as
+      sourceId: Compendium.cof-srd-fouderock.capacities.HEod47Ehc873p9as
   profile: null
   properties:
     profile: false

@@ -25,23 +25,23 @@ system:
     - _id: 6fMBx8MyDyHMWkNR
       name: Sens affûtés
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-archer-1.webp
-      sourceId: Compendium.cof-srd.capacities.6fMBx8MyDyHMWkNR
+      sourceId: Compendium.cof-srd-fouderock.capacities.6fMBx8MyDyHMWkNR
     - _id: wYXLsiNtPEoBwso0
       name: Tir aveugle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-archer-2.webp
-      sourceId: Compendium.cof-srd.capacities.wYXLsiNtPEoBwso0
+      sourceId: Compendium.cof-srd-fouderock.capacities.wYXLsiNtPEoBwso0
     - _id: yMC1i4xthIbTNgVV
       name: Tir rapide
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-archer-3.webp
-      sourceId: Compendium.cof-srd.capacities.yMC1i4xthIbTNgVV
+      sourceId: Compendium.cof-srd-fouderock.capacities.yMC1i4xthIbTNgVV
     - _id: Zx6rcrbAgZ7Ws0Ra
       name: Flèche de mort
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-archer-4.webp
-      sourceId: Compendium.cof-srd.capacities.Zx6rcrbAgZ7Ws0Ra
+      sourceId: Compendium.cof-srd-fouderock.capacities.Zx6rcrbAgZ7Ws0Ra
     - _id: qpIE1EzdGxzGlb13
       name: Dans le mille
       img: /modules/cof-srd/ui/icons/capacities/voie-de-l-archer-5.webp
-      sourceId: Compendium.cof-srd.capacities.qpIE1EzdGxzGlb13
+      sourceId: Compendium.cof-srd-fouderock.capacities.qpIE1EzdGxzGlb13
   profile: null
   properties:
     profile: false

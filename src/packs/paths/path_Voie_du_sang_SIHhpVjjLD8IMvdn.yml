@@ -25,23 +25,23 @@ system:
     - _id: pnACupbRpQXbirje
       name: Saignements
       img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-1.webp
-      sourceId: Compendium.cof-srd.capacities.pnACupbRpQXbirje
+      sourceId: Compendium.cof-srd-fouderock.capacities.pnACupbRpQXbirje
     - _id: 24rYqddfdzo3kPvm
       name: Sang mordant
       img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-2.webp
-      sourceId: Compendium.cof-srd.capacities.24rYqddfdzo3kPvm
+      sourceId: Compendium.cof-srd-fouderock.capacities.24rYqddfdzo3kPvm
     - _id: xRMCF3whnKHhpptr
       name: Exsangue
       img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-3.webp
-      sourceId: Compendium.cof-srd.capacities.xRMCF3whnKHhpptr
+      sourceId: Compendium.cof-srd-fouderock.capacities.xRMCF3whnKHhpptr
     - _id: IhIj57GF5GUPg3j6
       name: Hémorragie
       img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-4.webp
-      sourceId: Compendium.cof-srd.capacities.IhIj57GF5GUPg3j6
+      sourceId: Compendium.cof-srd-fouderock.capacities.IhIj57GF5GUPg3j6
     - _id: V7JCs69zYd1Cq1za
       name: Lien de sang
       img: /modules/cof-srd/ui/icons/capacities/voie-du-sang-5.webp
-      sourceId: Compendium.cof-srd.capacities.V7JCs69zYd1Cq1za
+      sourceId: Compendium.cof-srd-fouderock.capacities.V7JCs69zYd1Cq1za
   profile: null
   properties:
     profile: false

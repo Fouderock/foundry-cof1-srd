@@ -36,23 +36,23 @@ system:
     - _id: VKOfkHgRDKOgq59h
       name: Voie de l'assassin
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-assassin.webp
-      sourceId: Compendium.cof-srd.paths.VKOfkHgRDKOgq59h
+      sourceId: Compendium.cof-srd-fouderock.paths.VKOfkHgRDKOgq59h
     - _id: elOUyojJTA99DMtV
       name: Voie de l'aventurier
       img: /modules/cof-srd/ui/icons/paths/voie-de-l-aventurier.webp
-      sourceId: Compendium.cof-srd.paths.elOUyojJTA99DMtV
+      sourceId: Compendium.cof-srd-fouderock.paths.elOUyojJTA99DMtV
     - _id: 3OgIRFgWMaWXKRAZ
       name: Voie du déplacement
       img: /modules/cof-srd/ui/icons/paths/voie-du-deplacement.webp
-      sourceId: Compendium.cof-srd.paths.3OgIRFgWMaWXKRAZ
+      sourceId: Compendium.cof-srd-fouderock.paths.3OgIRFgWMaWXKRAZ
     - _id: kRPc9MeKPfNGC7QH
       name: Voie du roublard
       img: /modules/cof-srd/ui/icons/paths/voie-du-roublard.webp
-      sourceId: Compendium.cof-srd.paths.kRPc9MeKPfNGC7QH
+      sourceId: Compendium.cof-srd-fouderock.paths.kRPc9MeKPfNGC7QH
     - _id: iUauKDYC31NO9ofn
       name: Voie du spadassin
       img: /modules/cof-srd/ui/icons/paths/voie-du-spadassin.webp
-      sourceId: Compendium.cof-srd.paths.iUauKDYC31NO9ofn
+      sourceId: Compendium.cof-srd-fouderock.paths.iUauKDYC31NO9ofn
   proficiencies:
     daggers: false
     swords: false

@@ -27,23 +27,23 @@ system:
     - _id: HKq1CiEy1OnjDVy2
       name: Projectile magique
       img: icons/magic/light/projectile-smoke-blue.webp
-      sourceId: Compendium.cof-srd.capacities.HKq1CiEy1OnjDVy2
+      sourceId: Compendium.cof-srd-fouderock.capacities.HKq1CiEy1OnjDVy2
     - _id: lhZWnADetnQWR1uD
       name: Rayon affaiblissant
       img: icons/magic/unholy/strike-body-life-soul-purple.webp
-      sourceId: Compendium.cof-srd.capacities.lhZWnADetnQWR1uD
+      sourceId: Compendium.cof-srd-fouderock.capacities.lhZWnADetnQWR1uD
     - _id: ltsS6HJyu6fs4dzU
       name: Flèche enflammée
       img: icons/magic/fire/projectile-arrow-fire-orange-yellow.webp
-      sourceId: Compendium.cof-srd.capacities.ltsS6HJyu6fs4dzU
+      sourceId: Compendium.cof-srd-fouderock.capacities.ltsS6HJyu6fs4dzU
     - _id: zmKdQaVhDRkpmess
       name: Boule de feu
       img: icons/magic/fire/projectile-fireball-orange-yellow.webp
-      sourceId: Compendium.cof-srd.capacities.zmKdQaVhDRkpmess
+      sourceId: Compendium.cof-srd-fouderock.capacities.zmKdQaVhDRkpmess
     - _id: supvWZkB2nzlKQjZ
       name: Rituel de puissance
       img: icons/magic/fire/orb-vortex.webp
-      sourceId: Compendium.cof-srd.capacities.supvWZkB2nzlKQjZ
+      sourceId: Compendium.cof-srd-fouderock.capacities.supvWZkB2nzlKQjZ
   profile: null
   properties:
     profile: false

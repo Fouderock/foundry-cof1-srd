@@ -28,15 +28,15 @@ system:
     - _id: TUcEsbLk0fHSIyCt
       name: Vampirisation
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-1.webp
-      sourceId: Compendium.cof-srd.capacities.TUcEsbLk0fHSIyCt
+      sourceId: Compendium.cof-srd-fouderock.capacities.TUcEsbLk0fHSIyCt
     - _id: Gxx6tKeWxZt4O3Hv
       name: Animer un cadavre
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-2.webp
-      sourceId: Compendium.cof-srd.capacities.Gxx6tKeWxZt4O3Hv
+      sourceId: Compendium.cof-srd-fouderock.capacities.Gxx6tKeWxZt4O3Hv
     - _id: 8yWlACOXcig29Bvx
       name: Injonction mortelle
       img: /modules/cof-srd/ui/icons/capacities/voie-de-la-magie-malefique-3.webp
-      sourceId: Compendium.cof-srd.capacities.8yWlACOXcig29Bvx
+      sourceId: Compendium.cof-srd-fouderock.capacities.8yWlACOXcig29Bvx
   profile: null
   properties:
     profile: false

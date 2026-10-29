@@ -25,23 +25,23 @@ system:
     - _id: enLQ9LIRF0x6oTrE
       name: Vitesse du félin
       img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-1.webp
-      sourceId: Compendium.cof-srd.capacities.enLQ9LIRF0x6oTrE
+      sourceId: Compendium.cof-srd-fouderock.capacities.enLQ9LIRF0x6oTrE
     - _id: afgTpeEi8EiqY89I
       name: Panthère
       img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-2.webp
-      sourceId: Compendium.cof-srd.capacities.afgTpeEi8EiqY89I
+      sourceId: Compendium.cof-srd-fouderock.capacities.afgTpeEi8EiqY89I
     - _id: Tm6CnMcyF83iPqyB
       name: Attaque bondissante
       img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-3.webp
-      sourceId: Compendium.cof-srd.capacities.Tm6CnMcyF83iPqyB
+      sourceId: Compendium.cof-srd-fouderock.capacities.Tm6CnMcyF83iPqyB
     - _id: arC7lNfMBfD0HgoF
       name: Grand félin
       img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-4.webp
-      sourceId: Compendium.cof-srd.capacities.arC7lNfMBfD0HgoF
+      sourceId: Compendium.cof-srd-fouderock.capacities.arC7lNfMBfD0HgoF
     - _id: 6ZVHvgNXKVC5d7On
       name: Les sept vies du chat
       img: /modules/cof-srd/ui/icons/capacities/voie-du-fauve-5.webp
-      sourceId: Compendium.cof-srd.capacities.6ZVHvgNXKVC5d7On
+      sourceId: Compendium.cof-srd-fouderock.capacities.6ZVHvgNXKVC5d7On
   profile: null
   properties:
     profile: false

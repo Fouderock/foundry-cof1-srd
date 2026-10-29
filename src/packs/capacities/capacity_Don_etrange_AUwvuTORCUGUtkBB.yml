@@ -19,7 +19,7 @@ ownership:
 system:
   key: don-etrange
   description: >-
-    <h1>Description</h1><p>Le gnome possède un talent inné pour les sciences, qu’elles soient occultes ou plus ordinaires. Le joueur choisit une des deux options suivantes : soit son personnage gagne un bonus de <strong>+5</strong> sur tous les tests d’<strong>INT</strong>, soit il choisit une capacité de rang 1 d’ensorceleur. Il peut utiliser ce sort sans pénalité avec une armure allant jusqu’à la chemise de maille.</p>
+    <h1>Description</h1><p><strong>Coût :</strong> 0 (offert à la création) · <strong>Accès :</strong> Création</p><p>Le gnome possède un talent inné pour les sciences, qu’elles soient occultes ou plus ordinaires. Le joueur choisit une des deux options suivantes : soit son personnage gagne un bonus de <strong>+5</strong> sur tous les tests d’<strong>INT</strong>, soit il choisit une capacité de rang 1 d’ensorceleur. Il peut utiliser ce sort sans pénalité avec une armure allant jusqu’à la chemise de maille.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

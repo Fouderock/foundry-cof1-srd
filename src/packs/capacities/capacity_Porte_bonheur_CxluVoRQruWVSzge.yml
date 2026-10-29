@@ -19,7 +19,7 @@ ownership:
 system:
   key: porte-bonheur
   description: >-
-    <h1>Description</h1><p>Sa valeur de Points de Chance maximum augmente de <strong>+2</strong>. D’un simple geste, mot ou encouragement, le gnome peut transférer <strong>1</strong> de ses PC à un allié (permettant à ce dernier de dépasser temporairement son maximum de 1).</p>
+    <h1>Description</h1><p><strong>Coût :</strong> 1 pt de voie · <strong>Accès :</strong> Niveau 3</p><p>Sa valeur de Points de Chance maximum augmente de <strong>+2</strong>. D’un simple geste, mot ou encouragement, le gnome peut transférer <strong>1</strong> de ses PC à un allié (permettant à ce dernier de dépasser temporairement son maximum de 1).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

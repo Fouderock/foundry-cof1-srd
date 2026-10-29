@@ -54,6 +54,8 @@ system:
     <h2>Racial</h2>
 
     <p>-2 FOR, +2 INT</p>
+
+    <p>Voie raciale : Voie du gnome (rang 1 offert à la création, les rangs suivants se paient en points de voie).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   bonuses:

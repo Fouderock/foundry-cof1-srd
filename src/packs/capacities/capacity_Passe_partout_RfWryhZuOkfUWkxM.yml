@@ -19,7 +19,7 @@ ownership:
 system:
   key: passe-partout
   description: >-
-    <h1>Description</h1><p>Le gnome se faufile là où personne ne passe : conduits, terriers, fissures, entre les jambes d’un géant. Il peut traverser l’espace occupé par une créature plus grande sans provoquer d’attaque d’opportunité. De plus, s’il n’a pas d’armure lourde, il gagne <strong>+3</strong> aux tests pour échapper à une immobilisation, un agrippement ou des liens.</p>
+    <h1>Description</h1><p><strong>Coût :</strong> 2 pts de voie · <strong>Accès :</strong> Niveau 3</p><p>Le gnome se faufile là où personne ne passe : conduits, terriers, fissures, entre les jambes d’un géant. Il peut traverser l’espace occupé par une créature plus grande sans provoquer d’attaque d’opportunité. De plus, s’il n’a pas d’armure lourde, il gagne <strong>+3</strong> aux tests pour échapper à une immobilisation, un agrippement ou des liens.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

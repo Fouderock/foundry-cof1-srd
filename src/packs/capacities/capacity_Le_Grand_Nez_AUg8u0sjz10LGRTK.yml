@@ -19,7 +19,7 @@ ownership:
 system:
   key: le-grand-nez
   description: >-
-    <h1>Description</h1><p>Le nez du gnome est un outil de précision. Il flaire les poisons, les gaz, les créatures à 10 m et la nourriture avariée. Il gagne <strong>+2</strong> aux tests de Perception basés sur l’odorat. En goûtant ou reniflant un ingrédient, une potion ou un plat, il en identifie la nature et les propriétés.</p>
+    <h1>Description</h1><p><strong>Coût :</strong> 1 pt de voie · <strong>Accès :</strong> Niveau 3</p><p>Le nez du gnome est un outil de précision. Il flaire les poisons, les gaz, les créatures à 10 m et la nourriture avariée. Il gagne <strong>+2</strong> aux tests de Perception basés sur l’odorat. En goûtant ou reniflant un ingrédient, une potion ou un plat, il en identifie la nature et les propriétés.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

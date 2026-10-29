@@ -19,7 +19,7 @@ ownership:
 system:
   key: vieux-renard
   description: >-
-    <h1>Description</h1><p>Le gnome a vécu bien plus longtemps que les autres races. Il augmente son <strong>INT</strong> de <strong>+1</strong>. De plus, <strong>1/jour</strong>, face à une créature, un piège ou un mystère, il déclare « J’ai déjà vu ça » : le MJ lui donne gratuitement une information utile (faiblesse, comportement, mécanisme).</p>
+    <h1>Description</h1><p><strong>Coût :</strong> 2 pts de voie · <strong>Accès :</strong> Niveau 3</p><p>Le gnome a vécu bien plus longtemps que les autres races. Il augmente son <strong>INT</strong> de <strong>+1</strong>. De plus, <strong>1/jour</strong>, face à une créature, un piège ou un mystère, il déclare « J’ai déjà vu ça » : le MJ lui donne gratuitement une information utile (faiblesse, comportement, mécanisme).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

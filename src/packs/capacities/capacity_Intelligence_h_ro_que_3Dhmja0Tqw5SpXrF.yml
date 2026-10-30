@@ -1,5 +1,5 @@
 _id: 3Dhmja0Tqw5SpXrF
-name: Intelligence héroïque
+name: Chef-d'œuvre
 type: capacity
 img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-5.webp
 effects: []
@@ -20,19 +20,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: intelligence-heroique
-  description: >-
-    <h1>Description</h1>
-
-    <p>Le personnage augmente sa valeur d'<strong>INT</strong> de +2 et il peut
-    d&eacute;sormais lancer deux d20 &agrave; chaque fois qu'un test
-    d'<strong>INT</strong> lui est demand&eacute; et conserver le meilleur
-    r&eacute;sultat.</p>
-
-    <p>&nbsp;</p>
-
-    <p>Voie du Golem</p>
-
-    <p>&nbsp;</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 5)</p><ul><li><strong>Frappe dévastatrice</strong> : 1/combat, [2d6 + Mod. de <strong>FOR</strong>] <strong>DM</strong> bonus, cible renversée (test de <strong>FOR</strong>).</li><li><strong>Manteau de mana</strong> : le golem est enveloppé d''un halo de mana. +2 DEF permanent, résistance 5 à tous les DM élémentaires (feu, froid, foudre, acide, force). Lueur visible à 30 m.</li><li><strong>Surcharge du cœur</strong> : 1/combat (action gratuite), pour ce tour, le golem gagne +2 au toucher et inflige les dégâts maximums sur toutes ses attaques.</li></ul>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

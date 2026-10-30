@@ -18,11 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: rune-denergie
-  description: >-
-    <h1>Description</h1><p>En réalisant un rituel de 5 minutes, le forgesort
-    enchante un bijou pour 24 h. Celui-ci permet de relancer un d20 une fois par
-    combat sur un test d'attaque, de <strong>FOR</strong>, <strong>DEX</strong>
-    ou <strong>CON</strong>. Un seul bijou de ce type peut être porté.</p>
+  description: <p><strong>Coût :</strong> 1 point de voie (rang 2)</p><p><em>Capacité limitée (L).</em></p><p>En réalisant un rituel de 5 minutes, le Forgesort enchante un bijou pour 24 h. Celui-ci permet de relancer un d20 une fois par combat sur un test d'attaque, de <strong>FOR</strong>, <strong>DEX</strong> ou <strong>CON</strong>. Un seul bijou de ce type peut être porté.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

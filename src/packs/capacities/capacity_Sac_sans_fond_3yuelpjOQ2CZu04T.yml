@@ -18,18 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: sac-sans-fond
-  description: >-
-    <h1>Description</h1><p>Le Forgesort possède un sac dans lequel il peut
-    entreposer 50 kg de matériel par rang dans la voie, tandis que le sac semble
-    toujours ne peser qu’un kilo. Le sac ne fonctionne pas si on tente d’y
-    mettre une créature vivante. Le sac est de plus capable de fournir au
-    Forgesort les objets qu’il désire. Il peut en retirer une pelle, une corde,
-    une épée ou tout objet dont la valeur ne dépasse pas 20 pa, le poids 50 kg,
-    la circonférence 1 m et le volume 1 m3. Pas plus de 20 pa de valeur d’objet
-    créés par le sac sans fond ne peuvent exister simultanément. Ces objets ont
-    hélas la propriété de disparaître au bout d’une heure. De ce fait, la
-    nourriture magique retirée du sac ne nourrit pas vraiment celui qui la
-    consomme.</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 3)</p><p>Il éveille la matière en profondeur — non plus sa surface, mais son âme intérieure. Le Forgesort éveille la structure interne d''un contenant qu''il porte (sac, bourse, coffre, malle) — permanent.</p><ul><li><strong>Capacité</strong> : stocke jusqu''à 50 kg par rang de matériel sans jamais peser plus de 1 kg, sans changer de volume extérieur.</li><li><strong>Rangement animé</strong> : récupérer n''importe quel objet dedans est une action gratuite — l''objet voulu vient se placer dans sa main.</li></ul><p><em>Un sac de forgeron, une besace de campagne, un coffret d''apothicaire — le Forgesort porte sur lui bien plus que ce qu''un homme ordinaire peut soulever.</em></p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

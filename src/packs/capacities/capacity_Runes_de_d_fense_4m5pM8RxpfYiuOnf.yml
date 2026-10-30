@@ -18,10 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: runes-de-defense
-  description: >-
-    <h1>Description</h1><p>Le Forgesort inscrit des runes de protection sur
-    l'ensemble de son équipement et parfois jusque sur sa peau. Il obtient un
-    bonus de +1 en <strong>DEF</strong> par rang dans la voie.</p>
+  description: <p><strong>Coût :</strong> 1 point de voie (rang 1)</p><p>Le Forgesort inscrit des runes de protection sur l'ensemble de son équipement et parfois jusque sur sa peau. Il obtient un bonus de +1 en DEF par rang dans la voie.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

@@ -18,13 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: blocage
-  description: >-
-    <h1>Description</h1><p>Le Forgesort scelle une porte ou un coffre pour une
-    durée en minutes égale à sa valeur d'<strong>INT</strong>. Seul un mot de
-    commande qu'il choisit permet d'ouvrir l'objet. Celui-ci peut toujours être
-    brisé par la force, mais il bénéficie d'un bonus de +5 en solidité et en
-    <strong>RD</strong> (réduction des <strong>DM</strong>) pour toute la durée
-    du sort.</p>
+  description: <p><strong>Coût :</strong> 1 point de voie (rang 2)</p><p><em>Capacité limitée (L).</em></p><p>Il découvre que la matière peut refuser — pas seulement obéir. Le Forgesort scelle une porte ou un coffre pour une durée en minutes égale à sa valeur d'<strong>INT</strong>. Seul un mot de commande qu'il choisit permet d'ouvrir l'objet. Celui-ci peut toujours être brisé par la force, mais il bénéficie d'un bonus de +5 en solidité et en RD pour toute la durée du sort.</p><p><em>Le Forgesort pose sa main sur la serrure, murmure — et l'objet se ferme comme si sa propre volonté refusait de s'ouvrir.</em></p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

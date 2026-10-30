@@ -18,16 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: metal-hurlant
-  description: >-
-    <h1>Description</h1><p>Sur un test d'attaque magique réussi, le Forgesort
-    déforme une pièce d'équipement métallique portée par sa cible. Une arme
-    devient inutilisable et bonne pour le rebut, une armure inflige une pénalité
-    de -5 à tous les tests de son porteur. La victime peut se débarrasser de son
-    armure au prix d'une action limitée. Si l'objet est magique, le sort ne fait
-    effet que 1d4 tours et ne peut viser à nouveau l'objet pour 24 heures.
-    Appliqué à une structure (par exemple une porte blindée), ce sort inflige
-    4d6 <strong>DM</strong> en divisant par 2 sa <strong>RD</strong> (réduction
-    des <strong>DM</strong>).</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 4)</p><p><em>Capacité limitée (L).</em></p><p>Sur un test d''attaque magique réussi, le forgesort déforme une pièce d''équipement métallique portée par sa cible :</p><ul><li><strong>Arme</strong> : devient inutilisable et bonne pour le rebut.</li><li><strong>Armure</strong> : inflige une pénalité de -5 à tous les tests de son porteur (la victime peut s''en débarrasser au prix d''une action limitée).</li><li><strong>Objet magique</strong> : le sort ne fait effet que 1d4 tours et ne peut plus viser cet objet pendant 24 heures.</li><li><strong>Structure</strong> (ex. porte blindée) : inflige 4d6 <strong>DM</strong> en divisant par 2 sa RD.</li></ul>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

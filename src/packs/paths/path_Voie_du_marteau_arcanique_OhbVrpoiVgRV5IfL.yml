@@ -1,0 +1,54 @@
+_id: OhbVrpoiVgRV5IfL
+name: Voie du marteau arcanique
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-du-marteau-arcanique
+  description: '<h1>Description</h1><p>Le Forgesort forge un marteau arcanique qui répond à sa main.</p><h2>Affinité élémentaire</h2><p>À la création de l''artefact, le Forgesort choisit définitivement un type de dégâts supplémentaire :</p><ul><li><strong>🔥 Forge d''ardeur (Feu)</strong> : +1d6 DM de feu. La cible subit également 1d4 DM de brûlure au début de son tour suivant. <em>RP : fond le métal et allume un brasier d''un simple contact.</em></li><li><strong>⚡ Fracas céleste (Foudre)</strong> : +1d6 DM de foudre (+2d6 contre une cible en armure métallique). Un coup frappé contre un obstacle (porte, mur) le fragilise ou le brise.</li><li><strong>❄️ Cœur de gel (Froid)</strong> : +1d6 DM de froid. 1/combat, sur une attaque réussie, le gel annule le prochain déplacement de la cible et lui inflige -2 aux jets d''attaque jusqu''à la fin de son prochain tour.</li></ul>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+  - _id: BcbfnoGMbJmTPSIA
+    name: Marteau-artefact
+    img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.BcbfnoGMbJmTPSIA
+  - _id: oCLrZ3aWZkSBvrjn
+    name: Magnétisme du marteau
+    img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.oCLrZ3aWZkSBvrjn
+  - _id: 9Wvgfygw2wMqZcUD
+    name: Lancer du marteau
+    img: /modules/cof-srd/ui/icons/paths/voie-des-artefacts.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.9Wvgfygw2wMqZcUD
+  - _id: EyUeAloX7pcgDUKa
+    name: Frappe des arcanes
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-4.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.EyUeAloX7pcgDUKa
+  - _id: Qm3wiGW7u7zatbsc
+    name: Artefact majeur
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-5.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.Qm3wiGW7u7zatbsc
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!OhbVrpoiVgRV5IfL'

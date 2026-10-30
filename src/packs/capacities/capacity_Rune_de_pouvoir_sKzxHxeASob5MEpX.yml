@@ -18,17 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: rune-de-pouvoir
-  description: >-
-    <h1>Description</h1><p>Le Forgesort peut lier un sort à un objet par une
-    inscription runique. S’il ne connaît pas lui-même le sort, il doit se faire
-    aider par un personnage qui sait le lancer. Le sort ainsi lié peut être
-    utilisé trois fois par jour. Le processus est le même que pour fabriquer une
-    arme ou une armure magique, remplacez le bonus par le rang du sort à lier.
-    Il peut aussi lier certains sorts à une potion (en général les sorts dont le
-    personnage lui-même est la cible), mais pas au-delà de son rang dans la Voie
-    des élixirs, au prix de un jour de travail et 10 pa par rang du sort. Le PV
-    perdu pour la création d’une potion est récupéré dès que la potion est
-    consommée ou au plus tard après 1 an.</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 5)</p><p>Le Forgesort peut lier un sort à un objet par une inscription runique. S''il ne connaît pas lui-même le sort, il doit se faire aider par un personnage qui sait le lancer. Le sort ainsi lié peut être utilisé trois fois par jour.</p><p>Le processus est le même que pour fabriquer une arme ou une armure magique : remplacez le bonus par le rang du sort à lier.</p><p>Il peut aussi lier certains sorts à une potion (en général les sorts dont le personnage lui-même est la cible), mais pas au-delà de son rang dans la Voie des Élixirs, au prix de 1 jour de travail et 10 pa par rang du sort. Le PV perdu pour la création d''une potion est récupéré dès que la potion est consommée ou au plus tard après 1 an.</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

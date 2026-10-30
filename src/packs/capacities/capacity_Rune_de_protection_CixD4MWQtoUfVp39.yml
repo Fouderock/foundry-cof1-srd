@@ -18,10 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: rune-de-protection
-  description: >-
-    <h1>Description</h1><p>En réalisant un rituel de 5 minutes, le Forgesort
-    enchante une armure pour 24 h. Celle-ci permet d'ignorer les
-    <strong>DM</strong> d'une attaque une fois par combat.</p>
+  description: <p><strong>Coût :</strong> 2 points de voie (rang 3)</p><p><em>Capacité limitée (L).</em></p><p>En réalisant un rituel de 5 minutes, le Forgesort enchante une armure pour 24 h. Celle-ci permet d'ignorer les <strong>DM</strong> d'une attaque une fois par combat.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

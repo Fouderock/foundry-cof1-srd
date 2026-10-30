@@ -18,13 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: frappe-des-arcanes
-  description: >-
-    <h1>Description</h1><p>Le Forgesort frappe le sol de son bâton et provoque
-    une onde dévastatrice dans un rayon de 10 m autour de lui. Toutes les
-    créatures dans la zone subissent automatiquement [2d6 + Mod.
-    d'<strong>INT</strong>] <strong>DM</strong> et doivent réussir un test de
-    <strong>FOR</strong> difficulté [10 + Mod. d'<strong>INT</strong>] pour ne
-    pas tomber au sol.</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 4)</p><p><em>Capacité limitée (L).</em></p><p>Le Forgesort abat son marteau au sol et déclenche une onde de choc (rayon 10 m). Effectuez un jet d''attaque magique : en cas de réussite, inflige [2d6 + Mod. d''<strong>INT</strong>] <strong>DM</strong> magiques à toutes les cibles dans la zone. Les victimes doivent réussir un test de <strong>FOR</strong> (difficulté [10 + Mod. d''<strong>INT</strong>]) ou tomber au sol.</p><p><em>Bonus : +2 au toucher.</em></p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

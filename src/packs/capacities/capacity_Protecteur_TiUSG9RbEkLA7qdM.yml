@@ -1,4 +1,4 @@
-name: Protecteur
+name: Projection arcanique
 type: capacity
 flags: {}
 img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-3.webp
@@ -18,10 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: protecteur
-  description: >-
-    <h1>Description</h1><p>Une fois par tour, s'il est au contact d'un
-    personnage, le golem peut s'interposer et subir les <strong>DM</strong>
-    d'une attaque à sa place.</p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 3)</p><p><em>Atelier : 3 jours / 50 po. 1 recette au choix.</em></p><p>Le Forgesort peut équiper un de ces modules sur lui-même (un seul). Le golem gagne son 2e emplacement de module.</p><ul><li><strong>Arbalète arcanique</strong> : main libre, tir 15 m, [niveau + Mod. de <strong>DEX</strong>], 1d6* <strong>DM</strong>. Chargeur [Mod. d''<strong>INT</strong>] tirs/combat.</li><li><strong>Lance-flammes</strong> : cône 5 m, [1d6 + Mod. d''<strong>INT</strong>] <strong>DM</strong> de feu, test de <strong>DEX</strong> pour ½. 1/combat.</li></ul>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

@@ -18,30 +18,30 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: voie-du-metal
-  description: ''
+  description: <h1>Description</h1><p>Le Forgesort travaille le métal, l'enflamme, l'aimante ou le déforme.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: B2l49F3siHlw01Wp
-      name: Forgeron
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-1.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.B2l49F3siHlw01Wp
-    - _id: QuxpP11yhHTxjZYk
-      name: Métal brûlant
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-2.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.QuxpP11yhHTxjZYk
-    - _id: x1BCum6kt2QbqjxV
-      name: Magnétisme
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-3.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.x1BCum6kt2QbqjxV
-    - _id: kl3jqieUvDSdHmmI
-      name: Métal hurlant
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-4.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.kl3jqieUvDSdHmmI
-    - _id: 1uoqwWFoPe36SgQc
-      name: Endurer
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-5.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.1uoqwWFoPe36SgQc
+  - _id: B2l49F3siHlw01Wp
+    name: Forgeron
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-1.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.B2l49F3siHlw01Wp
+  - _id: QuxpP11yhHTxjZYk
+    name: Métal brûlant
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-2.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.QuxpP11yhHTxjZYk
+  - _id: x1BCum6kt2QbqjxV
+    name: Magnétisme
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-3.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.x1BCum6kt2QbqjxV
+  - _id: kl3jqieUvDSdHmmI
+    name: Métal hurlant
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-4.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.kl3jqieUvDSdHmmI
+  - _id: 1uoqwWFoPe36SgQc
+    name: Endurer
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-metal-5.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.1uoqwWFoPe36SgQc
   profile: null
   properties:
     profile: false

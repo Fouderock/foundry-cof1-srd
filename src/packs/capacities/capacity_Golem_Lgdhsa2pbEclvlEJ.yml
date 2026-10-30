@@ -1,4 +1,4 @@
-name: Golem
+name: Éveil du golem
 type: capacity
 flags: {}
 img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
@@ -18,18 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: golem
-  description: >-
-    <h1>Description</h1><p>Le golem est une créature humanoïde fabriquée par le
-    Forgesort pour lui servir de serviteur et de garde du corps.
-
-    Golem : Créature non-vivante, Init [forgesort], <strong>DEF</strong> 14, PV
-    [4 x niveau], Attaque [niveau + Mod. de <strong>FOR</strong>],
-    <strong>DM</strong> 1d8+1. <strong>FOR</strong> +1, <strong>DEX</strong> -1,
-    <strong>CON</strong> +10, <strong>INT</strong> -4, <strong>SAG</strong> -3,
-    <strong>CHA</strong> -4.
-
-    Le Forgesort peut réparer le golem au rythme de [1d6 par rang + Mod.
-    d’<strong>INT</strong>] PV par heure.</p>
+  description: '<p><strong>Coût :</strong> 1 point de voie (rang 2)</p><p><em>Atelier : 2 jours / 30 po. 1 recette au choix.</em></p><p>Le golem peut manier une arme à une main et gagne son 1er emplacement de module.</p><ul><li><strong>Bras-treuil</strong> : grappin (portée 15 m). Tracte objets et alliés, +5 en Escalade, rattrape un allié qui tombe.</li><li><strong>Module vocal</strong> : le golem parle, comprend les ordres complexes, mémorise et rejoue les messages, imite les voix et sons entendus (projection à 20 m).</li></ul>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

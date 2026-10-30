@@ -1,4 +1,4 @@
-name: Golem supérieur
+name: Ingénierie de guerre
 type: capacity
 flags: {}
 img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
@@ -18,32 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: golem-superieur
-  description: >-
-    <h1>Description</h1><p>Le Forgesort peut améliorer son golem en choisissant
-    une option parmi :
-
-    * Armure : +5 en <strong>DEF</strong> ;
-
-    * Félin : +3 Mod. de <strong>DEX</strong> ;
-
-    * Baliste : portée 20 m, 2d6 <strong>DM</strong> ;
-
-    * Taille : +10 PV et +1 Mod. de <strong>FOR</strong> ;
-
-    * Vol : des « sauts » de 40 m en action limitée ;
-
-    * Cerveau amélioré : +2 Mod. d'<strong>INT</strong>, <strong>SAG</strong>,
-    <strong>CHA</strong>, doué de parole ;
-
-    * Puissant : +2 Mod. de <strong>FOR</strong> ;
-
-    * Arme à deux mains : +1d8 aux <strong>DM</strong> au contact.
-
-    Le joueur peut choisir une option de plus lorsque son personnage atteint les
-    niveaux 9, 13 et 17. Les options peuvent êtres choisies plusieurs fois et
-    cumulées.
-
-    </p>
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 4)</p><p><em>Atelier : 3 jours / 50 po. 1 recette au choix.</em></p><p>Le golem peut manier une arme à deux mains OU deux armes à une main (1 attaque bonus par tour, -2 à tous les jets d''attaque ce tour). Le golem gagne son 3e emplacement de module.</p><ul><li><strong>Protecteur</strong> : 1/tour, au contact d''un allié, s''interpose et subit les <strong>DM</strong> d''une attaque à sa place.</li><li><strong>Miniaturisation</strong> : statuette 16 cm (RD 10). Jeter au sol (10 m) = déploiement. Vision possible à travers la statuette.</li></ul>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

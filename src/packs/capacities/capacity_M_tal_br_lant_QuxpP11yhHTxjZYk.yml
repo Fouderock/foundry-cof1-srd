@@ -18,15 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: metal-brulant
-  description: >-
-    <h1>Description</h1><p>Le Forgesort doit réussir un test d'attaque magique
-    (portée 20 m) pour faire chauffer un objet métallique que sa cible
-    transporte pendant [5 + Mod. d'<strong>INT</strong>] tours. S'il s'agit
-    d'une arme, elle inflige 1 point de <strong>DM</strong> par tour à son
-    porteur et un malus de -2 aux tests d'attaque. S'il s'agit d'une armure,
-    elle inflige 1d4 <strong>DM</strong> par tour à son porteur. La victime peut
-    se débarrasser précipitamment de son armure au prix d'une action
-    limitée.</p>
+  description: '<p><strong>Coût :</strong> 1 point de voie (rang 2)</p><p><em>Capacité limitée (L).</em></p><p>Le forgesort doit réussir un test d''attaque magique (portée 20 m) pour faire chauffer un objet métallique que sa cible transporte pendant [5 + Mod. d''<strong>INT</strong>] tours.</p><ul><li><strong>Arme</strong> : inflige 1 point de <strong>DM</strong> par tour à son porteur et un malus de -2 aux tests d''attaque.</li><li><strong>Armure</strong> : inflige 1d4 <strong>DM</strong> par tour à son porteur.</li></ul><p>La victime peut se débarrasser précipitamment de son armure au prix d''une action limitée.</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

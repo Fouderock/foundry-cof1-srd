@@ -18,11 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: magnetisme
-  description: >-
-    <h1>Description</h1><p>Le Forgesort contrôle le magnétisme autour de lui
-    pendant [3 + Mod. d'<strong>INT</strong>] tours. Il gagne un bonus de +5 en
-    <strong>DEF</strong> et divise par 2 les <strong>DM</strong> de toutes les
-    armes ou projectiles métalliques.</p>
+  description: <p><strong>Coût :</strong> 2 points de voie (rang 3)</p><p><em>Capacité limitée (L).</em></p><p>Le forgesort contrôle le magnétisme autour de lui pendant [3 + Mod. d'<strong>INT</strong>] tours. Il gagne un bonus de +5 en DEF et divise par 2 les <strong>DM</strong> de toutes les armes ou projectiles métalliques.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

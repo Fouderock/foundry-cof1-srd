@@ -1,0 +1,67 @@
+name: Animation de masse
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+_id: UpkDyr7OSJoRu1XX
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: animation-de-masse
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 5)</p><p>Il n''a plus besoin de préparer le terrain. D''un seul mot, il éveille la matière autour de lui et force le monde à lui obéir. <strong>Gain passif</strong> : +2 en <strong>INT</strong>.</p><p><strong>En combat (1/jour)</strong> : il anime tous les objets légers environnants (outils, chaises, cordes, pierres, vaisselle) dans une zone de 10 m de rayon autour de lui pendant 3 tours. La zone devient un terrain difficile.</p><p><strong>Effet sur les ennemis</strong> : à leur tour, les victimes dans la zone doivent réussir un test de <strong>DEX</strong> (difficulté [10 + Mod. d''<strong>INT</strong>]). En cas d''échec, elles subissent -4 en DEF, -4 en Initiative et prennent 1d6 <strong>DM</strong> d''impact. En cas de réussite, elles évitent les malus et ne subissent que la moitié des dégâts.</p>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!UpkDyr7OSJoRu1XX'

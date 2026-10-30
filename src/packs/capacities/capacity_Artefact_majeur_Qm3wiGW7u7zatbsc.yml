@@ -18,21 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: artefact-majeur
-  description: >-
-    <h1>Description</h1><p>Le Forgesort peut enchanter des objets. Il peut créer
-    une arme qui donne un bonus de +1 aux tests d’attaque et aux
-    <strong>DM</strong> ou une armure qui donne un bonus de +1 en
-    <strong>DEF</strong> et réduit le malus d’encombrement d’autant. Le bonus
-    passe à +2 lorsque le personnage atteint le niveau 8 puis augmente de +1
-    tous les 3 niveaux (+5 au niveau 17).
-
-    Il faut un mois de travail et la dépense de 100 po par point de bonus pour
-    créer l’objet. A la fin, le Forgesort doit réaliser un test
-    d’<strong>INT</strong> difficulté [10 + 3 x bonus de l’objet] avec un bonus
-    égal au rang atteint dans la Voie du métal. En cas d’échec, l’objet n’est
-    pas enchanté et il faut recommencer (l’argent est perdu !). En cas de
-    succès, le Forgesort doit insuffler un peu d’énergie vitale dans l’objet :
-    il sacrifie 1 PV qu’il perd définitivement sur son score de PV maximum.</p>
+  description: <p><strong>Coût :</strong> 2 points de voie (rang 5)</p><p>Le Forgesort sacrifie définitivement 1 <strong>PV</strong> max. Son marteau devient indestructible et peut être rappelé en main de n'importe où (action de mouvement, 1 tour de délai si hors de portée de vue).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

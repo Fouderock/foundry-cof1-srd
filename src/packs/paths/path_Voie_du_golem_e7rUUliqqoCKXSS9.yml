@@ -18,30 +18,30 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: voie-du-golem
-  description: ''
+  description: '<h1>Description</h1><p>Le golem gagne 1 emplacement de module au rang 2, un 2e au rang 3 et un 3e au rang 4 (3 max, dont 1 seul module spécial). À chaque rang, le Forgesort choisit UNE recette parmi les 3 proposées et la débloque définitivement. Fabrication à l''atelier. Installer/désinstaller : 10 min.</p><h2>Amélioration d''un module</h2><p>Gratuit, une seule fois, puis à nouveau aux niveaux 8 et 13 : le Forgesort choisit un de ses modules équipés et le renforce en permanence (portée étendue, dé de dégâts supplémentaire, effet renforcé — validation MJ).</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: gK4ZinhyfSe2XdQ5
-      name: Grosse tête
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-1.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.gK4ZinhyfSe2XdQ5
-    - _id: Lgdhsa2pbEclvlEJ
-      name: Golem
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.Lgdhsa2pbEclvlEJ
-    - _id: TiUSG9RbEkLA7qdM
-      name: Protecteur
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-3.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.TiUSG9RbEkLA7qdM
-    - _id: nBbEJxE0DBhqmIl0
-      name: Golem supérieur
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.nBbEJxE0DBhqmIl0
-    - _id: 3Dhmja0Tqw5SpXrF
-      name: Intelligence héroïque
-      img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-5.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.3Dhmja0Tqw5SpXrF
+  - _id: gK4ZinhyfSe2XdQ5
+    name: Châssis
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-1.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.gK4ZinhyfSe2XdQ5
+  - _id: Lgdhsa2pbEclvlEJ
+    name: Éveil du golem
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-2.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.Lgdhsa2pbEclvlEJ
+  - _id: TiUSG9RbEkLA7qdM
+    name: Projection arcanique
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-3.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.TiUSG9RbEkLA7qdM
+  - _id: nBbEJxE0DBhqmIl0
+    name: Ingénierie de guerre
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-4.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.nBbEJxE0DBhqmIl0
+  - _id: 3Dhmja0Tqw5SpXrF
+    name: Chef-d'œuvre
+    img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-5.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.3Dhmja0Tqw5SpXrF
   profile: null
   properties:
     profile: false

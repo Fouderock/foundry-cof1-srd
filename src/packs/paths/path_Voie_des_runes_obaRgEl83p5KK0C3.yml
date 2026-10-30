@@ -18,30 +18,30 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: voie-des-runes
-  description: ''
+  description: <h1>Description</h1><p>Un personnage ne peut porter qu'une seule rune de chaque type sur lui-même ou son équipement à la fois. Si l'équipement change de main ou si le sort est utilisé, la rune est dissipée.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   capacities:
-    - _id: 4m5pM8RxpfYiuOnf
-      name: Runes de défense
-      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-1.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.4m5pM8RxpfYiuOnf
-    - _id: JJizCcDxL98PkO5y
-      name: Rune d'énergie
-      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-2.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.JJizCcDxL98PkO5y
-    - _id: CixD4MWQtoUfVp39
-      name: Rune de protection
-      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-3.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.CixD4MWQtoUfVp39
-    - _id: hb69uDWUaub85V2s
-      name: Rune de puissance
-      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-4.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.hb69uDWUaub85V2s
-    - _id: sKzxHxeASob5MEpX
-      name: Rune de pouvoir
-      img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-5.webp
-      sourceId: Compendium.cof-srd-fouderock.capacities.sKzxHxeASob5MEpX
+  - _id: 4m5pM8RxpfYiuOnf
+    name: Runes de défense
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-1.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.4m5pM8RxpfYiuOnf
+  - _id: JJizCcDxL98PkO5y
+    name: Rune d'énergie
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-2.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.JJizCcDxL98PkO5y
+  - _id: CixD4MWQtoUfVp39
+    name: Rune de protection
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-3.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.CixD4MWQtoUfVp39
+  - _id: hb69uDWUaub85V2s
+    name: Rune de puissance
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-4.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.hb69uDWUaub85V2s
+  - _id: sKzxHxeASob5MEpX
+    name: Rune de pouvoir
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-runes-5.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.sKzxHxeASob5MEpX
   profile: null
   properties:
     profile: false

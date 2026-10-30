@@ -1,0 +1,67 @@
+name: Corde animée
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+_id: xkxwnQrS7RPeMOkI
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: corde-animée
+  description: '<p><strong>Coût :</strong> 2 points de voie (rang 4)</p><p><em>Capacité limitée (L).</em></p><p>Il ne se contente plus d''éveiller — il crée. Il tresse une matière qui vit et obéit. Le Forgesort tresse une corde vivante (ou une chaîne, ou une liane), qu''il fabrique lui-même. Une fois éveillée, elle lui obéit à volonté.</p><p>Il peut la commander à distance jusqu''à 20 m pendant [Mod. d''<strong>INT</strong>] tours (action limitée). Elle rampe, grimpe, se noue seule (+5 en Escalade pour un allié qui l''utilise).</p><p><strong>Résistance</strong> : la corde possède 3 Points de Structure (DEF 12). Chaque attaque réussie contre elle lui fait perdre 1 Point. Si l''attaque provient d''une arme tranchante ou du feu, elle perd 2 Points. À 0 Point, la corde rompt et doit être retressée hors combat.</p>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!xkxwnQrS7RPeMOkI'

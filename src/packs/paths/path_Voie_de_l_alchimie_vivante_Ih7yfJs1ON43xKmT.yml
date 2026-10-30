@@ -1,0 +1,54 @@
+_id: Ih7yfJs1ON43xKmT
+name: Voie de l'alchimie vivante
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-alchimie-vivante
+  description: '<h1>Description</h1><p>Le Forgesort commence par distiller la matière — plantes, minéraux, ingrédients. Puis il apprend qu''il peut faire plus : convaincre un objet de refuser de s''ouvrir, éveiller le vide d''un sac, tresser une corde qui obéit. À chaque rang, sa relation à la matière s''approfondit. Au bout du chemin, tout ce qui l''entoure lui répond.</p>'
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+  - _id: ecQoXsf2o3gyrDO1
+    name: Alchimie
+    img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.ecQoXsf2o3gyrDO1
+  - _id: 5zvftu65ry6VlwiD
+    name: Blocage
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-2.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.5zvftu65ry6VlwiD
+  - _id: 3yuelpjOQ2CZu04T
+    name: Sac sans fond
+    img: /modules/cof-srd/ui/icons/capacities/voie-des-artefacts-3.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.3yuelpjOQ2CZu04T
+  - _id: xkxwnQrS7RPeMOkI
+    name: Corde animée
+    img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.xkxwnQrS7RPeMOkI
+  - _id: UpkDyr7OSJoRu1XX
+    name: Animation de masse
+    img: /modules/cof-srd/ui/icons/paths/voie-des-elixirs.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.UpkDyr7OSJoRu1XX
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!Ih7yfJs1ON43xKmT'

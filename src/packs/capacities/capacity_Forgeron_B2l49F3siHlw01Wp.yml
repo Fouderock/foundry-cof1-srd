@@ -18,13 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: forgeron
-  description: >-
-    <h1>Description</h1><p>Le Forgesort obtient un bonus de +2 par Rang dans la
-    Voie aux tests d'orfèvrerie ou de forge. Au prix d'une action de mouvement,
-    il peut enflammer son marteau ou son bâton pour une durée de [5 + Mod.
-    d'<strong>INT</strong>] tours et gagne alors un bonus aux
-    <strong>DM</strong> de +1 par rang dans la voie avec cette arme
-    (<strong>DM</strong> de feu).</p>
+  description: <p><strong>Coût :</strong> 1 point de voie (rang 1)</p><p>Le forgesort obtient un bonus de +2 par rang dans la voie aux tests d'orfèvrerie ou de forge. Au prix d'une action de mouvement, il peut enflammer son marteau ou son bâton pour une durée de [5 + Mod. d'<strong>INT</strong>] tours et gagne alors un bonus aux <strong>DM</strong> de +1 par rang dans la voie avec cette arme (<strong>DM</strong> de feu).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

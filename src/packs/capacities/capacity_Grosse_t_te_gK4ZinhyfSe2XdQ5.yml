@@ -1,4 +1,4 @@
-name: Grosse tête
+name: Châssis
 type: capacity
 flags: {}
 img: /modules/cof-srd/ui/icons/capacities/voie-du-golem-1.webp
@@ -18,12 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: grosse-tete
-  description: >-
-    <h1>Description</h1><p>Le Forgesort remplace la force brutale par un peu de
-    réflexion. Il peut effectuer un test d'<strong>INT</strong> au lieu d'un
-    test de <strong>FOR</strong> (exemple : il utilise un levier pour déplacer
-    une lourde charge). Il obtient un bonus de +2 par rang dans la voie à tous
-    les tests de bricolage ou de science.</p>
+  description: '<p><strong>Coût :</strong> 1 point de voie (rang 1)</p><p>Le Forgesort gagne +2 par rang aux tests de bricolage et de science. Il assemble un golem arcanique bipède (taille M) autour d''un cœur de mana, dont la lueur (couleur au choix) est la signature.</p><p><strong>Golem arcanique</strong> — Créature non vivante<br/>DEF 14 | Init [Init du Forgesort] | PV [4 × niveau + 10]<br/>Attaque [niveau + Mod. de <strong>FOR</strong>] | DM 1d4+1 (poings)<br/>FOR +1 | DEX 0 | CON +10 | INT -3 | SAG -3 | CHA -3</p><p>Ordres simples. Réparation : 1 repos long.</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

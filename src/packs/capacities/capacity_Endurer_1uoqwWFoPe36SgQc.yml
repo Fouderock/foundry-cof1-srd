@@ -18,12 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: endurer
-  description: >-
-    <h1>Description</h1><p>Le Forgesort est habitué aux travaux et à la chaleur
-    de la forge. Il réduit tous les <strong>DM</strong> de feu subits de 5
-    points et augmente sa valeur de <strong>CON</strong> de +2. Il peut
-    désormais lancer deux d20 à chaque fois qu'un test de <strong>CON</strong>
-    lui est demandé, en gardant le meilleur résultat.</p>
+  description: <p><strong>Coût :</strong> 2 points de voie (rang 5)</p><p>Le forgesort est habitué aux travaux et à la chaleur de la forge.</p><ul><li>Réduit tous les <strong>DM</strong> de feu subits de 5 points.</li><li>Augmente sa valeur de <strong>CON</strong> de +2.</li><li>Lance désormais deux d20 à chaque test de <strong>CON</strong> et garde le meilleur résultat.</li></ul>
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

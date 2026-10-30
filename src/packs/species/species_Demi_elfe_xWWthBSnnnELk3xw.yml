@@ -40,7 +40,7 @@ system:
 
     <h2>Racial</h2>
 
-    <p>-2 CON, +2 SAG</p><h2>Voie raciale</h2><p>Le demi-elfe peut choisir le rang juste au-dessus de celui qu''il possède et choisit entre la race d''elfe à laquelle il appartient et l''humain.</p>'
+    <p>-2 CON, +2 SAG</p><h2>Voie raciale</h2><p>Le demi-elfe peut choisir le rang juste au-dessus de celui qu''il possède et choisit entre la race d''elfe à laquelle il appartient (elfe sylvain ou haut-elfe) et l''humain.</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   bonuses:
@@ -65,6 +65,10 @@ system:
     name: Voie du haut-elfe
     img: /modules/cof-srd/ui/icons/paths/voie-du-haut-elfe.webp
     sourceId: Compendium.cof-srd-fouderock.paths.Ax95ays7Dcw2kDFS
+  - _id: OGMU9hR3ZMiNj7Xb
+    name: Voie de l'elfe sylvain
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-elfe-sylvain.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.OGMU9hR3ZMiNj7Xb
   capacities:
   - _id: qbbpWew1pv73yATQ
     name: Instinct de survie

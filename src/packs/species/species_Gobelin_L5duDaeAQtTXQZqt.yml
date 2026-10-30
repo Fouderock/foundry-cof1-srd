@@ -33,6 +33,10 @@ system:
     name: Voie du gobelin
     img: /modules/cof-srd/ui/icons/paths/voie-du-gobelin.svg
     sourceId: Compendium.cof-srd-fouderock.paths.prfh19GpMEwe1hdo
+  - _id: Jh9dUJpLAYEu5jUV
+    name: Voie de l'humain
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-humain.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.Jh9dUJpLAYEu5jUV
   capacities: []
   racial: ''
   age: ''

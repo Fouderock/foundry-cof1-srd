@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: voie-raciale
-  description: <p><strong>Coût :</strong> 0 · <strong>Accès :</strong> niveau 3</p><p>Passif.</p>
+  description: '<p><strong>Coût :</strong> 0 · <strong>Accès :</strong> niveau 3</p><p>Passif. Capacité additive : le personnage choisit le rang qu''il prend dans sa voie raciale. Ce rang bloque le même rang dans les autres voies raciales.</p>'
   source: Chroniques Oubliées DRS
   moduleData: {}
   type: null

@@ -18,41 +18,37 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ensorceleur
-  description: >-
-    <h1>Description</h1><p>L'Ensorceleur tire son pouvoir d'un talent inné pour
-    la magie. Il pratique une magie subtile à base de tromperie et de contrôle,
-    et possède peu de sorts de destruction
-    massive.</p><h1>Maîtrise</h1><p>L'Ensorceleur sait manier la dague et le
-    bâton ferré. Il ne peut porter aucune armure (sauf si elle est faite de
-    tissu) et ne peut pas manier le bouclier.</p><h1>Possessions de
-    départ</h1><p>Bâton ferré (<strong>DM</strong> 1d6), dague
-    (<strong>DM</strong> 1d4), potion de soins (guérit 1d8 PV).</p>
+  description: <h1>Description</h1><p>L'Ensorceleur tire son pouvoir d'un talent inné pour la magie. Il pratique une magie subtile à base de tromperie et de contrôle, et possède peu de sorts de destruction massive.</p><h1>Maîtrise</h1><p>L'Ensorceleur sait manier la dague et le bâton ferré. Il ne peut porter aucune armure (sauf si elle est faite de tissu) et ne peut pas manier le bouclier.</p><h1>Possessions de départ</h1><p>Bâton ferré (<strong>DM</strong> 1d6), dague (<strong>DM</strong> 1d4), potion de soins (guérit 1d8 PV).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   dv: 1d4
   spellcasting: cha
   mpfactor: '2'
   paths:
-    - _id: vp7tGzTxsxBekRMO
-      name: Voie de l'air
-      img: /modules/cof-srd/ui/icons/paths/voie-de-l-air.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.vp7tGzTxsxBekRMO
-    - _id: lZxlgPV96xb0pAaN
-      name: Voie de l'envoûteur
-      img: /modules/cof-srd/ui/icons/paths/voie-de-l-envouteur.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.lZxlgPV96xb0pAaN
-    - _id: Hl99UYqIJD3iZhDJ
-      name: Voie de l'invocation
-      img: /modules/cof-srd/ui/icons/paths/voie-de-l-invocation.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.Hl99UYqIJD3iZhDJ
-    - _id: iksdg2OihwpoDhfJ
-      name: Voie de la divination
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-divination.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.iksdg2OihwpoDhfJ
-    - _id: j0IZ7CeSBm9ggCOl
-      name: Voie des illusions
-      img: /modules/cof-srd/ui/icons/paths/voie-des-illusions.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.j0IZ7CeSBm9ggCOl
+  - _id: vp7tGzTxsxBekRMO
+    name: Voie de l'air
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-air.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.vp7tGzTxsxBekRMO
+  - _id: lZxlgPV96xb0pAaN
+    name: Voie de l'envoûteur
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-envouteur.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.lZxlgPV96xb0pAaN
+  - _id: Hl99UYqIJD3iZhDJ
+    name: Voie de l'invocation
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-invocation.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.Hl99UYqIJD3iZhDJ
+  - _id: iksdg2OihwpoDhfJ
+    name: Voie de la divination
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-divination.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.iksdg2OihwpoDhfJ
+  - _id: j0IZ7CeSBm9ggCOl
+    name: Voie des illusions
+    img: /modules/cof-srd/ui/icons/paths/voie-des-illusions.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.j0IZ7CeSBm9ggCOl
+  - _id: zOHziuX1tPzblJcq
+    name: Voie de l'adepte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.zOHziuX1tPzblJcq
   proficiencies:
     daggers: false
     swords: false

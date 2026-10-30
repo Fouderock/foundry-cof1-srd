@@ -18,42 +18,37 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: druide
-  description: >-
-    <h1>Description</h1><p>Le Druide est un prêtre de la nature qui défend sa
-    pureté originelle et tire ses pouvoirs de la vie, des animaux et des
-    plantes.</p><h1>Maîtrise</h1><p>Le Druide (équivalent à un bâton ferré),
-    l'épieu, le javelot et l'arc court. Il peut porter l'armure de cuir et peut
-    manier le petit bouclier en bois
-    (<strong>DEF</strong>+1).</p><h1>Possessions de départ</h1><p>Bâton
-    (<strong>DM</strong> 1d6), dague (<strong>DM</strong> 1d4), arc court
-    (<strong>DM</strong> 1d6, portée 30 m), armure de cuir (<strong>DEF</strong>
-    +2).</p>
+  description: <h1>Description</h1><p>Le Druide est un prêtre de la nature qui défend sa pureté originelle et tire ses pouvoirs de la vie, des animaux et des plantes.</p><h1>Maîtrise</h1><p>Le Druide (équivalent à un bâton ferré), l'épieu, le javelot et l'arc court. Il peut porter l'armure de cuir et peut manier le petit bouclier en bois (<strong>DEF</strong>+1).</p><h1>Possessions de départ</h1><p>Bâton (<strong>DM</strong> 1d6), dague (<strong>DM</strong> 1d4), arc court (<strong>DM</strong> 1d6, portée 30 m), armure de cuir (<strong>DEF</strong> +2).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   dv: 1d8
   spellcasting: wis
   mpfactor: '1'
   paths:
-    - _id: IS8mjVUM4Obb3Wr8
-      name: Voie de la nature
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-nature.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.IS8mjVUM4Obb3Wr8
-    - _id: 339GSAocwWR4fFns
-      name: Voie des animaux
-      img: /modules/cof-srd/ui/icons/paths/voie-des-animaux.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.339GSAocwWR4fFns
-    - _id: cCoft8KbLoSohR5E
-      name: Voie des végétaux
-      img: /modules/cof-srd/ui/icons/paths/voie-des-vegetaux.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.cCoft8KbLoSohR5E
-    - _id: 1SO8W2jhhkTYoL7S
-      name: Voie du fauve
-      img: /modules/cof-srd/ui/icons/paths/voie-du-fauve.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.1SO8W2jhhkTYoL7S
-    - _id: 8ipQUArFRlAFxiQ5
-      name: Voie du protecteur
-      img: /modules/cof-srd/ui/icons/paths/voie-du-protecteur.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.8ipQUArFRlAFxiQ5
+  - _id: IS8mjVUM4Obb3Wr8
+    name: Voie de la nature
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-nature.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.IS8mjVUM4Obb3Wr8
+  - _id: 339GSAocwWR4fFns
+    name: Voie des animaux
+    img: /modules/cof-srd/ui/icons/paths/voie-des-animaux.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.339GSAocwWR4fFns
+  - _id: cCoft8KbLoSohR5E
+    name: Voie des végétaux
+    img: /modules/cof-srd/ui/icons/paths/voie-des-vegetaux.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.cCoft8KbLoSohR5E
+  - _id: 1SO8W2jhhkTYoL7S
+    name: Voie du fauve
+    img: /modules/cof-srd/ui/icons/paths/voie-du-fauve.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.1SO8W2jhhkTYoL7S
+  - _id: 8ipQUArFRlAFxiQ5
+    name: Voie du protecteur
+    img: /modules/cof-srd/ui/icons/paths/voie-du-protecteur.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.8ipQUArFRlAFxiQ5
+  - _id: zOHziuX1tPzblJcq
+    name: Voie de l'adepte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.zOHziuX1tPzblJcq
   proficiencies:
     daggers: false
     swords: false

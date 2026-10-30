@@ -1,0 +1,54 @@
+_id: zOHziuX1tPzblJcq
+name: Voie de l'adepte
+type: path
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: voie-de-l-adepte
+  description: <h1>Description</h1><p>Voie réservée aux lanceurs de sort, accessible à partir du niveau 3.</p>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  capacities:
+  - _id: 3ZIonpC79A9jDc3j
+    name: Voie raciale
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.3ZIonpC79A9jDc3j
+  - _id: aszqGBLFBc5Glc6D
+    name: Sensibilité au flux
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.aszqGBLFBc5Glc6D
+  - _id: 7K2lCqzy4TTXU6hj
+    name: Focalisation intuitive
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.7K2lCqzy4TTXU6hj
+  - _id: XGs9efEintffqus8
+    name: Esprit supérieur
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.XGs9efEintffqus8
+  - _id: n62afkduAsZuZuc7
+    name: Surcharge arcanique
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.capacities.n62afkduAsZuZuc7
+  profile: null
+  properties:
+    profile: false
+    prestige: false
+    alternative: false
+    racial: false
+    creature: false
+folder: null
+sort: 0
+_key: '!items!zOHziuX1tPzblJcq'

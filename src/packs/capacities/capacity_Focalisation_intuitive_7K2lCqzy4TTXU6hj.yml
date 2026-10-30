@@ -1,0 +1,67 @@
+name: Focalisation intuitive
+type: capacity
+flags: {}
+img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+_id: 7K2lCqzy4TTXU6hj
+effects: []
+_stats:
+  coreVersion: '12.343'
+  systemId: null
+  systemVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
+ownership:
+  default: 0
+  2iWYjvpZCb5uRmvI: 3
+system:
+  key: focalisation-intuitive
+  description: <p><strong>Coût :</strong> 1 point de voie · <strong>Accès :</strong> niveau 3</p><p>Passif.</p><ul><li>Le mage peut choisir une capacité de rang 1 de n'importe quel autre profil de lanceur de sort (Ensorceleur, Prêtre, etc.). Il peut l'utiliser une seule fois par combat.</li></ul>
+  source: Chroniques Oubliées DRS
+  moduleData: {}
+  type: null
+  summary: ''
+  rank: null
+  path: ''
+  checked: false
+  limited: false
+  spell: false
+  ranged: false
+  limitedUsage: false
+  save: false
+  activable: false
+  heal: false
+  attack: false
+  useMacro: false
+  buff: false
+  noXpCost: false
+  properties:
+    ranged:
+      range: ''
+      radius: ''
+    limitedUsage:
+      use: 0
+      maxUse: 0
+    save:
+      stat: ''
+      difficulty: ''
+      text: ''
+    heal:
+      formula: null
+    attack:
+      skill: ''
+      skillBonus: ''
+      difficulty: null
+      dmgBase: ''
+      dmgStat: ''
+    macro:
+      name: null
+      id: null
+      pack: null
+    buff:
+      activated: false
+folder: null
+sort: 0
+_key: '!items!7K2lCqzy4TTXU6hj'

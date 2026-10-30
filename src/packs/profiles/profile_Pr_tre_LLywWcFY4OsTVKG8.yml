@@ -18,36 +18,37 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: pretre
-  description: >-
-    <h1>Description</h1><p>Le Prêtre utilise l'énergie transmise par son dieu
-    pour mener à bien ses missions  avec la force de la foi mais aussi celle des
-    armes si nécessaire.</p>
+  description: <h1>Description</h1><p>Le Prêtre utilise l'énergie transmise par son dieu pour mener à bien ses missions  avec la force de la foi mais aussi celle des armes si nécessaire.</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   dv: 1d8
   spellcasting: wis
   mpfactor: '1'
   paths:
-    - _id: JapFMdsUhcoKyqSK
-      name: Voie de la foi
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-foi.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.JapFMdsUhcoKyqSK
-    - _id: U0cH2vLItLdGLtaT
-      name: Voie de la guerre sainte
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre-sainte.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.U0cH2vLItLdGLtaT
-    - _id: fevBHIK43BNZ94fG
-      name: Voie de la prière
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-priere.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.fevBHIK43BNZ94fG
-    - _id: lvdHef01zckRtEL5
-      name: Voie de la spiritualité
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-spiritualite.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.lvdHef01zckRtEL5
-    - _id: Rk5M013FMlikBZ3d
-      name: Voie des soins
-      img: /modules/cof-srd/ui/icons/paths/voie-des-soins.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.Rk5M013FMlikBZ3d
+  - _id: JapFMdsUhcoKyqSK
+    name: Voie de la foi
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-foi.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.JapFMdsUhcoKyqSK
+  - _id: U0cH2vLItLdGLtaT
+    name: Voie de la guerre sainte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-guerre-sainte.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.U0cH2vLItLdGLtaT
+  - _id: fevBHIK43BNZ94fG
+    name: Voie de la prière
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-priere.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.fevBHIK43BNZ94fG
+  - _id: lvdHef01zckRtEL5
+    name: Voie de la spiritualité
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-spiritualite.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.lvdHef01zckRtEL5
+  - _id: Rk5M013FMlikBZ3d
+    name: Voie des soins
+    img: /modules/cof-srd/ui/icons/paths/voie-des-soins.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.Rk5M013FMlikBZ3d
+  - _id: zOHziuX1tPzblJcq
+    name: Voie de l'adepte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.zOHziuX1tPzblJcq
   proficiencies:
     daggers: false
     swords: false

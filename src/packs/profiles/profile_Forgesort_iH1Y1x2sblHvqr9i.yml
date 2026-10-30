@@ -53,6 +53,10 @@ system:
     name: Voie de l'alchimie vivante
     img: /modules/cof-srd/ui/icons/paths/voie-de-l-alchimie-vivante.webp
     sourceId: Compendium.cof-srd-fouderock.paths.Ih7yfJs1ON43xKmT
+  - _id: zOHziuX1tPzblJcq
+    name: Voie de l'adepte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.zOHziuX1tPzblJcq
   proficiencies:
     daggers: false
     swords: false

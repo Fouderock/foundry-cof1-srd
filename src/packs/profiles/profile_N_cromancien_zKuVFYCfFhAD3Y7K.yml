@@ -18,41 +18,37 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: necromancien
-  description: >-
-    <h1>Description</h1><p>Les Nécromanciens sont généralement considérés comme
-    maléfiques et sont peu appréciés. Interprétez-le de façon subtile afin d'en
-    faire un personnage plutôt sombre ou désespéré, mais pas forcément « mauvais
-    » !</p><h1>Maîtrise</h1><p>Le Nécromancien sait manier la dague et le bâton
-    ferré. Il ne peut porter aucune  armure (sauf si celle-ci est faite de
-    tissu) et ne peut pas manier le bouclier.</p><h1>Possessions de
-    départ</h1><p>Bâton ferré (<strong>DM</strong> 1d6), dague
-    (<strong>DM</strong> 1d4), potion de soins (guérit 1d8 PV).</p>
+  description: <h1>Description</h1><p>Les Nécromanciens sont généralement considérés comme maléfiques et sont peu appréciés. Interprétez-le de façon subtile afin d'en faire un personnage plutôt sombre ou désespéré, mais pas forcément « mauvais » !</p><h1>Maîtrise</h1><p>Le Nécromancien sait manier la dague et le bâton ferré. Il ne peut porter aucune  armure (sauf si celle-ci est faite de tissu) et ne peut pas manier le bouclier.</p><h1>Possessions de départ</h1><p>Bâton ferré (<strong>DM</strong> 1d6), dague (<strong>DM</strong> 1d4), potion de soins (guérit 1d8 PV).</p>
   source: Chroniques Oubliées DRS
   moduleData: {}
   dv: 1d4
   spellcasting: int
   mpfactor: '2'
   paths:
-    - _id: uD7KSACQFxGBGTxL
-      name: Voie de l'outre-tombe
-      img: /modules/cof-srd/ui/icons/paths/voie-de-l-outre-tombe.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.uD7KSACQFxGBGTxL
-    - _id: yWiDuKdX6rZws3vL
-      name: Voie de la mort
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-mort.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.yWiDuKdX6rZws3vL
-    - _id: f8XOdvzgs0F6d1UR
-      name: Voie de la sombre magie
-      img: /modules/cof-srd/ui/icons/paths/voie-de-la-sombre-magie.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.f8XOdvzgs0F6d1UR
-    - _id: 2NRcmGCRxpOEPgOA
-      name: Voie du démon
-      img: /modules/cof-srd/ui/icons/paths/voie-du-demon.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.2NRcmGCRxpOEPgOA
-    - _id: SIHhpVjjLD8IMvdn
-      name: Voie du sang
-      img: /modules/cof-srd/ui/icons/paths/voie-du-sang.webp
-      sourceId: Compendium.cof-srd-fouderock.paths.SIHhpVjjLD8IMvdn
+  - _id: uD7KSACQFxGBGTxL
+    name: Voie de l'outre-tombe
+    img: /modules/cof-srd/ui/icons/paths/voie-de-l-outre-tombe.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.uD7KSACQFxGBGTxL
+  - _id: yWiDuKdX6rZws3vL
+    name: Voie de la mort
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-mort.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.yWiDuKdX6rZws3vL
+  - _id: f8XOdvzgs0F6d1UR
+    name: Voie de la sombre magie
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-sombre-magie.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.f8XOdvzgs0F6d1UR
+  - _id: 2NRcmGCRxpOEPgOA
+    name: Voie du démon
+    img: /modules/cof-srd/ui/icons/paths/voie-du-demon.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.2NRcmGCRxpOEPgOA
+  - _id: SIHhpVjjLD8IMvdn
+    name: Voie du sang
+    img: /modules/cof-srd/ui/icons/paths/voie-du-sang.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.SIHhpVjjLD8IMvdn
+  - _id: zOHziuX1tPzblJcq
+    name: Voie de l'adepte
+    img: /modules/cof-srd/ui/icons/paths/voie-de-la-magie-des-arcanes.webp
+    sourceId: Compendium.cof-srd-fouderock.paths.zOHziuX1tPzblJcq
   proficiencies:
     daggers: false
     swords: false

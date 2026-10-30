@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: <h1>Description</h1><p>1 semaine</p>
+  description: "<p><strong>Prix :</strong> 5 pc (5 €)</p><h1>Description</h1><p>1 semaine</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -41,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 4
+  price: 0.5
   value: 0
   rarity: common
   properties:

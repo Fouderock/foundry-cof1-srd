@@ -20,7 +20,7 @@ ownership:
   e5k1c8Ak50IsdTnY: 3
 system:
   key: ''
-  description: ''
+  description: "<p><strong>Prix :</strong> 2 pc (2 €)</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -43,7 +43,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 0
+  price: 0.2
   value: 0
   rarity: rare
   properties:

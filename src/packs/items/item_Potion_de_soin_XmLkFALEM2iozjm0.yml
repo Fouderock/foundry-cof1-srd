@@ -20,7 +20,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: <h1>Description</h1><p>Soigne 1d8 PV (Soumis à autorisation du MJ).</p>
+  description: "<p><strong>Prix :</strong> 1 po (100 €)</p><h1>Description</h1><p>Soigne 1d8 PV (Soumis à autorisation du MJ).</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0

@@ -18,14 +18,9 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <div title="Page 65">
-
-    <p>DM 1d8 à une main @Compendium[cof.items.URC8p7jFy52JmglF]{Ep&eacute;e
-    b&acirc;tarde}, 1d12 à 2 mains
-    @Compendium[cof.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e b&acirc;tarde (2M)}</p>
-
-    </div>
+  description: "<p><strong>Prix :</strong> 6 po (600 €)</p><div title=\"Page 65\">
+<p>DM 1d8 à une main @Compendium[cof.items.URC8p7jFy52JmglF]{Ep&eacute;e b&acirc;tarde}, 1d12 à 2 mains @Compendium[cof.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e b&acirc;tarde (2M)}</p>
+</div>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -48,7 +43,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 9
+  price: 60
   value: 0
   rarity: common
   properties:

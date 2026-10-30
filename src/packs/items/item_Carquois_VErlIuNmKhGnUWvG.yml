@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: <h1>Description</h1><p>20 flèches.</p>
+  description: "<p><strong>Prix :</strong> 1 po (100 €)</p><h1>Description</h1><p>20 flèches.</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -41,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 3
+  price: 10
   value: 0
   rarity: common
   properties:

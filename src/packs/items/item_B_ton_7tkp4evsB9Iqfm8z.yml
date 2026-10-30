@@ -20,18 +20,11 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <div>
-
-    <h2>Bâton ou bâton ferré</h2>
-
-    <p>Le bâton correspond à une arme improvisée, comme une branche ramassée
-    en forêt. Lorsqu'un personnage sait utiliser le bâton, il sait
-    indifféremment utiliser le bâton et le bâton ferré.</p>
-
-    <p>&nbsp;</p>
-
-    </div>
+  description: "<p><strong>Prix :</strong> 5 pc (5 €)</p><div>
+<h2>Bâton ou bâton ferré</h2>
+<p>Le bâton correspond à une arme improvisée, comme une branche ramassée en forêt. Lorsqu'un personnage sait utiliser le bâton, il sait indifféremment utiliser le bâton et le bâton ferré.</p>
+<p>&nbsp;</p>
+</div>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -54,7 +47,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 0
+  price: 0.5
   value: 0
   rarity: common
   properties:

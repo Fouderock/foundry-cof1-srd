@@ -18,9 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <h1>Description</h1><p>Très rare. Fabriquée sur mesure, seul le profil de
-    Chevalier est formé au port de cette armure au niveau 1.</p>
+  description: "<p><strong>Prix :</strong> 50 po (5000 €)</p><h1>Description</h1><p>Très rare. Fabriquée sur mesure, seul le profil de Chevalier est formé au port de cette armure au niveau 1.</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 8
@@ -43,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 200
+  price: 500
   value: 0
   rarity: very-rare
   properties:

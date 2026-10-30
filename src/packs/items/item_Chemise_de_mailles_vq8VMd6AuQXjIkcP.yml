@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: ''
+  description: "<p><strong>Prix :</strong> 10 po (1000 €)</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 4
@@ -41,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 15
+  price: 100
   value: 0
   rarity: common
   properties:

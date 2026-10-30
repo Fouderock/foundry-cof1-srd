@@ -20,7 +20,7 @@ ownership:
   e5k1c8Ak50IsdTnY: 3
 system:
   key: ''
-  description: ''
+  description: "<p><strong>Prix :</strong> 1 pa 5 pc (15 €)</p>"
   source: Vengeance
   moduleData: {}
   def: 0
@@ -43,7 +43,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 0
+  price: 1.5
   value: 0
   rarity: common
   properties:

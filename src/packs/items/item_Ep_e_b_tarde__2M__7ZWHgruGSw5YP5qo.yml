@@ -20,14 +20,9 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <p>DM</p>
-
-    <p>1d8 à une main @Compendium[cof-srd-fouderock.items.URC8p7jFy52JmglF]{Ep&eacute;e
-    b&acirc;tarde},</p>
-
-    <p>1d12 à 2 mains @Compendium[cof-srd-fouderock.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e
-    b&acirc;tarde (2M)}</p>
+  description: "<p><strong>Prix :</strong> 6 po (600 €)</p><p>DM</p>
+<p>1d8 à une main @Compendium[cof-srd-fouderock.items.URC8p7jFy52JmglF]{Ep&eacute;e b&acirc;tarde},</p>
+<p>1d12 à 2 mains @Compendium[cof-srd-fouderock.items.7ZWHgruGSw5YP5qo]{Ep&eacute;e b&acirc;tarde (2M)}</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -50,7 +45,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 9
+  price: 60
   value: 9
   rarity: common
   properties:

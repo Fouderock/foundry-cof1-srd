@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: '<h1>Description</h1><p>Durée : 6 heures</p>'
+  description: "<p><strong>Prix :</strong> 2 pc (2 €)</p><h1>Description</h1><p>Durée : 6 heures</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -41,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 1
+  price: 0.2
   value: 0
   rarity: common
   properties:

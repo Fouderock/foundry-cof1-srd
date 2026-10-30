@@ -18,9 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <h1>Description</h1><p>Sans ces outils, une pénalité de -10 est infligée au
-    test de DEX</p>
+  description: "<p><strong>Prix :</strong> 3 po (300 €)</p><h1>Description</h1><p>Sans ces outils, une pénalité de -10 est infligée au test de DEX</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -43,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 5
+  price: 30
   value: 0
   rarity: common
   properties:

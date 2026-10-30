@@ -20,7 +20,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: <h1>Description</h1><p>Critique sur 19-20</p>
+  description: "<p><strong>Prix :</strong> 5 po (500 €)</p><h1>Description</h1><p>Critique sur 19-20</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0
@@ -43,7 +43,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 6
+  price: 50
   value: 6
   rarity: common
   properties:

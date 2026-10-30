@@ -18,7 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: <h1>Description</h1><p>Dégâts temporaires</p>
+  description: "<p><strong>Prix :</strong> 0 pc (0 €)</p><h1>Description</h1><p>Dégâts temporaires</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 0

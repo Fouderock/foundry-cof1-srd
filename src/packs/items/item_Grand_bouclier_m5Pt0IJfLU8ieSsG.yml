@@ -18,9 +18,7 @@ ownership:
   2iWYjvpZCb5uRmvI: 3
 system:
   key: ''
-  description: >-
-    <h1>Description</h1><p>La <strong>DEF</strong> s'additionne à celle de
-    l'armure.</p>
+  description: "<p><strong>Prix :</strong> 2 po (200 €)</p><h1>Description</h1><p>La <strong>DEF</strong> s'additionne à celle de l'armure.</p>"
   source: Chroniques Oubliées DRS
   moduleData: {}
   def: 2
@@ -43,7 +41,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 4
+  price: 20
   value: 0
   rarity: common
   properties:

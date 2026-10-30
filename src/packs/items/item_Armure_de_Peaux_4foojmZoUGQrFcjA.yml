@@ -20,7 +20,7 @@ ownership:
   e5k1c8Ak50IsdTnY: 3
 system:
   key: ''
-  description: ''
+  description: "<p><strong>Prix :</strong> 1 po 5 pa (150 €)</p>"
   source: N.C.
   moduleData: {}
   def: 2
@@ -43,7 +43,7 @@ system:
   qty: 1
   stacksize: null
   deleteWhen0: false
-  price: 3
+  price: 15
   value: 0
   rarity: common
   properties:
